@@ -977,14 +977,14 @@
                     
 
 <a href="https://www.wg-gesucht.de/kreditvergleich.html" target="_blank" rel="nofollow" onclick="ga('send', 'event', 'Tarifcheck', 'Click_Textlink', 'detailed_view_offer');">
-                        Überbrückungskredit wegen Corona gesucht? Jetzt vergleichen &amp; sparen, schon ab 0,68 % Zinsen.
+                        Überbrückungskredit zu Top-Konditionen - schon ab 0,68 % Zinsen, schnelle Auszahlung.
             </a>
 <small class="position-relative" style="font-size: 0.6em; bottom: 5px;">1</small>
 
                 </div>
             
                             <b class="noprint" style="color: #218700;">
-                    Online: 2 Tage
+                    Online: 17 Stunden
                 </b>
                     </p>
     </div>
@@ -997,7 +997,7 @@
             
 
 <a href="https://www.wg-gesucht.de/kreditvergleich.html" target="_blank" rel="nofollow" onclick="ga('send', 'event', 'Tarifcheck', 'Click_Textlink', 'detailed_view_offer');">
-                        Überbrückungskredit wegen Corona gesucht? Jetzt vergleichen &amp; sparen, schon ab 0,68 % Zinsen.
+                        Überbrückungskredit zu Top-Konditionen - schon ab 0,68 % Zinsen, schnelle Auszahlung.
             </a>
 <small class="position-relative" style="font-size: 0.6em; bottom: 5px;">1</small>
 
@@ -1715,7 +1715,7 @@ Sara und Judith
                                                             Angebot online:
                                                     </b>
                     </div>
-                    <div class="col-xs-6 text-right" style="color: #218700;"> 2 Tage</div>
+                    <div class="col-xs-6 text-right" style="color: #218700;"> 17 Stunden</div>
 
                     <div class="col-xs-6"><b>Anzeigennummer:</b></div>
                     <div class="col-xs-6 text-right">7368387</div>
@@ -1778,7 +1778,7 @@ Sara und Judith
     <div class="row">
         
         <div class="col-sm-4 card_image">
-            <a class="partners" href="https://www.wg-gesucht.de/bonitaetscheck.html?utm_campaign=schufa&amp;utm_source=detail_view_ad" rel="nofollow" target="_blank" style="background-image: url(img/kooperationen/schufa/groups/zertifikat.png);" data-partner_id="1" data-advertiser_partner="Schufa" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="424" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de"></a>
+            <a class="partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" style="background-image: url(img/kooperationen/smava/groups/1.jpg);" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="332" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de"></a>
         </div>
 
         <div class="col-sm-8 card_body">
@@ -1786,27 +1786,35 @@ Sara und Judith
             <div class="row">
                 
                 <div class="col-sm-12">
-                    <h3 class="truncate_title" title="Erfolgschancen erhöhen mit BonitätsCheck">
-                        <a class="partners" href="https://www.wg-gesucht.de/bonitaetscheck.html?utm_campaign=schufa&amp;utm_source=detail_view_ad" rel="nofollow" target="_blank" data-partner_id="1" data-advertiser_partner="Schufa" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="424" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">
-                            Erfolgschancen erhöhen mit BonitätsCheck
+                    <h3 class="truncate_title" title="Keine Küche? Kredite vergleichen &amp; sparen">
+                        <a class="partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="332" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">
+                            Keine Küche? Kredite vergleichen & sparen
                         </a>
                     </h3>
                 </div>
 
                 
                 <div class="col-sm-12">
-                    <span>Jetzt beantragen und für die Besichtigung top vorbereitet sein</span>
+                    <span>auch für hohe Kautionen geeignet, schnelle Auszahlung, günstige Zinsen</span>
 
+                                            <img class="vis" src="img/wgw.gif" alt="weiblich" width="10" height="17">
+                        <img class="vis" src="img/wgm.gif" alt="männlich" width="10" height="17" style="margin-left: 0;">
                                     </div>
             </div>
 
             
             <div class="row middle">
                 <div class="col-xs-8 col-sm-6">
-                                            <b style="font-size: 1.7rem; white-space: initial;">einmalig 29,95 € inkl. MwSt.</b>
+                                            <b>ab</b>
+                                                <b>
+                            <span>
+                                332 &euro;
+                            </span>
+                        </b>
+                        <b></b>
                                     </div>
                 <div class="col-xs-4 col-sm-6">
-                    in 3 Minuten verfügbar
+                    kostenlos und unverbindlich anfragen
                 </div>
             </div>
 
@@ -1814,7 +1822,7 @@ Sara und Judith
             <div class="row" style="padding-top: 60px;">
                 <div class="col-sm-12 flex_space_between">
                     <span></span>
-                    <a class="detailansicht partners" href="https://www.wg-gesucht.de/bonitaetscheck.html?utm_campaign=schufa&amp;utm_source=detail_view_ad" rel="nofollow" target="_blank" style="color: #898989;" data-partner_id="1" data-advertiser_partner="Schufa" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="424" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">Anzeige</a>
+                    <a class="detailansicht partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" style="color: #898989;" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="332" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">Anzeige</a>
                 </div>
             </div>
         </div>
@@ -1991,7 +1999,7 @@ Sara und Judith
                                                             Angebot online:
                                                     </b>
                     </div>
-                    <div class="col-md-6 text-right" style="color: #218700;"> 2 Tage</div>
+                    <div class="col-md-6 text-right" style="color: #218700;"> 17 Stunden</div>
 
                     <div class="col-md-4"><b>Anzeigennummer:</b></div>
                     <div class="col-md-8 text-right"> 7368387</div>
@@ -2170,7 +2178,7 @@ Sara und Judith
                     <b>
                                                     Angebot online:
                                             </b>
-                    <span style="color: #218700;"> 2 Tage</span>
+                    <span style="color: #218700;"> 17 Stunden</span>
                 </div>
             </div>
             <div class="row">
@@ -2263,13 +2271,13 @@ Sara und Judith
 
     <ul class="dropdown-menu dropdown-menu" role="menu">
         <li role="presentation">
-            <a class="language_flag" role="menuitem" href="/wg-zimmer-in-Passau-Innstadt.7368387.html?User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F90.0.4430.212+Safari%2F537.36" onClick="deleteCookie('site_language');">Deutsch</a>
+            <a class="language_flag" role="menuitem" href="/wg-zimmer-in-Passau-Innstadt.7368387.html" onClick="deleteCookie('site_language');">Deutsch</a>
         </li>
         <li role="presentation">
-            <a class="language_flag" role="menuitem" href="/en/wg-zimmer-in-Passau-Innstadt.7368387.html?User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F90.0.4430.212+Safari%2F537.36" onClick="setCookie('site_language', 'en', 3650, '/');">English</a>
+            <a class="language_flag" role="menuitem" href="/en/wg-zimmer-in-Passau-Innstadt.7368387.html" onClick="setCookie('site_language', 'en', 3650, '/');">English</a>
         </li>
         <li role="presentation">
-            <a class="language_flag" role="menuitem" href="/es/wg-zimmer-in-Passau-Innstadt.7368387.html?User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F90.0.4430.212+Safari%2F537.36" onClick="setCookie('site_language', 'es', 3650, '/');">Español</a>
+            <a class="language_flag" role="menuitem" href="/es/wg-zimmer-in-Passau-Innstadt.7368387.html" onClick="setCookie('site_language', 'es', 3650, '/');">Español</a>
         </li>
     </ul>
 </div>
