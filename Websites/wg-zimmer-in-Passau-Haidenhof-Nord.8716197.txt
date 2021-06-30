@@ -9,41 +9,43 @@
 
     <meta name="Author" content="WG-Gesucht.de"/>
 
-    <title>2 Zimmer frei in toller 5er Wg mit Dachterasse - Wohngemeinschaften in Passau </title>
-    <meta name="title" content="2 Zimmer frei in toller 5er Wg mit Dachterasse - Wohngemeinschaften in Passau "/>
+    <title>Helles WG-Zimmer in zentraler Lage - WG Zimmer in Passau-Haidenhof-Nord</title>
+    <meta name="title" content="Helles WG-Zimmer in zentraler Lage - WG Zimmer in Passau-Haidenhof-Nord"/>
 
             <meta name="ROBOTS" content="NOARCHIVE"/>
             
-            <link rel="canonical" href="https://www.wg-gesucht.de/wg-zimmer-in-Passau.7368387.html"/>
+            <link rel="canonical" href="https://www.wg-gesucht.de/wg-zimmer-in-Passau-Haidenhof-Nord.8716197.html"/>
         
         <meta name="pinterest-rich-pin" content="false" />
     
             <meta name="Keywords" content="WG Zimmer Wohnungsmarkt Wohnungssuche Mietwohnung Suche Biete anbieten Angebot Zwischenmiete Wohnung Zimmersuche Wohnung Wohnungen Mietwohnungen Mietgesuche Mietangebote Wohnungsangebote Wohnungsanzeigen Schweiz Österreich Berlin Stuttgart Hamburg München Köln">
-<meta name="Description" content="Da wir zwei (Sara, Judith) mit dem Studium fertig werden, möchten wir unsere Zimmer in unserer wunderbaren 5er-WG in der Innstadt...">
+<meta name="Description" content="Da ich ein Auslandssemester mache, vermiete ich mein möbliertes Zimmer für ein Semester unter.Du würdest in einem schönen, hellen...">
 
     
             <meta name="apple-itunes-app" content="app-id=1084293678">
         <meta name="google-play-app" content="app-id=com.wggesucht.android">
 
-                                    <link rel="image_src" href="https://img.wg-gesucht.de/media/up/2021/12/03d6dbc7049d0d88346d1bfebf62836d9ba6e15a4c3f73cdbe173229b64f4c00_IMG_20210324_153628.sized.jpg"/>
-                <meta property="og:image" itemprop="image" content="https://img.wg-gesucht.de/media/up/2021/12/03d6dbc7049d0d88346d1bfebf62836d9ba6e15a4c3f73cdbe173229b64f4c00_IMG_20210324_153628.sized.jpg"/>
+                                    <link rel="image_src" href="https://img.wg-gesucht.de/media/up/2021/23/b97133630573911f542d80fc7961fe6c3607dcdb94770213c1d36b86c8330835_71936BB9_BFB4_4C32_AEF1_95D47DFF350A.sized.jpeg"/>
+                <meta property="og:image" itemprop="image" content="https://img.wg-gesucht.de/media/up/2021/23/b97133630573911f542d80fc7961fe6c3607dcdb94770213c1d36b86c8330835_71936BB9_BFB4_4C32_AEF1_95D47DFF350A.sized.jpeg"/>
                 <meta property="og:type" content="article" />
-                <meta property="og:title" content="2 Zimmer frei in toller 5er Wg mit Dachterasse"/>
+                <meta property="og:title" content="Helles WG-Zimmer in zentraler Lage"/>
                 <meta property="og:site_name" content="WG-Gesucht.de"/>
                 <meta property="fb:app_id" content="865138980249899"/>
-                <meta property="og:url" content="https://www.wg-gesucht.de/wg-zimmer-in-Passau.7368387.html" />
-                <meta property="og:description" content="Da wir zwei (Sara, Judith) mit dem Studium fertig werden, möchten wir unsere Zimmer in unserer wunderbaren 5er-WG in der Innstadt weiterg..." />
+                <meta property="og:url" content="https://www.wg-gesucht.de/wg-zimmer-in-Passau-Haidenhof-Nord.8716197.html" />
+                <meta property="og:description" content="Da ich ein Auslandssemester mache, vermiete ich mein möbliertes Zimmer für ein Semester unter.
+Du würdest in einem schönen, hellen, 13qm..." />
             
                             <meta name="twitter:card" content="summary_large_image">
                 <meta name="twitter:site" content="">
-                <meta name="twitter:title" content="WG-Gesucht.de - 2 Zimmer frei in toller 5er Wg mit Dachterasse - Wohngemeinschaften in Passau ">
-                <meta name="twitter:description" content="Da wir zwei (Sara, Judith) mit dem Studium fertig werden, möchten wir unsere Zimmer in unserer wunderbaren 5er-WG in der Innstadt weiterg...">
-                <meta name="twitter:image" content="https://img.wg-gesucht.de/media/up/2021/12/03d6dbc7049d0d88346d1bfebf62836d9ba6e15a4c3f73cdbe173229b64f4c00_IMG_20210324_153628.sized.jpg">
+                <meta name="twitter:title" content="WG-Gesucht.de - Helles WG-Zimmer in zentraler Lage - WG Zimmer in Passau-Haidenhof-Nord">
+                <meta name="twitter:description" content="Da ich ein Auslandssemester mache, vermiete ich mein möbliertes Zimmer für ein Semester unter.
+Du würdest in einem schönen, hellen, 13qm...">
+                <meta name="twitter:image" content="https://img.wg-gesucht.de/media/up/2021/23/b97133630573911f542d80fc7961fe6c3607dcdb94770213c1d36b86c8330835_71936BB9_BFB4_4C32_AEF1_95D47DFF350A.sized.jpeg">
                         
                             <link rel="stylesheet" type="text/css" href="/assets/css/featherlight/featherlight.min.tjb1553536894.css" media="screen"/>
                 <link rel="stylesheet" type="text/css" href="/assets/css/croppie.min.tjb1598913401.css" media="screen"/>
                             
-                <link rel="stylesheet" type="text/css" href="/assets/css/wgg-styles-compiled.min.tjb1623102504.css" media="screen"/>
+                <link rel="stylesheet" type="text/css" href="/assets/css/wgg-styles-compiled.min.tjb1624305400.css" media="screen"/>
                     
                 <link rel="stylesheet" type="text/css" href="/assets/css/master_printer-2-3-5.min.css" media="print"/>
 
@@ -128,8 +130,8 @@
                             googletag.pubads().setTargeting("wgg_rubrik", "0");
                                     googletag.pubads().setTargeting("wgg_pos", "angebot_detail");
                             googletag.pubads().setTargeting("wgg_bula", "Bayern");
-                                            googletag.pubads().setTargeting("wgg_rent_type", "0");
-                            googletag.pubads().setTargeting("wgg_rent_type", "0");
+                                            googletag.pubads().setTargeting("wgg_rent_type", "1");
+                            googletag.pubads().setTargeting("wgg_rent_type", "1");
                 googletag.enableServices();
     });
 </script>
@@ -231,7 +233,7 @@
             });
         }
     </script>
-    <script src="/js/lib/Services.lib.tjb1622498979.js"></script>
+    <script src="/js/lib/Services.lib.tjb1623707094.js"></script>
 
     
     <script src="/js/lib/ProfileManipulation.lib.tjb1623102504.js"></script>
@@ -714,7 +716,7 @@
         <div id="ad_blocker_message_container" class="row" style="display: none; margin: 15px 0;">
             <div class="col-xs-12">
                 <div class="alert alert-with-icon alert-warning" role="alert">
-                    <span class="glyphicons glyphicons-warning-sign"></span>
+                    <span class="mdi mdi-alert"></span>
                     <div class="alert-body">
                         <h4 class="headline alert-primary-headline">Aktiver Werbeblocker</h4>
                         <p>
@@ -760,7 +762,7 @@
                     </div>
 
         <div class="col-xs-4 text-center">
-                            <a href="wg-zimmer-in-Passau.104.0.1.0.html#back_to_ad_7368387" onclick="ga('send', 'event', 'ads-pagination', 'click', 'results');">
+                            <a href="wg-zimmer-in-Passau.104.0.1.0.html#back_to_ad_8716197" onclick="ga('send', 'event', 'ads-pagination', 'click', 'results');">
                     Treffer                </a>
                     </div>
 
@@ -791,16 +793,16 @@
 
 <div class="noprint showOnGalleryOnly">
     <h1 id="sliderTopTitle" class="headline headline-detailed-view-title">
-        <div class="mr5 detail-list-fav-button display-inline-block hidden-xs create_favourite" data-ad_id="7368387" data-ad_type="0" data-favourite_status="0" style="z-index: 999; position:relative!important;">
-            <span class="fav-button-7368387 mdi mdi-fw mdi-22px mdi-heart-outline icon-fav-list" aria-hidden="true"></span>
+        <div class="mr5 detail-list-fav-button display-inline-block hidden-xs create_favourite" data-ad_id="8716197" data-ad_type="0" data-favourite_status="0" style="z-index: 999; position:relative!important;">
+            <span class="fav-button-8716197 mdi mdi-fw mdi-22px mdi-heart-outline icon-fav-list" aria-hidden="true"></span>
         </div>
 
-                    <span title="5er WG (3w,0m,0d)" style="margin-right: 6px;">
+                    <span title="3er WG (2w,0m,0d)" style="margin-right: 6px;">
                                     
                     
-<img class="vis" src="/img/wgw.gif" alt="weiblich" width="10" height="17" style="margin-left:0px;"><img class="vis" src="/img/wgw.gif" alt="weiblich" width="10" height="17" style="margin-left:0px;"><img class="vis" src="/img/wgw.gif" alt="weiblich" width="10" height="17" style="margin-left:0px;"><img class="vis" src="/img/wgeg.gif" alt="Mitbewohnerin oder Mitbwohner gesucht" width="10" height="17" style="margin-left:0px;"><img class="vis" src="/img/wgeg.gif" alt="Mitbewohnerin oder Mitbwohner gesucht" width="10" height="17" style="margin-left:0px;">
+<img class="vis" src="/img/wgw.gif" alt="weiblich" width="10" height="17" style="margin-left:0px;"><img class="vis" src="/img/wgw.gif" alt="weiblich" width="10" height="17" style="margin-left:0px;"><img class="vis" src="/img/wgwg.gif" alt="Mitbewohnerin gesucht" width="10" height="17" style="margin-left:0px;">
                             </span>
-                2 Zimmer frei in toller 5er Wg mit Dachterasse
+                Helles WG-Zimmer in zentraler Lage
         <div class="CLR"></div>
     </h1>
 
@@ -836,7 +838,7 @@
         <div class="col-xs-12">&nbsp;</div>
         <div class="col-xs-6 text-center print_inline">
             <h2 class="headline headline-key-facts">
-                                    14m&sup2;
+                                    13m&sup2;
                             </h2>
 
             <h3 class="headline headline-key-facts">
@@ -846,7 +848,7 @@
 
         <div class="col-xs-6 text-center print_inline">
             <h2 class="headline headline-key-facts">
-                                    307&euro;
+                                    405&euro;
                             </h2>
 
             <h3 class="headline headline-key-facts">
@@ -859,7 +861,7 @@
         <hr class="hr-divider">
     </div>
 
-<div class="row" style="margin-top:50px;">
+<div class="row" >
     <div class="col-sm-5">
         <h3 class="headline headline-detailed-view-panel-title">
             Kosten
@@ -872,7 +874,7 @@
                                     </td>
 
                 <td class="col-xs-6 col-sm-4 print_text_left" style="padding: 3px 8px; font-size: 1.5em; vertical-align: bottom;">
-                                           <b>227&euro;</b>
+                                           <b>380&euro;</b>
                                     </td>
             </tr>
 
@@ -886,7 +888,7 @@
                 </td>
 
                 <td>
-                                            <b>80&euro;</b>
+                                            <b>n.a.</b>
                                     </td>
             </tr>
 
@@ -896,30 +898,11 @@
                 </td>
 
                 <td>
-                                            <b>0&euro;</b>
+                                            <b>25&euro;</b>
                                     </td>
             </tr>
 
-                            <tr>
-                    <td>
-                        Kaution:
-                    </td>
-
-                    <td>
-                        <input id="kaution" type="hidden" value="480">
-                        <b>480&euro;</b>
-                    </td>
-                </tr>
             
-                            <tr>
-                    <td>
-                        Ablösevereinbarung:
-                    </td>
-
-                    <td>
-                        <b>60&euro;</b>
-                    </td>
-                </tr>
             
             
             
@@ -943,10 +926,10 @@
             Adresse
         </h3>
         <a href="#mapContainer" style="line-height: 1.5em;font-weight: normal; color: #555; margin-bottom: 23px;">
-                            Kremserstraße 21
+                            Bahnhofstraße 34
                         <br/>
 
-            94032 Passau 
+            94032 Passau Haidenhof-Nord
             <br/>
         </a>
 
@@ -970,21 +953,24 @@
                 <b>01.09.2021</b>
                 <br/>
             
+                            frei bis:
+                <b>01.04.2022</b>
+                <br/>
             
             
             
                             <div class="hidden-sm hidden-md hidden-lg mb10 noprint">
                     
 
-<a href="https://www.wg-gesucht.de/kreditvergleich.html" target="_blank" rel="nofollow" onclick="ga('send', 'event', 'Tarifcheck', 'Click_Textlink', 'detailed_view_offer');">
-                        Überbrückungskredit zu Top-Konditionen - schon ab 0,68 % Zinsen, schnelle Auszahlung.
+<a href="https://www.wg-gesucht.de/kreditvergleich.html" target="_blank" rel="nofollow" onclick="ga('send', 'event', 'Smava', 'Click_Textlink', 'detailed_view_offer');">
+                        Überbrückungskredit wegen Corona gesucht? Jetzt vergleichen &amp; sparen, schon ab 0,68 % Zinsen.
             </a>
 <small class="position-relative" style="font-size: 0.6em; bottom: 5px;">1</small>
 
                 </div>
             
                             <b class="noprint" style="color: #218700;">
-                    Online: 17 Stunden
+                    Online: 1 Tag
                 </b>
                     </p>
     </div>
@@ -996,8 +982,8 @@
         <div class="hidden-xs col-sm-12 text-center mb10 noprint">
             
 
-<a href="https://www.wg-gesucht.de/kreditvergleich.html" target="_blank" rel="nofollow" onclick="ga('send', 'event', 'Tarifcheck', 'Click_Textlink', 'detailed_view_offer');">
-                        Überbrückungskredit zu Top-Konditionen - schon ab 0,68 % Zinsen, schnelle Auszahlung.
+<a href="https://www.wg-gesucht.de/kreditvergleich.html" target="_blank" rel="nofollow" onclick="ga('send', 'event', 'Smava', 'Click_Textlink', 'detailed_view_offer');">
+                        Überbrückungskredit wegen Corona gesucht? Jetzt vergleichen &amp; sparen, schon ab 0,68 % Zinsen.
             </a>
 <small class="position-relative" style="font-size: 0.6em; bottom: 5px;">1</small>
 
@@ -1018,7 +1004,7 @@
 <script src="/js/external_libraries/clipboard.min.js"></script>
 <script>
     $(function() {
-        var current_url = "https://www.wg-gesucht.de//7368387.html";
+        var current_url = "https://www.wg-gesucht.de//8716197.html";
 
         // Using the clipboard.js library in order for the copy to clipboard action to work in Safari too
         var clipboard = new Clipboard('#copy_url_to_clipboard', {
@@ -1056,18 +1042,19 @@
 
             <ul class="ul-detailed-view-datasheet print_text_left">
                 <li>
-                                            14m&sup2;
+                                            13m&sup2;
                     
-                    Zimmer in 5er WG 
+                    Zimmer in 3er WG 
                 </li>
 
                 <li>
+                                            Wohnungsgröße: 100m&sup2;
                                     </li>
 
                 <li>
-                    5er WG
+                    3er WG
                                                                         (
-                                                            3
+                                                            2
                                                                     Frauen
                                                             
                             
@@ -1077,15 +1064,12 @@
                                                             </li>
 
                 <li>
-                                            Bewohneralter: 22 bis 31 Jahre
+                                            Bewohneralter: ab 22 Jahre
                                     </li>
 
-                                    <li>
-                                                    Rauchen auf dem Balkon erlaubt
-                                            </li>
                 
                                     <li>
-                        Studenten-WG, Berufstätigen-WG, keine Zweck-WG
+                        Studenten-WG, keine Zweck-WG
                     </li>
                 
                 <li>
@@ -1096,15 +1080,7 @@
                                                                     </span>
                                                                                 <img class="flgS f-en" src="img/d.gif" alt="Englisch" title="Englisch"/>
                                                             <span id="sprache_print">
-                                                                            Englisch,
-                                                                    </span>
-                                                                                <img class="flgS f-es" src="img/d.gif" alt="Spanisch" title="Spanisch"/>
-                                                            <span id="sprache_print">
-                                                                            Spanisch,
-                                                                    </span>
-                                                                                <img class="flgS f-pt" src="img/d.gif" alt="Portugiesisch" title="Portugiesisch"/>
-                                                            <span id="sprache_print">
-                                                                            Portugiesisch
+                                                                            Englisch
                                                                     </span>
                                                                                         </li>
             </ul>
@@ -1117,13 +1093,12 @@
 
             <ul class="ul-detailed-view-datasheet print_text_left">
                                     <li>
-                                                    Geschlecht egal
+                        
+                                                    Frau
                         
                         
                         
-                        
-                                                                                    zwischen 20 und 35 Jahren
-                                                                        </li>
+                                            </li>
 
                     
                                                 </ul>
@@ -1148,7 +1123,7 @@
                         <span class="mdi mdi-city mdi-36px noprint"></span>
                         <br/>
 
-                                                                                                Reihenhaus                                                                                                                                            </div>
+                                                                        Neubau                                                                                                                                                                    </div>
 
                     
                                     
@@ -1166,7 +1141,7 @@
                         <span class="mdi mdi-bed-double-outline mdi-36px noprint"></span>
                         <br/>
 
-                        teilmöbliert                    </div>
+                        möbliert                    </div>
 
                     
                                             <div class="clearfix visible-sm-block visible-md-block visible-lg-block noprint" style="margin-bottom:30px;"></div>
@@ -1181,29 +1156,13 @@
                                             <div class="clearfix visible-xs-block noprint" style="margin-bottom:20px;"></div>
                                             
                                     
-                                                                            <div class="col-xs-6 col-sm-4 text-center print_text_left">
-                        <span class="mdi mdi-wifi mdi-36px noprint"></span>
-                        <br/>
-
-                        WLAN                                            </div>
-
-                    
-                                    
-                                                                            <div class="col-xs-6 col-sm-4 text-center print_text_left">
-                        <span class="mdi mdi-monitor mdi-36px noprint"></span>
-                        <br/>
-
-                        Kabel, Satellit                    </div>
-
-                                            <div class="clearfix visible-xs-block noprint" style="margin-bottom:20px;"></div>
-                                            
-                                            <div class="clearfix visible-sm-block visible-md-block visible-lg-block noprint" style="margin-bottom:30px;"></div>
-                                                            
+                
+                
                                                                             <div class="col-xs-6 col-sm-4 text-center print_text_left">
                         <span class="mdi mdi-layers mdi-36px noprint"></span>
                         <br/>
 
-                                                Laminat                    </div>
+                                                Fliesen, Fußbodenheizung                    </div>
 
                     
                                     
@@ -1212,26 +1171,26 @@
                         <span class="mdi mdi-fire mdi-36px noprint"></span>
                         <br/>
 
-                                                Gasheizung                                                                                                                    </div>
+                        Zentralheizung                                                                                                                                            </div>
 
                                             <div class="clearfix visible-xs-block noprint" style="margin-bottom:20px;"></div>
                                             
-                                    
+                                            <div class="clearfix visible-sm-block visible-md-block visible-lg-block noprint" style="margin-bottom:30px;"></div>
+                                                            
                                                                             <div class="col-xs-6 col-sm-4 text-center print_text_left">
                         <span class="mdi mdi-car mdi-36px noprint"></span>
                         <br/>
 
-                        gute Parkmöglichkeiten                                                                                                                    </div>
+                                                                        Bewohnerparken                                                                    </div>
 
                     
-                                            <div class="clearfix visible-sm-block visible-md-block visible-lg-block noprint" style="margin-bottom:30px;"></div>
-                                                            
+                                    
                                                                             <div class="col-xs-6 col-sm-4 text-center print_text_left">
                         <span class="mdi mdi-bus mdi-36px noprint"></span>
                         <br/>
 
-                        2
-                                                    Minuten
+                        1
+                                                    Minute
                                                 zu Fuß entfernt
                     </div>
 
@@ -1242,10 +1201,11 @@
                         <span class="mdi mdi-folder mdi-36px noprint"></span>
                         <br/>
 
-                                                Waschmaschine, Spülmaschine, Terrasse, Garten, Keller, Fahrradkeller                    </div>
+                                                Waschmaschine, Spülmaschine, Balkon, Keller, Fahrradkeller, Aufzug                    </div>
 
                    
-                                    
+                                            <div class="clearfix visible-sm-block visible-md-block visible-lg-block noprint" style="margin-bottom:30px;"></div>
+                                                            
                             </div>
         </div>
     </div>
@@ -1308,33 +1268,25 @@
                                                     Zimmer
                                             </h3>
                                         <p id="freitext_0_content" class="freitext">
-                        Da wir zwei (Sara, Judith) mit dem Studium fertig werden, möchten wir unsere Zimmer in unserer wunderbaren 5er-WG in der Innstadt weitergeben.  <br />
-<br />
-Frei werden ab Mitte Sept. 2 Zimmer, die sich in der Größe nicht viel unterscheiden und auch im Preis nur minimal auseinander liegen. Das eine liegt im Obergeschoss, lichtdurchflutet, ist etwas größer und minimal teurer. Das andere ist im Erdgeschoss, auf Gartenebene, minimal kleiner, minimal weniger in der Miete und hat eine kuschelige Atmosphäre. <br />
-Du hättest also die Möglichkeit bei einer Besichtigung, dir beide anzuschauen und dich zu entscheiden, solange beide noch frei sind(:<br />
-<br />
-Entweder liegt dein neues Zimmer im 1. Stock unseres Hauses, direkt gegenüber von der Dachterasse. Es misst etwa 14 m² und ist ein Südzimmer, daher immer schön hell. Als Kleiderschrank steht dir ein großer Einbauschrank im Flur zur Verfügung. Rolläden ermöglichen es dir, das Zimmer komplett abzudunkeln. Das Haus wurde erst vor kurzem komplett renoviert, sodass wir eine moderne Küche mit Spülmaschine haben. Das große 70er-Jahre Bad teilst du dir mit 2 weiteren Mitbewohnerinnen. <br />
-<br />
-Oder du ziehst in Nähe des Gartens, hast ungefähr 13,5 m² und zwei große Fenster nach draußen. Die Miete hier wäre 213 plus Nebenkosten, welche im Moment ungefähr 80 Euro sind (Müll, W-Lan, Wasser, ...), also 293,-. <br />
-Es wäre fast komplett möbeliert, wofür ich auch keine großen Beträge verlangen würde, da ich es selbst wild zusammengewürfelt habe, als ich vor drei Jahren eingezogen bin(: <br />
-Du teilst dir das Bad mit einer neuen Mitbewohnerin, der Philomena, die ebenfalls ab dem WiSe anfangen wird zu studieren, European Studies. Das Bad ist neu renoviert, also kein 70er Jahre Stil. Waschküche und zwei andere Räume zum benutzen finden sich unten auch noch vor. <br />
-<br />
-Das besondere an unserem Haus ist, dass wir sehr viel Platz haben: Garage, 2 Kellerräume, Speisekammer, Waschküche, 3 Bäder, 2 Balkone, ein kleiner Garten und unsere Dachterasse. Hier stehen ein paar Gartenmöbel und man kann wunderbar frühstücken oder ein Bier mit Domblick genießen.
+                        Da ich ein Auslandssemester mache, vermiete ich mein möbliertes Zimmer für ein Semester unter.<br />
+Du würdest in einem schönen, hellen, 13qm großen Zimmer wohnen, direkt gegenüber vom Bahnhof! Ich würde alle Möbel und das Bett da lassen, somit kannst du dir es direkt gemütlich machen ohne Möbel zu schleppen :)<br />
+Die Wohnung hat insgesamt 100qm, inklusive einer neu eingebauten Küche, Spülmaschine und Fußbodenheizung. Generell ist die Wohnung sehr modern.<br />
+Das große Wohnzimmer und im Sommer der Balkon werden gerne für gemeinsame Abende genutzt:)<br />
+Außerdem gibt es zwei Bäder, womit man sich so gut wie nie in die Quere kommt.
                     </p>
                 </div>
             
             
-                <div class="noprint pull-left" style="margin:11px 11px 11px 0;"><div id="540751961_mr_freitext_01"></div></div><div class="CLR"></div>
+                
 
                 <div id="freitext_1" class="wordWrap" style="margin:6px 0 6px 1px;">
                                         <h3 class="headline headline-default">
                         Lage
                     </h3>
                                         <p id="freitext_1_content" class="freitext">
-                        Eine Bushaltestelle befindet sich etwa drei Minuten vom Haus entfernt und die Linie 3/4 fährt dort regelmäßig, sodass man innerhalb von 8 Minuten mit dem Bus an der Uni und im Stadtzentrum ist.<br />
-Auch zu Fuß oder mit dem Fahrrad kann man sehr schön am Inn entlang fahren (zur Uni dauert das mit dem Fahrrad ca. 10 Minuten und zu Fuß 25 Minuten).<br />
-Zudem gibt es gute Einkaufsmöglichkeiten: Norma und Edeka sind fußläufig in etwa 5-10 Minuten zu erreichen, ein Rossman wird gebaut und Getränkemärkte gitb es auch. Die studentische Innstadt hat einige Kneipen und Restaurants zu bieten, was aktuell leider weniger relevant war, aber das Leben in Passau geht wieder los!<br />
-Es gibt sehr schöne Spaziermöglichkeiten und einen Innstrand ganz in der Nähe.
+                        Die Wohnung liegt sehr zentral und direkt gegenüber vom Bahnhof.<br />
+Somit hast du nur wenige Gehminuten zur Uni (ca. 15 Minuten) sowie zum ZOB und zur Altstadt (5-10 Minuten). <br />
+Da der Bahnhof auch nur einen Katzensprung entfernt ist, musst du dein Gepäck auch nicht weit tragen ;)
                     </p>
                 </div>
             
@@ -1346,30 +1298,25 @@ Es gibt sehr schöne Spaziermöglichkeiten und einen Innstrand ganz in der Nähe
                         WG-Leben
                     </h3>
                                         <p id="freitext_2_content" class="freitext">
-                        Unsere Mitbewohnerin Sica (22) studiert KuWi im 4. Semester und Pam (31) schreibt ihre MuK-Masterarbeit und arbeitet an der Uni. Neu einziehen wird zum Wintersemester Philomena (20, European Studies). Ein weiteres Zimmer wird wie gesagt auch noch frei, da Judith, eine weitere Mitbewohnerin, auch mit ihrem Bachelor fertig wird. Du kannst dir also ggf. aussuchen in welches der beiden freien Zimmer du ziehst. <br />
-<br />
-Wir sind sehr gut befreundet und absolut keine Zweck-WG. In der Corona-Zeit wurde viel zusammen gekocht, gelernt, Filme geschaut, Sport gemacht, gegärtnert, spaziert etc. Gerade im Sommer ist die Dachterasse der Mittelpunkt des Wg-Lebens. Dort haben wir letzten Sommer Gemüse und Blumen gepflanzt. Wir haben außerdem einen Grill, einen Tischkicker und die Möglichkeit, eine Hängematte aufzuhängen. Es gibt einen Putzplan, der in der Regel auch eingehalten wird. Wir suchen eine offene Person, die Lust hat am Wg-Leben teilzunehmen. <br />
-Wir beschreiben unser Verhältnis als familiär und würden die WG gern mit dem Wissen verlassen, dass sie genau so weitergeführt wird.
+                        Du würdest mit zwei super netten Mädels zusammen wohnen, Karin (22) und Nina (22), die beide im 6. Semester BAE studieren.<br />
+Wir sind aufgeschlossene und reiseliebende Menschen und machen gerne entspannte Filmabende, kochen gemeinsam und gehen auch öfters zusammen feiern (soweit das möglich ist)
                     </p>
                 </div>
             
             
-                
+                <div class="noprint pull-left" style="margin:11px 11px 11px 0;"><div id="540751961_mr_freitext_01"></div></div><div class="CLR"></div>
 
                 <div id="freitext_3" class="wordWrap" style="margin:6px 0 6px 1px;">
                                         <h3 class="headline headline-default">
                         Sonstiges
                     </h3>
                                         <p id="freitext_3_content" class="freitext">
-                        Das Bett und ggf. weitere Möbel könntest du bei Interesse übernehmen, das gilt für beide Zimmer. Wir können da einfach über alles reden, wenn wir uns kennenlernen(: <br />
-Das Einzugsdatum ist einigermaßen flexibel. Am liebsten wäre uns Anfang September, etwas früher ist evtl. auch möglich.<br />
+                        Wenn du dich wohlfühlst und es passt gäbe es nach dem Semester die Möglichkeit das Zimmer zu übernehmen.<br />
 <br />
-Ablöse für einige Möbel, die im Haus während der Zeit dazukamen, würde auf dich zukommen und wie gesagt, über eventuelle Möbelübernahmen in den Zimmern können wir einfach quatschen. <br />
+Es gibt die Möglichkeit für 50€ einen Parkplatz zu mieten, aber es ist eigentlich auch immer möglich 10 Minuten weit weg von der Wohnung in einer Seitenstraße umsonst zu parken.<br />
+Ansonsten lässt sich ein Fahrrad auch gut in unserem Fahrradkeller abstellen :)<br />
 <br />
-Wenn du Interesse hast, melde dich gerne per WhatsApp bei mir (Sara), dann können wir einen Termin mit der WG, zur Besichtigung und zum Kennenlernen, ausmachen. Wir freuen uns darauf!<br />
-<br />
-Liebe Grüße<br />
-Sara und Judith
+Bei Interesse kannst du dich auch gerne bei der Nummer (siehe unten) über Whatsapp melden
                     </p>
                 </div>
                         </div>
@@ -1446,7 +1393,7 @@ Sara und Judith
         <div id="rent_wrapper" style="left: 6%;">
             <div class="basic_facts_top_part">
                 <label class="amount">
-                                            n.a.
+                                            100m&sup2;
                                     </label>
 
                 <label class="description">
@@ -1456,7 +1403,7 @@ Sara und Judith
 
             <div class="basic_facts_bottom_part">
                 <label class="amount">
-                                                                        14m&sup2;
+                                                                        13m&sup2;
                                                             </label>
 
                 <label class="description">
@@ -1470,7 +1417,7 @@ Sara und Judith
             <div class="basic_facts_top_part" style="padding: 57px 0; position: relative;">
                 <div id="misc_costs" class="graph_bar" style="height: 15px;">
                     <label class="graph_amount">
-                                                    n.a.
+                                                    25&euro;
                                             </label>
 
                     <label class="graph_description">
@@ -1480,7 +1427,7 @@ Sara und Judith
 
                 <div id="utilities_costs" class="graph_bar" style="margin: 0 auto; left: 0; right: 0; height: 30px;">
                     <label class="graph_amount">
-                                                    80&euro;
+                                                    n.a.
                                             </label>
 
                     <label class="graph_description">
@@ -1490,7 +1437,7 @@ Sara und Judith
 
                 <div id="rent" class="graph_bar" style="right: 0; height: 80px;">
                     <label class="graph_amount">
-                        227&euro;
+                        380&euro;
                     </label>
 
                     <label class="graph_description">
@@ -1501,7 +1448,7 @@ Sara und Judith
 
             <div class="basic_facts_bottom_part">
                 <label class="amount">
-                    307&euro;
+                    405&euro;
                 </label>
 
                 <label class="description">
@@ -1514,7 +1461,7 @@ Sara und Judith
         <div id="provision_equipment_wrapper" style="left: 59%; width: 38%; bottom: 12%;">
             <div class="provision-equipment" style="padding: 22px 11px; margin-right: 11px;">
                 <label class="amount">
-                                            480&euro;
+                                            n.a.
                                     </label>
 
                 <label class="description" style="font-size: 1rem;">
@@ -1524,7 +1471,7 @@ Sara und Judith
 
             <div class="provision-equipment" style="padding: 23px 11px;">
                 <label class="amount">
-                                            60&euro;
+                                            n.a.
                                     </label>
 
                 <label class="description" style="font-size: 0.9rem;">
@@ -1541,102 +1488,6 @@ Sara und Judith
 </div>
 
 
-    
-<div id="map_marker_info_7368387" class="display-none">
-    <div class="map_card">
-        <div class="row">
-            <div class="col-sm-8">
-                <div class="row noprint">
-                    
-                    <div class="col-xs-12">
-                        <h3 class="truncate_title noprint">
-                            2 Zimmer frei in toller 5er Wg mit Dachterasse
-                        </h3>
-                    </div>
-                </div>
-
-                <div class="row noprint">
-                    
-                    <div class="col-xs-12 map_card_details_truncate">
-                                                    <b>Zimmer in 5er WG </b><span> | </span>
-                        
-                                                    <b>14 m&sup2;</b><span> | </span>
-                        
-                                                                                    <b>307 &euro;</b>
-                                                                        </div>
-                    <div class="col-xs-12">
-                        <a class="cursor-pointer" href="wg-zimmer-in-Passau.7368387.html" target="_blank" rel="noopener noreferrer">
-                            Zur Anzeige
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            
-            <div class="col-sm-4">
-                <a href="/wg-zimmer-in-Passau.7368387.html" target="_blank" rel="noopener noreferrer">
-                                            <img src="https://img.wg-gesucht.de/media/up/2021/12/03d6dbc7049d0d88346d1bfebf62836d9ba6e15a4c3f73cdbe173229b64f4c00_IMG_20210324_153628.small.jpg" alt="" style="align-items: center;object-fit: cover;height: 100px;width: 100%;">
-                                    </a>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-    <script>
-        $(function() {
-            var map_config = {
-                map_id:                            "map",
-                osm_map_tiles_url:                 "https://www.wg-gesucht.de/api/tile/{z}/{x}/{y}.png",
-                markers:                           [{"lat":48.569555,"lng":13.485867,"icon":{"className":"map_marker_icon_center","iconSize":[60,60],"iconAnchor":[30,51],"popupAnchor":[1,-35]},"offer_id":"7368387","popup_id":"map_marker_info_7368387"}],
-                language:                          site_language,
-                display_surrounding_ads_id:        "display_surrounding_ads",
-                hide_surrounding_ads_id:           "hide_surrounding_ads",
-                surrounding_ads_popups_wrapper_id: "surrounding_offers_popups_wrapper",
-                min_log_level:                     "5"
-            };
-
-            window.osm_map = OsmMap(map_config);
-        });
-    </script>
-
-    
-    <div id="mapContainer" class="row noprint">
-        <div class="col-xs-12">
-            <h3 class="headline headline-detailed-view-panel-title">
-                Karte
-            </h3>
-        </div>
-
-        <div id="map"></div>
-
-        <div class="col-xs-12">
-            <button id="display_surrounding_ads" class="btn btn-md wgg_blue mb10 mt10" onclick="osm_map.displaySurroundingAds();" disabled>
-                Angebote in der Umgebung einblenden
-            </button>
-
-            <button id="hide_surrounding_ads" class="btn btn-md wgg_blue mb10 mt10 display-none" onclick="osm_map.hideSurroundingAds();">
-                Angebote in der Umgebung ausblenden
-            </button>
-        </div>
-    </div>
-
-    <div id="surrounding_offers_popups_wrapper"></div>
-
-    <div class="CLR"></div>
-
-    <div class="row noprint">
-        <hr class="hr-divider"/>
-    </div>
-
-    <script src="/js/external_libraries/leaflet/leaflet.min.js"></script>
-    <link rel="stylesheet" href="/assets/css/leaflet/leaflet.css"/>
-    <script src="/js/external_libraries/leaflet/Leaflet.fullscreen.min.js"></script>
-    <link rel="stylesheet" href="/assets/css/leaflet/leaflet.fullscreen.css"/>
-    <script src="/js/external_libraries/leaflet/leaflet.markercluster.js"></script>
-    <link rel="stylesheet" href="/assets/css/leaflet/MarkerCluster.css"/>
-    <script src="/js/external_libraries/leaflet/leaflet-messagebox.min.js"></script>
-    <script src="/js/Asset/OsmMap.class.tjb1623102504.js"></script>
 
 
     
@@ -1652,7 +1503,7 @@ Sara und Judith
                         <div class="row">
                             <div class="col-md-12">
                                 <b>Name:</b>
-                                                                                                            <img class="position-relative vis" src="t_ph.html?qrup=grap36&amp;id=7368387" alt="" style="bottom: 2px; max-width: 100%;"/>
+                                                                                                            <img class="position-relative vis" src="t_ph.html?qrup=grap36&amp;id=8716197" alt="" style="bottom: 2px; max-width: 100%;"/>
                                                                     
                                 
                                 <br>
@@ -1665,13 +1516,13 @@ Sara und Judith
                         <div class="row">
                             <div class="col-md-12">
                                 <b>Mitglied seit:</b>
-                                Mai  2018
+                                Juli  2019
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-12">
                                 <b>Anzeigennummer:</b>
-                                7368387
+                                8716197
                                 <br/><br/>
                             </div>
                         </div>
@@ -1687,14 +1538,14 @@ Sara und Judith
 
                     <div class="col-xs-8 col-sm-10">
                         <div class="mb10">
-                                                                                                <img class="vis" src="t_ph.html?qrup=grap36&amp;id=7368387" alt=""/>
+                                                                                                <img class="vis" src="t_ph.html?qrup=grap36&amp;id=8716197" alt=""/>
                                                             
                                                     </div>
 
                                                     <b>Mitglied seit:</b>
                             </br>
 
-                            Mai  2018
+                            Juli  2019
                             </br>
                         
                         
@@ -1715,24 +1566,25 @@ Sara und Judith
                                                             Angebot online:
                                                     </b>
                     </div>
-                    <div class="col-xs-6 text-right" style="color: #218700;"> 17 Stunden</div>
+                    <div class="col-xs-6 text-right" style="color: #218700;"> 1 Tag</div>
 
                     <div class="col-xs-6"><b>Anzeigennummer:</b></div>
-                    <div class="col-xs-6 text-right">7368387</div>
+                    <div class="col-xs-6 text-right">8716197</div>
                 </div>
 
                                                                                         <div class="col-md-5 hidden-xs pull-right noprint">
-                                                                                                            <a id="mailform" class="btn btn-md btn-block wgg_orange" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau.7368387.html" rel="nofollow">
-                                            <span class="mdi mdi-16px mdi-pad mdi-lh mdi-vm mdi-fw mdi-email" aria-hidden="true"></span> &nbsp; Nachricht senden
+                                                                                                            <a id="mailform" class="btn btn-md btn-block wgg_orange" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau-Haidenhof-Nord.8716197.html" rel="nofollow">
+                                            <span class="mdi mdi-16px mdi-pad mdi-lh mdi-vm mdi-fw mdi-email" aria-hidden="true"></span>
+                                            Nachricht senden
                                         </a>
                                                                                                 </div>
                                                                 <div class="col-md-5 hidden-xs pull-left noprint">
-                                                                                    <a class="btn btn-fb btn-md btn-block mb5" onClick="ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau.7368387.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau.7368387.html" rel="nofollow">
-                                    <span class="mdi mdi-18px mdi-lh mdi-share" aria-hidden="true"></span> Auf Facebook teilen
+                                                                                    <a class="btn btn-fb btn-md btn-block mb5" onClick="ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Haidenhof-Nord.8716197.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Haidenhof-Nord.8716197.html" rel="nofollow">
+                                    <span class="mdi mdi-18px mdi-lh mdi-share" aria-hidden="true"></span>
+                                    Auf Facebook teilen
                                 </a>
                                                                         </div>
-
-                                                        </div>
+                                    </div>
     </div>
 
     </div>
@@ -1751,7 +1603,7 @@ Sara und Judith
     <div class="text-center noprint col-xs-12">
         <div class="btn-group" role="group" aria-label="...">
                             <div class="display-inline-block">
-                    <a title="Anzeige beanstanden" href="https://www.wg-gesucht.de/qs.html?id=7368387&ad_type=0" rel="nofollow" style="text-decoration: none;">
+                    <a title="Anzeige beanstanden" href="https://www.wg-gesucht.de/qs.html?id=8716197&ad_type=0" rel="nofollow" style="text-decoration: none;">
                         <span class="mdi mdi-bullhorn mdi-18px mdi-lh" aria-hidden="true"></span>
                         <br/>
 
@@ -1778,7 +1630,7 @@ Sara und Judith
     <div class="row">
         
         <div class="col-sm-4 card_image">
-            <a class="partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" style="background-image: url(img/kooperationen/smava/groups/1.jpg);" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="332" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de"></a>
+            <a class="partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" style="background-image: url(img/kooperationen/smava/groups/1.jpg);" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_1_lt_in_detail_ci_de_wg_1_ts_wg_www_trm_dom_dv1_Passau_s_www" data-partner_price="399" data-partner_category="0" data-partner_rent_type="1" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de"></a>
         </div>
 
         <div class="col-sm-8 card_body">
@@ -1787,7 +1639,7 @@ Sara und Judith
                 
                 <div class="col-sm-12">
                     <h3 class="truncate_title" title="Keine Küche? Kredite vergleichen &amp; sparen">
-                        <a class="partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="332" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">
+                        <a class="partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_1_lt_in_detail_ci_de_wg_1_ts_wg_www_trm_dom_dv1_Passau_s_www" data-partner_price="399" data-partner_category="0" data-partner_rent_type="1" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">
                             Keine Küche? Kredite vergleichen & sparen
                         </a>
                     </h3>
@@ -1795,7 +1647,7 @@ Sara und Judith
 
                 
                 <div class="col-sm-12">
-                    <span>auch für hohe Kautionen geeignet, schnelle Auszahlung, günstige Zinsen</span>
+                    <span>Unterkünfte vom 01.07.2021 bis zum 11.07.2021 in Passau</span>
 
                                             <img class="vis" src="img/wgw.gif" alt="weiblich" width="10" height="17">
                         <img class="vis" src="img/wgm.gif" alt="männlich" width="10" height="17" style="margin-left: 0;">
@@ -1808,7 +1660,7 @@ Sara und Judith
                                             <b>ab</b>
                                                 <b>
                             <span>
-                                332 &euro;
+                                399 &euro;
                             </span>
                         </b>
                         <b></b>
@@ -1822,7 +1674,7 @@ Sara und Judith
             <div class="row" style="padding-top: 60px;">
                 <div class="col-sm-12 flex_space_between">
                     <span></span>
-                    <a class="detailansicht partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" style="color: #898989;" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="332" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">Anzeige</a>
+                    <a class="detailansicht partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" style="color: #898989;" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_1_lt_in_detail_ci_de_wg_1_ts_wg_www_trm_dom_dv1_Passau_s_www" data-partner_price="399" data-partner_category="0" data-partner_rent_type="1" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">Anzeige</a>
                 </div>
             </div>
         </div>
@@ -1843,7 +1695,7 @@ Sara und Judith
                     </div>
 
         <div class="col-xs-4 text-center">
-                            <a href="wg-zimmer-in-Passau.104.0.1.0.html#back_to_ad_7368387" onclick="ga('send', 'event', 'ads-pagination', 'click', 'results');">
+                            <a href="wg-zimmer-in-Passau.104.0.1.0.html#back_to_ad_8716197" onclick="ga('send', 'event', 'ads-pagination', 'click', 'results');">
                     Treffer                </a>
                     </div>
 
@@ -1863,21 +1715,21 @@ Sara und Judith
     
 <nav class="navbar navbar-fixed-bottom noprint hidden-sm hidden-md hidden-lg">
     <div class="sticky_mobile_buttons">
-                                    <a class="btn wgg_orange noprint" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau.7368387.html" rel="nofollow" role="button">Nachricht senden</a>
+                                    <a class="btn wgg_orange noprint" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau-Haidenhof-Nord.8716197.html" rel="nofollow" role="button">Nachricht senden</a>
                     
                     <a class="btn wgg_orange noprint" href="#" onclick="$('#contact_modal').modal('show');" rel="nofollow" role="button">Anrufen</a>
         
             </div>
 
     <div class="call-to-action">
-        <a class="btn btn-social btn-fb" onClick="ga('send', 'event', 'Buttons', 'share url', 'facebook button mobile cta');ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau.7368387.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau.7368387.html"></a>
+        <a class="btn btn-social btn-fb" onClick="ga('send', 'event', 'Buttons', 'share url', 'facebook button mobile cta');ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Haidenhof-Nord.8716197.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Haidenhof-Nord.8716197.html"></a>
 
-        <a class="btn btn-social btn-messenger" onClick="shareToFacebookMessenger(); ga('send', 'social', 'facebook_messenger', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau.7368387.html');" rel="nofollow"></a>
+        <a class="btn btn-social btn-messenger" onClick="shareToFacebookMessenger(); ga('send', 'social', 'facebook_messenger', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Haidenhof-Nord.8716197.html');" rel="nofollow"></a>
 
-        <a class="btn btn-social btn-wa" href="https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau.7368387.html" onClick="ga('send', 'social', 'whatsapp', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau.7368387.html');" rel="nofollow" target="_blank"></a>
+        <a class="btn btn-social btn-wa" href="https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Haidenhof-Nord.8716197.html" onClick="ga('send', 'social', 'whatsapp', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Haidenhof-Nord.8716197.html');" rel="nofollow" target="_blank"></a>
 
-        <button class="btn btn-social btn-round wgg_orange create_favourite" data-ad_id="7368387" data-ad_type="0" data-favourite_status="0">
-            <span class="fav-button-7368387 mdi mdi-20px mdi-lh mdi-vm mdi-top1 mdi-heart-outline" aria-hidden="true"><i class="sr-only">Zu Favoriten hinzufügen</i></span>
+        <button class="btn btn-social btn-round wgg_orange create_favourite" data-ad_id="8716197" data-ad_type="0" data-favourite_status="0">
+            <span class="fav-button-8716197 mdi mdi-20px mdi-lh mdi-vm mdi-top1 mdi-heart-outline" aria-hidden="true"><i class="sr-only">Zu Favoriten hinzufügen</i></span>
         </button>
     </div>
 </nav>
@@ -1886,7 +1738,7 @@ Sara und Judith
     // Fix for iOS
     // Safari couldn't read href
     function shareToFacebookMessenger() {
-        var link = "https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau.7368387.html";
+        var link = "https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Haidenhof-Nord.8716197.html";
 
         window.open('fb-messenger://share?link=' + link, "_self" );
     }
@@ -1902,8 +1754,8 @@ Sara und Judith
     $(function() {
         if (!window.contactedData) {
             window.contactedData = ContactedData({
-                user_id: "5045842",
-                asset_id: "7368387",
+                user_id: "8124596",
+                asset_id: "8716197",
                 asset_type: "0",
                 min_log_level: "5",
                 logged_in: ""
@@ -1971,14 +1823,14 @@ Sara und Judith
 
                     <div class="col-md-8">
                         <div class="mb10">
-                                                                                                <img class="position-relative vis img-responsive" src="t_ph.html?qrup=grap36&amp;id=7368387" alt="" style="top: 3px;"/>
+                                                                                                <img class="position-relative vis img-responsive" src="t_ph.html?qrup=grap36&amp;id=8716197" alt="" style="top: 3px;"/>
                                                             
                                                     </div>
 
                                                     <b>Mitglied seit:</b>
                             </br>
 
-                            Mai  2018
+                            Juli  2019
                             </br>
                         
                         
@@ -1999,26 +1851,27 @@ Sara und Judith
                                                             Angebot online:
                                                     </b>
                     </div>
-                    <div class="col-md-6 text-right" style="color: #218700;"> 17 Stunden</div>
+                    <div class="col-md-6 text-right" style="color: #218700;"> 1 Tag</div>
 
                     <div class="col-md-4"><b>Anzeigennummer:</b></div>
-                    <div class="col-md-8 text-right"> 7368387</div>
+                    <div class="col-md-8 text-right"> 8716197</div>
 
                     <div class="col-md-12">&nbsp;</div>
 
                                             <div class="col-md-12">
-                                                                                                <a class="btn btn-block btn-md wgg_orange" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau.7368387.html" rel="nofollow">
-                                        <span class="mdi mdi-16px mdi-pad mdi-lh mdi-vm mdi-fw mdi-email" aria-hidden="true"></span> &nbsp; Nachricht senden
+                                                                                                <a class="btn btn-block btn-md wgg_orange" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau-Haidenhof-Nord.8716197.html" rel="nofollow">
+                                        <span class="mdi mdi-16px mdi-pad mdi-lh mdi-vm mdi-fw mdi-email" aria-hidden="true"></span>
+                                        Nachricht senden
                                     </a>
                                                                                     </div>
                     
                     <div class="col-md-12 hidden-xs pull-right noprint mt5">
-                                                    <a class="btn btn-fb btn-md btn-block" onClick="ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau.7368387.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau.7368387.html" rel="nofollow">
-                                <span class="mdi mdi-18px mdi-lh mdi-share" aria-hidden="true"></span> Auf Facebook teilen
+                                                    <a class="btn btn-fb btn-md btn-block" onClick="ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Haidenhof-Nord.8716197.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Haidenhof-Nord.8716197.html" rel="nofollow">
+                                <span class="mdi mdi-18px mdi-lh mdi-fw mdi-share" aria-hidden="true"></span>
+                                Auf Facebook teilen
                             </a>
                                             </div>
-
-                                                        </div>
+                                    </div>
     </div>
 </div>
 
@@ -2037,23 +1890,23 @@ Sara und Judith
         <div class="panel-body">
             <span class="display-none cursor-pointer note_close rhs_box_link pull-right" onclick="closeNote();" style="margin:3px 5px 0 0;">Ausblenden</span>
             <div style="padding: 0.2em;">
-<div id="note_form_7368387" class="note_form">
-            <span id="note_date_7368387" class="note_date">
+<div id="note_form_8716197" class="note_form">
+            <span id="note_date_8716197" class="note_date">
                             Neue Notiz:
                     </span>
     
-            <textarea id="note_textarea_7368387" rows="4" class="form-control note_textarea"></textarea>
+            <textarea id="note_textarea_8716197" rows="4" class="form-control note_textarea"></textarea>
     
     <br/>
 
-            <button id="notes_login_save_7368387" class="notes_login_save btn btn-block wgg_blue">
+            <button id="notes_login_save_8716197" class="notes_login_save btn btn-block wgg_blue">
             Speichern
         </button>
     </div>
 
 <script>
     
-    var ad_id                = 7368387;
+    var ad_id                = 8716197;
     var fetched_ad_note_text = 'null' ? '' : '';
     var ad_detail_view       = '1';
 </script>
@@ -2063,7 +1916,7 @@ Sara und Judith
 
 
 <script src="/js/lib/adFormManipulation.lib.tjb1623102504.js"></script>
-<script src="/js/Asset/AdNotes.class.tjb1623194496.js"></script>
+<script src="/js/Asset/AdNotes.class.tjb1623707094.js"></script>
 
 <script>
     var config = {
@@ -2145,8 +1998,8 @@ Sara und Judith
 
     
 <div style="margin: 15px 0;">
-            <a href="https://www.facebook.com/wggesucht.de/" rel="nofollow" target="_blank">
-            <img class="img-responsive" src="img/follow_us_on_facebook.jpg">
+            <a href="https://www.youtube.com/wggesuchtdefindyourhome/" rel="nofollow" target="_blank">
+            <img class="img-responsive" src="img/follow_us_on_youtube.jpg">
         </a>
     </div>
 
@@ -2162,7 +2015,7 @@ Sara und Judith
         <div class="col-md-4 mt5">
             <div class="row">
                 <div class="col-md-12">
-                                                                        <img class="position-relative vis img-responsive" src="t_ph.html?qrup=grap36&amp;id=7368387" alt=""/>
+                                                                        <img class="position-relative vis img-responsive" src="t_ph.html?qrup=grap36&amp;id=8716197" alt=""/>
                                             
                                     </div>
             </div>
@@ -2170,7 +2023,7 @@ Sara und Judith
             <div class="row">
                 <div class="col-md-6">
                                             <b>Mitglied seit:</b>
-                        Mai  2018
+                        Juli  2019
                                     </div>
 
 
@@ -2178,27 +2031,29 @@ Sara und Judith
                     <b>
                                                     Angebot online:
                                             </b>
-                    <span style="color: #218700;"> 17 Stunden</span>
+                    <span style="color: #218700;"> 1 Tag</span>
                 </div>
             </div>
             <div class="row">
                 
                 <div class="col-md-6 pull-right">
                     <b>Anzeigennummer:</b>
-                    7368387
+                    8716197
                 </div>
             </div>
         </div>
 
         <div class="col-md-3">
-                            <a class="btn btn-fb btn-md btn-block" onClick="ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau.7368387.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau.7368387.html" rel="nofollow" style="margin-top: 30px;">
-                    <span class="mdi mdi-18px mdi-lh mdi-share" aria-hidden="true"></span> Auf Facebook teilen
+                            <a class="btn btn-fb btn-md btn-block" onClick="ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Haidenhof-Nord.8716197.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Haidenhof-Nord.8716197.html" rel="nofollow" style="margin-top: 30px;">
+                    <span class="mdi mdi-18px mdi-lh mdi-fw mdi-share" aria-hidden="true"></span>
+                    Auf Facebook teilen
                 </a>
                     </div>
 
                     <div class="col-md-3">
-                                                            <a class="btn btn-block btn-md wgg_orange" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau.7368387.html" rel="nofollow" style="margin-top: 30px;">
-                            <span class="mdi mdi-16px mdi-pad mdi-lh mdi-vm mdi-fw mdi-email" aria-hidden="true"></span> &nbsp; Nachricht senden
+                                                            <a class="btn btn-block btn-md wgg_orange" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau-Haidenhof-Nord.8716197.html" rel="nofollow" style="margin-top: 30px;">
+                            <span class="mdi mdi-16px mdi-pad mdi-lh mdi-vm mdi-fw mdi-email" aria-hidden="true"></span>
+                            Nachricht senden
                         </a>
                                                 </div>
             </div>
@@ -2271,13 +2126,13 @@ Sara und Judith
 
     <ul class="dropdown-menu dropdown-menu" role="menu">
         <li role="presentation">
-            <a class="language_flag" role="menuitem" href="/wg-zimmer-in-Passau-Innstadt.7368387.html" onClick="deleteCookie('site_language');">Deutsch</a>
+            <a class="language_flag" role="menuitem" href="/wg-zimmer-in-Passau-Haidenhof-Nord.8716197.html" onClick="deleteCookie('site_language');">Deutsch</a>
         </li>
         <li role="presentation">
-            <a class="language_flag" role="menuitem" href="/en/wg-zimmer-in-Passau-Innstadt.7368387.html" onClick="setCookie('site_language', 'en', 3650, '/');">English</a>
+            <a class="language_flag" role="menuitem" href="/en/wg-zimmer-in-Passau-Haidenhof-Nord.8716197.html" onClick="setCookie('site_language', 'en', 3650, '/');">English</a>
         </li>
         <li role="presentation">
-            <a class="language_flag" role="menuitem" href="/es/wg-zimmer-in-Passau-Innstadt.7368387.html" onClick="setCookie('site_language', 'es', 3650, '/');">Español</a>
+            <a class="language_flag" role="menuitem" href="/es/wg-zimmer-in-Passau-Haidenhof-Nord.8716197.html" onClick="setCookie('site_language', 'es', 3650, '/');">Español</a>
         </li>
     </ul>
 </div>
@@ -2569,7 +2424,7 @@ Sara und Judith
                                 <li id="register_private_tab" class="register_popup_tab text-uppercase active" data-value="0">Privat</li>
                                 <li id="register_company_tab" class="register_popup_tab text-uppercase" data-value="1">Als unternehmen</li>
                             </ul>
-                            <ul class="col-xs-12 form-group display-none company_specific mt10" style="color: #CCC;">
+                            <ul class="col-xs-12 form-group display-none company_specific mt10" style="color: #353535;">
                                 u.a. Makler, Hausverwaltungen, Co-Living-Anbieter, Wohnungsgenossenschaften, Plattformen, Vermögensverwaltungen, Webseiten, Vermittler, Anbieter von möbliertem Wohnen
                             </ul>
                             
@@ -3187,7 +3042,7 @@ Wenn Sie die erste Checkbox nicht markieren, können Sie WG-Gesucht.de laut DSGV
 
     <script src="/js/lib/Validation/FavouritesValidation.lib.tjb1596480019.js"></script>
     <script src="/js/lib/FavouritesManipulation.lib.tjb1623102504.js"></script>
-    <script src="/js/User/Favourites.class.tjb1617047218.js"></script>
+    <script src="/js/User/Favourites.class.tjb1623707094.js"></script>
     <script>
         var config = {
             language: site_language,
