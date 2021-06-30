@@ -9,36 +9,36 @@
 
     <meta name="Author" content="WG-Gesucht.de"/>
 
-    <title>Mitbewohner für unsere WG_Lindental gesucht - WG Zimmer in Passau-Innstadt</title>
-    <meta name="title" content="Mitbewohner für unsere WG_Lindental gesucht - WG Zimmer in Passau-Innstadt"/>
+    <title>Schönes helles Zimmer in der Altstadt 18 qm - WG-Zimmer in Passau-Altstadt</title>
+    <meta name="title" content="Schönes helles Zimmer in der Altstadt 18 qm - WG-Zimmer in Passau-Altstadt"/>
 
             <meta name="ROBOTS" content="NOARCHIVE"/>
             
-            <link rel="canonical" href="https://www.wg-gesucht.de/wg-zimmer-in-Passau-Innstadt.8479260.html"/>
+            <link rel="canonical" href="https://www.wg-gesucht.de/wg-zimmer-in-Passau-Altstadt.8727608.html"/>
         
         <meta name="pinterest-rich-pin" content="false" />
     
             <meta name="Keywords" content="WG Zimmer Wohnungsmarkt Wohnungssuche Mietwohnung Suche Biete anbieten Angebot Zwischenmiete Wohnung Zimmersuche Wohnung Wohnungen Mietwohnungen Mietgesuche Mietangebote Wohnungsangebote Wohnungsanzeigen Schweiz Österreich Berlin Stuttgart Hamburg München Köln">
-<meta name="Description" content="Da ich ab dem Wintersemester für ein Jahr nach Schweden gehe, möchte ich mein wunderschönes Zimmer im WG-Lindental für diese Zeit...">
+<meta name="Description" content="Im September werden alle Zimmer in unser 3er-WG frei. Dies hier ist das Inserat für das mittelgrößte Zimmer. Die anderen beiden...">
 
     
             <meta name="apple-itunes-app" content="app-id=1084293678">
         <meta name="google-play-app" content="app-id=com.wggesucht.android">
 
-                                    <link rel="image_src" href="https://img.wg-gesucht.de/media/up/2021/22/baeee5b9136570d00ba9d0d214c32dacdc2c3f3959b1b577895e87f988554fd7_20210604_121754.sized.jpg"/>
-                <meta property="og:image" itemprop="image" content="https://img.wg-gesucht.de/media/up/2021/22/baeee5b9136570d00ba9d0d214c32dacdc2c3f3959b1b577895e87f988554fd7_20210604_121754.sized.jpg"/>
+                                    <link rel="image_src" href="https://img.wg-gesucht.de/media/up/2021/24/50d29e7f763c2dd71fdf40fed0b253cc0f2b97e94d8a2f0ffdb5eceab89f14e9_Zimmer1.sized.jpg"/>
+                <meta property="og:image" itemprop="image" content="https://img.wg-gesucht.de/media/up/2021/24/50d29e7f763c2dd71fdf40fed0b253cc0f2b97e94d8a2f0ffdb5eceab89f14e9_Zimmer1.sized.jpg"/>
                 <meta property="og:type" content="article" />
-                <meta property="og:title" content="Mitbewohner für unsere WG_Lindental gesucht"/>
+                <meta property="og:title" content="Schönes helles Zimmer in der Altstadt 18 qm"/>
                 <meta property="og:site_name" content="WG-Gesucht.de"/>
                 <meta property="fb:app_id" content="865138980249899"/>
-                <meta property="og:url" content="https://www.wg-gesucht.de/wg-zimmer-in-Passau-Innstadt.8479260.html" />
-                <meta property="og:description" content="Da ich ab dem Wintersemester für ein Jahr nach Schweden gehe, möchte ich mein wunderschönes Zimmer im WG-Lindental für diese Zeit unterve..." />
+                <meta property="og:url" content="https://www.wg-gesucht.de/wg-zimmer-in-Passau-Altstadt.8727608.html" />
+                <meta property="og:description" content="Im September werden alle Zimmer in unser 3er-WG frei. Dies hier ist das Inserat für das mittelgrößte Zimmer. Die anderen beiden Zimmer ha..." />
             
                             <meta name="twitter:card" content="summary_large_image">
                 <meta name="twitter:site" content="">
-                <meta name="twitter:title" content="WG-Gesucht.de - Mitbewohner für unsere WG_Lindental gesucht - WG Zimmer in Passau-Innstadt">
-                <meta name="twitter:description" content="Da ich ab dem Wintersemester für ein Jahr nach Schweden gehe, möchte ich mein wunderschönes Zimmer im WG-Lindental für diese Zeit unterve...">
-                <meta name="twitter:image" content="https://img.wg-gesucht.de/media/up/2021/22/baeee5b9136570d00ba9d0d214c32dacdc2c3f3959b1b577895e87f988554fd7_20210604_121754.sized.jpg">
+                <meta name="twitter:title" content="WG-Gesucht.de - Schönes helles Zimmer in der Altstadt 18 qm - WG-Zimmer in Passau-Altstadt">
+                <meta name="twitter:description" content="Im September werden alle Zimmer in unser 3er-WG frei. Dies hier ist das Inserat für das mittelgrößte Zimmer. Die anderen beiden Zimmer ha...">
+                <meta name="twitter:image" content="https://img.wg-gesucht.de/media/up/2021/24/50d29e7f763c2dd71fdf40fed0b253cc0f2b97e94d8a2f0ffdb5eceab89f14e9_Zimmer1.sized.jpg">
                         
                             <link rel="stylesheet" type="text/css" href="/assets/css/featherlight/featherlight.min.tjb1553536894.css" media="screen"/>
                 <link rel="stylesheet" type="text/css" href="/assets/css/croppie.min.tjb1598913401.css" media="screen"/>
@@ -128,8 +128,8 @@
                             googletag.pubads().setTargeting("wgg_rubrik", "0");
                                     googletag.pubads().setTargeting("wgg_pos", "angebot_detail");
                             googletag.pubads().setTargeting("wgg_bula", "Bayern");
-                                            googletag.pubads().setTargeting("wgg_rent_type", "1");
-                            googletag.pubads().setTargeting("wgg_rent_type", "1");
+                                            googletag.pubads().setTargeting("wgg_rent_type", "0");
+                            googletag.pubads().setTargeting("wgg_rent_type", "0");
                 googletag.enableServices();
     });
 </script>
@@ -761,7 +761,7 @@
                     </div>
 
         <div class="col-xs-4 text-center">
-                            <a href="wg-zimmer-in-Passau.104.0.1.0.html#back_to_ad_8479260" onclick="ga('send', 'event', 'ads-pagination', 'click', 'results');">
+                            <a href="wg-zimmer-in-Passau.104.0.1.0.html#back_to_ad_8727608" onclick="ga('send', 'event', 'ads-pagination', 'click', 'results');">
                     Treffer                </a>
                     </div>
 
@@ -792,16 +792,16 @@
 
 <div class="noprint showOnGalleryOnly">
     <h1 id="sliderTopTitle" class="headline headline-detailed-view-title">
-        <div class="mr5 detail-list-fav-button display-inline-block hidden-xs create_favourite" data-ad_id="8479260" data-ad_type="0" data-favourite_status="0" style="z-index: 999; position:relative!important;">
-            <span class="fav-button-8479260 mdi mdi-fw mdi-22px mdi-heart-outline icon-fav-list" aria-hidden="true"></span>
+        <div class="mr5 detail-list-fav-button display-inline-block hidden-xs create_favourite" data-ad_id="8727608" data-ad_type="0" data-favourite_status="0" style="z-index: 999; position:relative!important;">
+            <span class="fav-button-8727608 mdi mdi-fw mdi-22px mdi-heart-outline icon-fav-list" aria-hidden="true"></span>
         </div>
 
-                    <span title="6er WG (2w,3m,0d)" style="margin-right: 6px;">
+                    <span title="3er WG (0w,0m,0d)" style="margin-right: 6px;">
                                     
                     
-<img class="vis" src="/img/wgw.gif" alt="weiblich" width="10" height="17" style="margin-left:0px;"><img class="vis" src="/img/wgw.gif" alt="weiblich" width="10" height="17" style="margin-left:0px;"><img class="vis" src="/img/wgm.gif" alt="Malmännliche" width="10" height="17" style="margin-left:0px;"><img class="vis" src="/img/wgm.gif" alt="Malmännliche" width="10" height="17" style="margin-left:0px;"><img class="vis" src="/img/wgm.gif" alt="Malmännliche" width="10" height="17" style="margin-left:0px;"><img class="vis" src="/img/wgeg.gif" alt="Mitbewohnerin oder Mitbwohner gesucht" width="10" height="17" style="margin-left:0px;">
+<img class="vis" src="/img/wgeg.gif" alt="Mitbewohnerin oder Mitbwohner gesucht" width="10" height="17" style="margin-left:0px;"><img class="vis" src="/img/wgeg.gif" alt="Mitbewohnerin oder Mitbwohner gesucht" width="10" height="17" style="margin-left:0px;"><img class="vis" src="/img/wgeg.gif" alt="Mitbewohnerin oder Mitbwohner gesucht" width="10" height="17" style="margin-left:0px;">
                             </span>
-                Mitbewohner für unsere WG_Lindental gesucht
+                Schönes helles Zimmer in der Altstadt 18 qm
         <div class="CLR"></div>
     </h1>
 
@@ -837,7 +837,7 @@
         <div class="col-xs-12">&nbsp;</div>
         <div class="col-xs-6 text-center print_inline">
             <h2 class="headline headline-key-facts">
-                                    13m&sup2;
+                                    18m&sup2;
                             </h2>
 
             <h3 class="headline headline-key-facts">
@@ -847,7 +847,7 @@
 
         <div class="col-xs-6 text-center print_inline">
             <h2 class="headline headline-key-facts">
-                                    310&euro;
+                                    420&euro;
                             </h2>
 
             <h3 class="headline headline-key-facts">
@@ -860,7 +860,7 @@
         <hr class="hr-divider">
     </div>
 
-<div class="row" style="margin-top:50px;">
+<div class="row" >
     <div class="col-sm-5">
         <h3 class="headline headline-detailed-view-panel-title">
             Kosten
@@ -873,7 +873,7 @@
                                     </td>
 
                 <td class="col-xs-6 col-sm-4 print_text_left" style="padding: 3px 8px; font-size: 1.5em; vertical-align: bottom;">
-                                           <b>300&euro;</b>
+                                           <b>327&euro;</b>
                                     </td>
             </tr>
 
@@ -887,7 +887,7 @@
                 </td>
 
                 <td>
-                                            <b>n.a.</b>
+                                            <b>93&euro;</b>
                                     </td>
             </tr>
 
@@ -897,7 +897,7 @@
                 </td>
 
                 <td>
-                                            <b>10&euro;</b>
+                                            <b>n.a.</b>
                                     </td>
             </tr>
 
@@ -907,11 +907,20 @@
                     </td>
 
                     <td>
-                        <input id="kaution" type="hidden" value="600">
-                        <b>600&euro;</b>
+                        <input id="kaution" type="hidden" value="633">
+                        <b>633&euro;</b>
                     </td>
                 </tr>
             
+                            <tr>
+                    <td>
+                        Ablösevereinbarung:
+                    </td>
+
+                    <td>
+                        <b>100&euro;</b>
+                    </td>
+                </tr>
             
             
             
@@ -935,10 +944,10 @@
             Adresse
         </h3>
         <a href="#mapContainer" style="line-height: 1.5em;font-weight: normal; color: #555; margin-bottom: 23px;">
-                            Lindental 38
+                            Große Klingerstraße, 4
                         <br/>
 
-            94032 Passau Innstadt
+            94032 Passau Altstadt
             <br/>
         </a>
 
@@ -962,9 +971,6 @@
                 <b>01.09.2021</b>
                 <br/>
             
-                            frei bis:
-                <b>31.08.2022</b>
-                <br/>
             
             
             
@@ -979,7 +985,7 @@
                 </div>
             
                             <b class="noprint" style="color: #218700;">
-                    Online: 1 Tag
+                    Online: 2 Tage
                 </b>
                     </p>
     </div>
@@ -1013,7 +1019,7 @@
 <script src="/js/external_libraries/clipboard.min.js"></script>
 <script>
     $(function() {
-        var current_url = "https://www.wg-gesucht.de//8479260.html";
+        var current_url = "https://www.wg-gesucht.de//8727608.html";
 
         // Using the clipboard.js library in order for the copy to clipboard action to work in Safari too
         var clipboard = new Clipboard('#copy_url_to_clipboard', {
@@ -1051,65 +1057,29 @@
 
             <ul class="ul-detailed-view-datasheet print_text_left">
                 <li>
-                                            13m&sup2;
+                                            18m&sup2;
                     
-                    Zimmer in 6er WG 
+                    Zimmer in 3er WG 
                 </li>
 
                 <li>
-                                            Wohnungsgröße: 160m&sup2;
+                                            Wohnungsgröße: 110m&sup2;
                                     </li>
 
                 <li>
-                    6er WG
-                                                                        (
-                                                            2
-                                                                    Frauen
-                                                            
-                                                            und
-                            
-                                                            3
-                                                                    Männer
-                                                            
-                            
-                                                        )
-                                                            </li>
+                    3er WG
+                                                                                </li>
 
                 <li>
-                                            Bewohneralter: 18 bis 28 Jahre
                                     </li>
 
-                                    <li>
-                                                    Rauchen auf dem Balkon erlaubt
-                                            </li>
                 
                                     <li>
-                        Studenten-WG, keine Zweck-WG, gemischte WG
+                        Studenten-WG
                     </li>
                 
                 <li>
-                                            Sprache/n:
-                                                    <img class="flgS f-de" src="img/d.gif" alt="Deutsch" title="Deutsch"/>
-                                                            <span id="sprache_print">
-                                                                            Deutsch,
-                                                                    </span>
-                                                                                <img class="flgS f-en" src="img/d.gif" alt="Englisch" title="Englisch"/>
-                                                            <span id="sprache_print">
-                                                                            Englisch,
-                                                                    </span>
-                                                                                <img class="flgS f-es" src="img/d.gif" alt="Spanisch" title="Spanisch"/>
-                                                            <span id="sprache_print">
-                                                                            Spanisch,
-                                                                    </span>
-                                                                                <img class="flgS f-fr" src="img/d.gif" alt="Französisch" title="Französisch"/>
-                                                            <span id="sprache_print">
-                                                                            Französisch,
-                                                                    </span>
-                                                                                <img class="flgS f-it" src="img/d.gif" alt="Italienisch" title="Italienisch"/>
-                                                            <span id="sprache_print">
-                                                                            Italienisch
-                                                                    </span>
-                                                                                        </li>
+                                    </li>
             </ul>
         </div>
 
@@ -1145,51 +1115,68 @@
             <div class="row">
                                                 
                                                     
-                
+                                                                            <div class="col-xs-6 col-sm-4 text-center print_text_left">
+                        <span class="mdi mdi-wheelchair-accessibility mdi-36px noprint"></span>
+                        <br/>
+
+                        Barrierefrei
+                    </div>
+
+                    
+                                    
                                                                             <div class="col-xs-6 col-sm-4 text-center print_text_left">
                         <span class="mdi mdi-city mdi-36px noprint"></span>
                         <br/>
 
-                                                                                                                                                Einfamilienhaus                                                                                            </div>
+                                                                                                                                                                        Mehrfamilienhaus                                                                    </div>
 
-                    
+                                            <div class="clearfix visible-xs-block noprint" style="margin-bottom:20px;"></div>
+                                            
                                     
                                                                             <div class="col-xs-6 col-sm-4 text-center print_text_left">
                         <span class="mdi mdi-office-building mdi-36px noprint"></span>
                         <br/>
 
-                        1. OG
+                        2. OG
                     </div>
-
-                                            <div class="clearfix visible-xs-block noprint" style="margin-bottom:20px;"></div>
-                                            
-                                    
-                
-                
-                                                                            <div class="col-xs-6 col-sm-4 text-center print_text_left">
-                        <span class="mdi mdi-shower mdi-36px noprint"></span>
-                        <br/>
-
-                        Dusche                    </div>
 
                     
                                             <div class="clearfix visible-sm-block visible-md-block visible-lg-block noprint" style="margin-bottom:30px;"></div>
                                                             
                                                                             <div class="col-xs-6 col-sm-4 text-center print_text_left">
-                        <span class="mdi mdi-wifi mdi-36px noprint"></span>
+                        <span class="mdi mdi-bed-double-outline mdi-36px noprint"></span>
                         <br/>
 
-                        WLAN                                            </div>
+                        teilmöbliert                    </div>
 
                                             <div class="clearfix visible-xs-block noprint" style="margin-bottom:20px;"></div>
                                             
                                     
                 
                                                                             <div class="col-xs-6 col-sm-4 text-center print_text_left">
+                        <span class="mdi mdi-shower mdi-36px noprint"></span>
+                        <br/>
+
+                        Badewanne, Dusche                    </div>
+
+                    
+                                    
+                
+                                                                            <div class="col-xs-6 col-sm-4 text-center print_text_left">
+                        <span class="mdi mdi-monitor mdi-36px noprint"></span>
+                        <br/>
+
+                        Kabel, Satellit                    </div>
+
+                                            <div class="clearfix visible-xs-block noprint" style="margin-bottom:20px;"></div>
+                                            
+                                            <div class="clearfix visible-sm-block visible-md-block visible-lg-block noprint" style="margin-bottom:30px;"></div>
+                                                            
+                                                                            <div class="col-xs-6 col-sm-4 text-center print_text_left">
                         <span class="mdi mdi-layers mdi-36px noprint"></span>
                         <br/>
 
-                                                Laminat                    </div>
+                                                Laminat, Fliesen                    </div>
 
                     
                                     
@@ -1198,26 +1185,26 @@
                         <span class="mdi mdi-fire mdi-36px noprint"></span>
                         <br/>
 
-                                                Gasheizung                                                                                                                    </div>
+                        Zentralheizung                                                                                                                                            </div>
 
                                             <div class="clearfix visible-xs-block noprint" style="margin-bottom:20px;"></div>
                                             
-                                            <div class="clearfix visible-sm-block visible-md-block visible-lg-block noprint" style="margin-bottom:30px;"></div>
-                                                            
+                                    
                                                                             <div class="col-xs-6 col-sm-4 text-center print_text_left">
                         <span class="mdi mdi-car mdi-36px noprint"></span>
                         <br/>
 
-                                                                                                eigener Parkplatz                                            </div>
+                                                                        Bewohnerparken                                                                    </div>
 
                     
-                                    
+                                            <div class="clearfix visible-sm-block visible-md-block visible-lg-block noprint" style="margin-bottom:30px;"></div>
+                                                            
                                                                             <div class="col-xs-6 col-sm-4 text-center print_text_left">
                         <span class="mdi mdi-bus mdi-36px noprint"></span>
                         <br/>
 
-                        1
-                                                    Minute
+                        5
+                                                    Minuten
                                                 zu Fuß entfernt
                     </div>
 
@@ -1228,11 +1215,10 @@
                         <span class="mdi mdi-folder mdi-36px noprint"></span>
                         <br/>
 
-                                                Waschmaschine, Spülmaschine, Balkon, Garten, Fahrradkeller                    </div>
+                                                Waschmaschine, Spülmaschine, Keller, Fahrradkeller, Aufzug                    </div>
 
                    
-                                            <div class="clearfix visible-sm-block visible-md-block visible-lg-block noprint" style="margin-bottom:30px;"></div>
-                                                            
+                                    
                             </div>
         </div>
     </div>
@@ -1288,18 +1274,15 @@
                 
                 
             
-            
+            <div class="noprint pull-left" style="margin:11px 11px 11px 0;"><div id="540751961_mr_freitext_01"></div></div><div class="CLR"></div>
 
                             <div id="freitext_0" class="wordWrap">
                                         <h3 class="headline headline-default">
                                                     Zimmer
                                             </h3>
                                         <p id="freitext_0_content" class="freitext">
-                        Da ich ab dem Wintersemester für ein Jahr nach Schweden gehe, möchte ich mein wunderschönes Zimmer im WG-Lindental für diese Zeit untervermieten.<br />
-<br />
-Dein zukünftiges Zimmer ist 13 qm groß und liegt in der ersten Etage von unserem Haus. Das Zimmer hat ein Fenster, durch das viel Licht für deine Pflanzen fällt. Das Zimmer bleibt dank seiner Lage auch im Sommer immer schön kühl. 13 qm hören sich erst einmal wenig an, aber du hast definitiv genug Platz für ein kuscheliges Doppelbett, einen großen Kleiderschrank, einen Schreibtisch und weitere Möbel.Ich hatte nie Platzprobleme und habe mich in dem Zimmer immer super wohl gefühlt. Wenn doch nicht alles platz haben sollte, haben wir einen großen Hauswirtschaftsraum. Welche Möbel in dem Zimmer bleiben, könne wir ja noch besprechen. :)<br />
-<br />
-Dir stehen in unserem frisch renovierten Haus eine unnormale Anzahl (insg. 3) an Toiletten zur Verfügung. Daher kommt es bei uns nie zu einem großartigen Verkehrsaufkommen vor dem Badezimmer. Im Erdgeschoss haben wir noch ein äußerst stilsicher eingerichtetes Wohnzimmer. Der Fliesentisch ist Kultobjekt und wurde von uns in Handarbeit zu einem Trinkspiel umfunktioniert. Das Wohnzimmer ist bestens geeignet für zukünftige fette WG-Party´ s. Oben haben wir eine Küche mit zwei Kühlschränken, einer Spülmaschine und einem guten Ausblick auf das schöne Lindental (flex flex). An unser Haus ist ein kleiner Garten angeschlossen der im Winter zum Rodeln einlädt .  Falls du ein Auto hast haben wir einen großen kostenlosen Stellplatz vor unserem Haus.
+                        Im September werden alle Zimmer in unser 3er-WG frei. Dies hier ist das Inserat für das mittelgrößte Zimmer. Die anderen beiden Zimmer haben 13qm (380€) und 26qm (450€). Durch die beiden großen Fenster in den Innenhof kommt viel Licht in das Zimmer. Durch die zugewandte Seite zum Innenhof ist es auch sehr ruhig und den Lärm der Fußgängergasse kann man nicht mehr hören. Das Zimmer ist angenehm groß, dass auch leicht ein Sessel rein passt. Von den Möbeln würde ich gerne den großen Kleiderschrank, das Bett (1,40m plus jeweils 10cm Rand) und ein Regal (das Hohe) gegen Ablöse überlassen. Die Ablöse für die Möbel im Zimmer, inklusive dem Anteil an den Möbeln in den Gemeinschaftsbereichen und Elektrogeräten (Waschmaschine und Kühlschrank) beträgt nur 100€.<br />
+Die Gemeinschaftsräume werden vollständig möbliert übergeben. Diese bestehen aus einem großen Bad (mit Badewanne und Dusche), 2 Toiletten (Jungs/Mädels), einem großen Wohnzimmer mit einem Sofa für 8 Personen und einer Essgruppe, sowie Küche (mit 2 Kühlschränken, Ofen und Spülmaschine).
                     </p>
                 </div>
             
@@ -1311,7 +1294,7 @@ Dir stehen in unserem frisch renovierten Haus eine unnormale Anzahl (insg. 3) an
                         Lage
                     </h3>
                                         <p id="freitext_1_content" class="freitext">
-                        Unser Haus liegt in der Innstadt. Die Uni ist mit dem Fahrrad innerhalb von 10 Minuten zu erreichen. Der nächste Supermarkt ist ebenfalls 10 Minuten entfernt. Direkt vor unserem Haus befindet sich eine Bushaltestelle.
+                        Unsere WG liegt mitten in der Altstadt. Gegenüber befinden sich Bars, Kneipen und Restaurants, die Donau erreicht man in einer Minute Fußweg, den Inn in nur 5 Minuten. Trotzdem ist die Lage sehr ruhig, da unsere Wohnung zum Innenhof gerichtet ist. Die Uni erreicht man in 10 Gehminuten, den Busbahnhof in gerade einmal 5 Minuten. Die nächste Einkaufsmöglichkeiten sind auch nur 5 Minuten entfernt.
                     </p>
                 </div>
             
@@ -1323,36 +1306,19 @@ Dir stehen in unserem frisch renovierten Haus eine unnormale Anzahl (insg. 3) an
                         WG-Leben
                     </h3>
                                         <p id="freitext_2_content" class="freitext">
-                        Wer sind wir eigentlich?<br />
-<br />
-Jakob	19 	        hält sich für sehr witzig, studiert StaWi<br />
-<br />
-Anna	20 		übernimmt ungern Verantwortung und fällt auch keine Entscheidungen, studiert JoKo<br />
-<br />
-Filippo    28		kocht 1 A mit Extrasternchen mindestens einmal die Woche für alle und beendet im Sommer seinen <br />
-                                Bachelor (?)<br />
-<br />
-Eil           18            Meme-Lord und unser WG-DJ, studiert BAE<br />
-<br />
-Gio          21           Unser Justus, studiert BAE<br />
-<br />
-Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen wir uns in der Küche, kochen gerne zusammen und verbringen die Abende bei einem oder auch mal mehreren  Bier. Wir machen aber auch mal einen Familienausflug an den Stausee, sitzen gerne am Inn oder fahren auch mal zum Mostbauern. Es wird definitiv nie langweilig und auch nie einsam, auch wenn du dich natürlich jeder Zeit in dein Zimmer zurückziehen kannst.<br />
-<br />
-<br />
-#PamelaReifWorkoutsindeinfachnurkrassanstrengend #MitternachtsLaugenbrezelsnack<br />
-#wirhbentee #eisvogeltasseundbild #süffamsamstag #ragecageprofi #bierponggott
+                        Bis jetzt haben wir als 3er WG zusammengewohnt. Leider ziehen wir dieses Jahr im Herbst alle weiter und möchten die Wohnung daher gerne an drei neue Mitbewohner weitergeben.
                     </p>
                 </div>
             
             
-                <div class="noprint pull-left" style="margin:11px 11px 11px 0;"><div id="540751961_mr_freitext_01"></div></div><div class="CLR"></div>
+                
 
                 <div id="freitext_3" class="wordWrap" style="margin:6px 0 6px 1px;">
                                         <h3 class="headline headline-default">
                         Sonstiges
                     </h3>
                                         <p id="freitext_3_content" class="freitext">
-                        Wenn du dich für das Zimmer interessierst (und ein würdiger Bierpong Partner bist), kannst du ja mal würden wir uns freuen wenn du vorbeikommen und dir die WG anschaune würdest.
+                        Melde dicb am besten bei mir per WhatsApp (siehe unten). Ihr könnt gerne mit Abstand und Maske auch persönlich vorbeischauen, um die Wohnung zu besichtigen, sonst auch gerne per Zoom.
                     </p>
                 </div>
                         </div>
@@ -1429,7 +1395,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
         <div id="rent_wrapper" style="left: 6%;">
             <div class="basic_facts_top_part">
                 <label class="amount">
-                                            160m&sup2;
+                                            110m&sup2;
                                     </label>
 
                 <label class="description">
@@ -1439,7 +1405,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
 
             <div class="basic_facts_bottom_part">
                 <label class="amount">
-                                                                        13m&sup2;
+                                                                        18m&sup2;
                                                             </label>
 
                 <label class="description">
@@ -1453,7 +1419,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
             <div class="basic_facts_top_part" style="padding: 57px 0; position: relative;">
                 <div id="misc_costs" class="graph_bar" style="height: 15px;">
                     <label class="graph_amount">
-                                                    10&euro;
+                                                    n.a.
                                             </label>
 
                     <label class="graph_description">
@@ -1463,7 +1429,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
 
                 <div id="utilities_costs" class="graph_bar" style="margin: 0 auto; left: 0; right: 0; height: 30px;">
                     <label class="graph_amount">
-                                                    n.a.
+                                                    93&euro;
                                             </label>
 
                     <label class="graph_description">
@@ -1473,7 +1439,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
 
                 <div id="rent" class="graph_bar" style="right: 0; height: 80px;">
                     <label class="graph_amount">
-                        300&euro;
+                        327&euro;
                     </label>
 
                     <label class="graph_description">
@@ -1484,7 +1450,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
 
             <div class="basic_facts_bottom_part">
                 <label class="amount">
-                    310&euro;
+                    420&euro;
                 </label>
 
                 <label class="description">
@@ -1497,7 +1463,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
         <div id="provision_equipment_wrapper" style="left: 59%; width: 38%; bottom: 12%;">
             <div class="provision-equipment" style="padding: 22px 11px; margin-right: 11px;">
                 <label class="amount">
-                                            600&euro;
+                                            633&euro;
                                     </label>
 
                 <label class="description" style="font-size: 1rem;">
@@ -1507,7 +1473,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
 
             <div class="provision-equipment" style="padding: 23px 11px;">
                 <label class="amount">
-                                            n.a.
+                                            100&euro;
                                     </label>
 
                 <label class="description" style="font-size: 0.9rem;">
@@ -1524,102 +1490,6 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
 </div>
 
 
-    
-<div id="map_marker_info_8479260" class="display-none">
-    <div class="map_card">
-        <div class="row">
-            <div class="col-sm-8">
-                <div class="row noprint">
-                    
-                    <div class="col-xs-12">
-                        <h3 class="truncate_title noprint">
-                            Mitbewohner für unsere WG_Lindental gesucht
-                        </h3>
-                    </div>
-                </div>
-
-                <div class="row noprint">
-                    
-                    <div class="col-xs-12 map_card_details_truncate">
-                                                    <b>Zimmer in 6er WG </b><span> | </span>
-                        
-                                                    <b>13 m&sup2;</b><span> | </span>
-                        
-                                                                                    <b>310 &euro;</b>
-                                                                        </div>
-                    <div class="col-xs-12">
-                        <a class="cursor-pointer" href="wg-zimmer-in-Passau.8479260.html" target="_blank" rel="noopener noreferrer">
-                            Zur Anzeige
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            
-            <div class="col-sm-4">
-                <a href="/wg-zimmer-in-Passau.8479260.html" target="_blank" rel="noopener noreferrer">
-                                            <img src="https://img.wg-gesucht.de/media/up/2021/22/baeee5b9136570d00ba9d0d214c32dacdc2c3f3959b1b577895e87f988554fd7_20210604_121754.small.jpg" alt="" style="align-items: center;object-fit: cover;height: 100px;width: 100%;">
-                                    </a>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-    <script>
-        $(function() {
-            var map_config = {
-                map_id:                            "map",
-                osm_map_tiles_url:                 "https://www.wg-gesucht.de/api/tile/{z}/{x}/{y}.png",
-                markers:                           [{"lat":48.5633,"lng":13.465299,"icon":{"className":"map_marker_icon_center","iconSize":[60,60],"iconAnchor":[30,51],"popupAnchor":[1,-35]},"offer_id":"8479260","popup_id":"map_marker_info_8479260"}],
-                language:                          site_language,
-                display_surrounding_ads_id:        "display_surrounding_ads",
-                hide_surrounding_ads_id:           "hide_surrounding_ads",
-                surrounding_ads_popups_wrapper_id: "surrounding_offers_popups_wrapper",
-                min_log_level:                     "5"
-            };
-
-            window.osm_map = OsmMap(map_config);
-        });
-    </script>
-
-    
-    <div id="mapContainer" class="row noprint">
-        <div class="col-xs-12">
-            <h3 class="headline headline-detailed-view-panel-title">
-                Karte
-            </h3>
-        </div>
-
-        <div id="map"></div>
-
-        <div class="col-xs-12">
-            <button id="display_surrounding_ads" class="btn btn-md wgg_blue mb10 mt10" onclick="osm_map.displaySurroundingAds();" disabled>
-                Angebote in der Umgebung einblenden
-            </button>
-
-            <button id="hide_surrounding_ads" class="btn btn-md wgg_blue mb10 mt10 display-none" onclick="osm_map.hideSurroundingAds();">
-                Angebote in der Umgebung ausblenden
-            </button>
-        </div>
-    </div>
-
-    <div id="surrounding_offers_popups_wrapper"></div>
-
-    <div class="CLR"></div>
-
-    <div class="row noprint">
-        <hr class="hr-divider"/>
-    </div>
-
-    <script src="/js/external_libraries/leaflet/leaflet.min.js"></script>
-    <link rel="stylesheet" href="/assets/css/leaflet/leaflet.css"/>
-    <script src="/js/external_libraries/leaflet/Leaflet.fullscreen.min.js"></script>
-    <link rel="stylesheet" href="/assets/css/leaflet/leaflet.fullscreen.css"/>
-    <script src="/js/external_libraries/leaflet/leaflet.markercluster.js"></script>
-    <link rel="stylesheet" href="/assets/css/leaflet/MarkerCluster.css"/>
-    <script src="/js/external_libraries/leaflet/leaflet-messagebox.min.js"></script>
-    <script src="/js/Asset/OsmMap.class.tjb1623102504.js"></script>
 
 
     
@@ -1635,7 +1505,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
                         <div class="row">
                             <div class="col-md-12">
                                 <b>Name:</b>
-                                                                                                            <img class="position-relative vis" src="t_ph.html?qrup=grap36&amp;id=8479260" alt="" style="bottom: 2px; max-width: 100%;"/>
+                                                                                                            <img class="position-relative vis" src="t_ph.html?qrup=grap36&amp;id=8727608" alt="" style="bottom: 2px; max-width: 100%;"/>
                                                                     
                                 
                                 <br>
@@ -1648,13 +1518,13 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
                         <div class="row">
                             <div class="col-md-12">
                                 <b>Mitglied seit:</b>
-                                Juli  2020
+                                Dezember  2019
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-12">
                                 <b>Anzeigennummer:</b>
-                                8479260
+                                8727608
                                 <br/><br/>
                             </div>
                         </div>
@@ -1663,21 +1533,21 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
 
                 <div class="hidden-md hidden-lg noprint">
                     <div class="col-xs-4 col-sm-2">
-                        <div class="profile_image_dav cursor-pointer" style="background-image: url('https://img.wg-gesucht.de/media/up/2020/39/cb818a37babcd6354583a770508f7ce1302496ae29e1182c1f676bd03ae7e333_IMG_5627.sized.JPG')" data-featherlight="https://img.wg-gesucht.de/media/up/2020/39/cb818a37babcd6354583a770508f7ce1302496ae29e1182c1f676bd03ae7e333_IMG_5627.sized.JPG">
+                        <div class="profile_image_dav " style="background-image: url('/img/placeholder/no_profile_image_unisex.svg')" >
                             <div class="online_status" ></div>
                         </div>
                     </div>
 
                     <div class="col-xs-8 col-sm-10">
                         <div class="mb10">
-                                                                                                <img class="vis" src="t_ph.html?qrup=grap36&amp;id=8479260" alt=""/>
+                                                                                                <img class="vis" src="t_ph.html?qrup=grap36&amp;id=8727608" alt=""/>
                                                             
                                                     </div>
 
                                                     <b>Mitglied seit:</b>
                             </br>
 
-                            Juli  2020
+                            Dezember  2019
                             </br>
                         
                         
@@ -1698,20 +1568,20 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
                                                             Angebot online:
                                                     </b>
                     </div>
-                    <div class="col-xs-6 text-right" style="color: #218700;"> 1 Tag</div>
+                    <div class="col-xs-6 text-right" style="color: #218700;"> 2 Tage</div>
 
                     <div class="col-xs-6"><b>Anzeigennummer:</b></div>
-                    <div class="col-xs-6 text-right">8479260</div>
+                    <div class="col-xs-6 text-right">8727608</div>
                 </div>
 
                                                                                         <div class="col-md-5 hidden-xs pull-right noprint">
-                                                                                                            <a id="mailform" class="btn btn-md btn-block wgg_orange" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau-Innstadt.8479260.html" rel="nofollow">
+                                                                                                            <a id="mailform" class="btn btn-md btn-block wgg_orange" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau-Altstadt.8727608.html" rel="nofollow">
                                             <span class="mdi mdi-16px mdi-pad mdi-lh mdi-vm mdi-fw mdi-email" aria-hidden="true"></span>
                                             Nachricht senden
                                         </a>
                                                                                                 </div>
                                                                 <div class="col-md-5 hidden-xs pull-left noprint">
-                                                                                    <a class="btn btn-fb btn-md btn-block mb5" onClick="ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Innstadt.8479260.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Innstadt.8479260.html" rel="nofollow">
+                                                                                    <a class="btn btn-fb btn-md btn-block mb5" onClick="ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Altstadt.8727608.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Altstadt.8727608.html" rel="nofollow">
                                     <span class="mdi mdi-18px mdi-lh mdi-share" aria-hidden="true"></span>
                                     Auf Facebook teilen
                                 </a>
@@ -1735,7 +1605,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
     <div class="text-center noprint col-xs-12">
         <div class="btn-group" role="group" aria-label="...">
                             <div class="display-inline-block">
-                    <a title="Anzeige beanstanden" href="https://www.wg-gesucht.de/qs.html?id=8479260&ad_type=0" rel="nofollow" style="text-decoration: none;">
+                    <a title="Anzeige beanstanden" href="https://www.wg-gesucht.de/qs.html?id=8727608&ad_type=0" rel="nofollow" style="text-decoration: none;">
                         <span class="mdi mdi-bullhorn mdi-18px mdi-lh" aria-hidden="true"></span>
                         <br/>
 
@@ -1762,7 +1632,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
     <div class="row">
         
         <div class="col-sm-4 card_image">
-            <a class="partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" style="background-image: url(img/kooperationen/smava/groups/1.jpg);" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_1_lt_in_detail_ci_de_wg_1_ts_wg_www_trm_dom_dv1_Passau_s_www" data-partner_price="397" data-partner_category="0" data-partner_rent_type="1" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de"></a>
+            <a class="partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" style="background-image: url(img/kooperationen/smava/groups/1.jpg);" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="380" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de"></a>
         </div>
 
         <div class="col-sm-8 card_body">
@@ -1771,7 +1641,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
                 
                 <div class="col-sm-12">
                     <h3 class="truncate_title" title="Keine Küche? Kredite vergleichen &amp; sparen">
-                        <a class="partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_1_lt_in_detail_ci_de_wg_1_ts_wg_www_trm_dom_dv1_Passau_s_www" data-partner_price="397" data-partner_category="0" data-partner_rent_type="1" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">
+                        <a class="partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="380" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">
                             Keine Küche? Kredite vergleichen & sparen
                         </a>
                     </h3>
@@ -1779,7 +1649,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
 
                 
                 <div class="col-sm-12">
-                    <span>Unterkünfte vom 01.07.2021 bis zum 11.07.2021 in Passau</span>
+                    <span>auch für hohe Kautionen geeignet, schnelle Auszahlung, günstige Zinsen</span>
 
                                             <img class="vis" src="img/wgw.gif" alt="weiblich" width="10" height="17">
                         <img class="vis" src="img/wgm.gif" alt="männlich" width="10" height="17" style="margin-left: 0;">
@@ -1792,7 +1662,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
                                             <b>ab</b>
                                                 <b>
                             <span>
-                                397 &euro;
+                                380 &euro;
                             </span>
                         </b>
                         <b></b>
@@ -1806,7 +1676,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
             <div class="row" style="padding-top: 60px;">
                 <div class="col-sm-12 flex_space_between">
                     <span></span>
-                    <a class="detailansicht partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" style="color: #898989;" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_1_lt_in_detail_ci_de_wg_1_ts_wg_www_trm_dom_dv1_Passau_s_www" data-partner_price="397" data-partner_category="0" data-partner_rent_type="1" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">Anzeige</a>
+                    <a class="detailansicht partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" style="color: #898989;" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="380" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">Anzeige</a>
                 </div>
             </div>
         </div>
@@ -1827,7 +1697,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
                     </div>
 
         <div class="col-xs-4 text-center">
-                            <a href="wg-zimmer-in-Passau.104.0.1.0.html#back_to_ad_8479260" onclick="ga('send', 'event', 'ads-pagination', 'click', 'results');">
+                            <a href="wg-zimmer-in-Passau.104.0.1.0.html#back_to_ad_8727608" onclick="ga('send', 'event', 'ads-pagination', 'click', 'results');">
                     Treffer                </a>
                     </div>
 
@@ -1847,21 +1717,20 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
     
 <nav class="navbar navbar-fixed-bottom noprint hidden-sm hidden-md hidden-lg">
     <div class="sticky_mobile_buttons">
-                                    <a class="btn wgg_orange noprint" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau-Innstadt.8479260.html" rel="nofollow" role="button">Nachricht senden</a>
+                                    <a class="btn wgg_orange noprint" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau-Altstadt.8727608.html" rel="nofollow" role="button">Nachricht senden</a>
                     
-                    <a class="btn wgg_orange noprint" href="#" onclick="$('#contact_modal').modal('show');" rel="nofollow" role="button">Anrufen</a>
         
             </div>
 
     <div class="call-to-action">
-        <a class="btn btn-social btn-fb" onClick="ga('send', 'event', 'Buttons', 'share url', 'facebook button mobile cta');ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Innstadt.8479260.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Innstadt.8479260.html"></a>
+        <a class="btn btn-social btn-fb" onClick="ga('send', 'event', 'Buttons', 'share url', 'facebook button mobile cta');ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Altstadt.8727608.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Altstadt.8727608.html"></a>
 
-        <a class="btn btn-social btn-messenger" onClick="shareToFacebookMessenger(); ga('send', 'social', 'facebook_messenger', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Innstadt.8479260.html');" rel="nofollow"></a>
+        <a class="btn btn-social btn-messenger" onClick="shareToFacebookMessenger(); ga('send', 'social', 'facebook_messenger', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Altstadt.8727608.html');" rel="nofollow"></a>
 
-        <a class="btn btn-social btn-wa" href="https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Innstadt.8479260.html" onClick="ga('send', 'social', 'whatsapp', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Innstadt.8479260.html');" rel="nofollow" target="_blank"></a>
+        <a class="btn btn-social btn-wa" href="https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Altstadt.8727608.html" onClick="ga('send', 'social', 'whatsapp', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Altstadt.8727608.html');" rel="nofollow" target="_blank"></a>
 
-        <button class="btn btn-social btn-round wgg_orange create_favourite" data-ad_id="8479260" data-ad_type="0" data-favourite_status="0">
-            <span class="fav-button-8479260 mdi mdi-20px mdi-lh mdi-vm mdi-top1 mdi-heart-outline" aria-hidden="true"><i class="sr-only">Zu Favoriten hinzufügen</i></span>
+        <button class="btn btn-social btn-round wgg_orange create_favourite" data-ad_id="8727608" data-ad_type="0" data-favourite_status="0">
+            <span class="fav-button-8727608 mdi mdi-20px mdi-lh mdi-vm mdi-top1 mdi-heart-outline" aria-hidden="true"><i class="sr-only">Zu Favoriten hinzufügen</i></span>
         </button>
     </div>
 </nav>
@@ -1870,7 +1739,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
     // Fix for iOS
     // Safari couldn't read href
     function shareToFacebookMessenger() {
-        var link = "https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Innstadt.8479260.html";
+        var link = "https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Altstadt.8727608.html";
 
         window.open('fb-messenger://share?link=' + link, "_self" );
     }
@@ -1886,8 +1755,8 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
     $(function() {
         if (!window.contactedData) {
             window.contactedData = ContactedData({
-                user_id: "11084551",
-                asset_id: "8479260",
+                user_id: "9536096",
+                asset_id: "8727608",
                 asset_type: "0",
                 min_log_level: "5",
                 logged_in: ""
@@ -1948,21 +1817,21 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
     <div class="panel-body">
         <div class="row">
                                                 <div class="col-md-4">
-                        <div class="profile_image_dav cursor-pointer" style="background-image: url('https://img.wg-gesucht.de/media/up/2020/39/cb818a37babcd6354583a770508f7ce1302496ae29e1182c1f676bd03ae7e333_IMG_5627.sized.JPG')" data-featherlight="https://img.wg-gesucht.de/media/up/2020/39/cb818a37babcd6354583a770508f7ce1302496ae29e1182c1f676bd03ae7e333_IMG_5627.sized.JPG">
+                        <div class="profile_image_dav " style="background-image: url('/img/placeholder/no_profile_image_unisex.svg')" >
                             <div class="online_status" ></div>
                         </div>
                     </div>
 
                     <div class="col-md-8">
                         <div class="mb10">
-                                                                                                <img class="position-relative vis img-responsive" src="t_ph.html?qrup=grap36&amp;id=8479260" alt="" style="top: 3px;"/>
+                                                                                                <img class="position-relative vis img-responsive" src="t_ph.html?qrup=grap36&amp;id=8727608" alt="" style="top: 3px;"/>
                                                             
                                                     </div>
 
                                                     <b>Mitglied seit:</b>
                             </br>
 
-                            Juli  2020
+                            Dezember  2019
                             </br>
                         
                         
@@ -1983,22 +1852,22 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
                                                             Angebot online:
                                                     </b>
                     </div>
-                    <div class="col-md-6 text-right" style="color: #218700;"> 1 Tag</div>
+                    <div class="col-md-6 text-right" style="color: #218700;"> 2 Tage</div>
 
                     <div class="col-md-4"><b>Anzeigennummer:</b></div>
-                    <div class="col-md-8 text-right"> 8479260</div>
+                    <div class="col-md-8 text-right"> 8727608</div>
 
                     <div class="col-md-12">&nbsp;</div>
 
                                             <div class="col-md-12">
-                                                                                                <a class="btn btn-block btn-md wgg_orange" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau-Innstadt.8479260.html" rel="nofollow">
+                                                                                                <a class="btn btn-block btn-md wgg_orange" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau-Altstadt.8727608.html" rel="nofollow">
                                         <span class="mdi mdi-16px mdi-pad mdi-lh mdi-vm mdi-fw mdi-email" aria-hidden="true"></span>
                                         Nachricht senden
                                     </a>
                                                                                     </div>
                     
                     <div class="col-md-12 hidden-xs pull-right noprint mt5">
-                                                    <a class="btn btn-fb btn-md btn-block" onClick="ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Innstadt.8479260.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Innstadt.8479260.html" rel="nofollow">
+                                                    <a class="btn btn-fb btn-md btn-block" onClick="ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Altstadt.8727608.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Altstadt.8727608.html" rel="nofollow">
                                 <span class="mdi mdi-18px mdi-lh mdi-fw mdi-share" aria-hidden="true"></span>
                                 Auf Facebook teilen
                             </a>
@@ -2022,23 +1891,23 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
         <div class="panel-body">
             <span class="display-none cursor-pointer note_close rhs_box_link pull-right" onclick="closeNote();" style="margin:3px 5px 0 0;">Ausblenden</span>
             <div style="padding: 0.2em;">
-<div id="note_form_8479260" class="note_form">
-            <span id="note_date_8479260" class="note_date">
+<div id="note_form_8727608" class="note_form">
+            <span id="note_date_8727608" class="note_date">
                             Neue Notiz:
                     </span>
     
-            <textarea id="note_textarea_8479260" rows="4" class="form-control note_textarea"></textarea>
+            <textarea id="note_textarea_8727608" rows="4" class="form-control note_textarea"></textarea>
     
     <br/>
 
-            <button id="notes_login_save_8479260" class="notes_login_save btn btn-block wgg_blue">
+            <button id="notes_login_save_8727608" class="notes_login_save btn btn-block wgg_blue">
             Speichern
         </button>
     </div>
 
 <script>
     
-    var ad_id                = 8479260;
+    var ad_id                = 8727608;
     var fetched_ad_note_text = 'null' ? '' : '';
     var ad_detail_view       = '1';
 </script>
@@ -2130,8 +1999,8 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
 
     
 <div style="margin: 15px 0;">
-            <a href="https://www.instagram.com/wggesuchtde/" rel="nofollow" target="_blank">
-            <img class="img-responsive" src="img/follow_us_on_instagram.jpg">
+            <a href="https://www.facebook.com/wggesucht.de/" rel="nofollow" target="_blank">
+            <img class="img-responsive" src="img/follow_us_on_facebook.jpg">
         </a>
     </div>
 
@@ -2139,7 +2008,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
 <div class="hidden-xs hidden-sm display-none noprint contact_box_sticky">
     <div class="row">
         <div class="col-md-2">
-            <div class="profile_image_dav cursor-pointer" style="background-image: url('https://img.wg-gesucht.de/media/up/2020/39/cb818a37babcd6354583a770508f7ce1302496ae29e1182c1f676bd03ae7e333_IMG_5627.sized.JPG'); margin: auto 10px;" data-featherlight="https://img.wg-gesucht.de/media/up/2020/39/cb818a37babcd6354583a770508f7ce1302496ae29e1182c1f676bd03ae7e333_IMG_5627.sized.JPG">
+            <div class="profile_image_dav " style="background-image: url('/img/placeholder/no_profile_image_unisex.svg'); margin: auto 10px;" >
                 <div class="online_status" ></div>
             </div>
         </div>
@@ -2147,7 +2016,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
         <div class="col-md-4 mt5">
             <div class="row">
                 <div class="col-md-12">
-                                                                        <img class="position-relative vis img-responsive" src="t_ph.html?qrup=grap36&amp;id=8479260" alt=""/>
+                                                                        <img class="position-relative vis img-responsive" src="t_ph.html?qrup=grap36&amp;id=8727608" alt=""/>
                                             
                                     </div>
             </div>
@@ -2155,7 +2024,7 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
             <div class="row">
                 <div class="col-md-6">
                                             <b>Mitglied seit:</b>
-                        Juli  2020
+                        Dezember  2019
                                     </div>
 
 
@@ -2163,27 +2032,27 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
                     <b>
                                                     Angebot online:
                                             </b>
-                    <span style="color: #218700;"> 1 Tag</span>
+                    <span style="color: #218700;"> 2 Tage</span>
                 </div>
             </div>
             <div class="row">
                 
                 <div class="col-md-6 pull-right">
                     <b>Anzeigennummer:</b>
-                    8479260
+                    8727608
                 </div>
             </div>
         </div>
 
         <div class="col-md-3">
-                            <a class="btn btn-fb btn-md btn-block" onClick="ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Innstadt.8479260.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Innstadt.8479260.html" rel="nofollow" style="margin-top: 30px;">
+                            <a class="btn btn-fb btn-md btn-block" onClick="ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Altstadt.8727608.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Altstadt.8727608.html" rel="nofollow" style="margin-top: 30px;">
                     <span class="mdi mdi-18px mdi-lh mdi-fw mdi-share" aria-hidden="true"></span>
                     Auf Facebook teilen
                 </a>
                     </div>
 
                     <div class="col-md-3">
-                                                            <a class="btn btn-block btn-md wgg_orange" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau-Innstadt.8479260.html" rel="nofollow" style="margin-top: 30px;">
+                                                            <a class="btn btn-block btn-md wgg_orange" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau-Altstadt.8727608.html" rel="nofollow" style="margin-top: 30px;">
                             <span class="mdi mdi-16px mdi-pad mdi-lh mdi-vm mdi-fw mdi-email" aria-hidden="true"></span>
                             Nachricht senden
                         </a>
@@ -2258,13 +2127,13 @@ Wir sind eine coole Truppe und verbringen gerne Zeit zusammen. Meistens treffen 
 
     <ul class="dropdown-menu dropdown-menu" role="menu">
         <li role="presentation">
-            <a class="language_flag" role="menuitem" href="/wg-zimmer-in-Passau-Innstadt.8479260.html" onClick="deleteCookie('site_language');">Deutsch</a>
+            <a class="language_flag" role="menuitem" href="/wg-zimmer-in-Passau-Altstadt.8727608.html" onClick="deleteCookie('site_language');">Deutsch</a>
         </li>
         <li role="presentation">
-            <a class="language_flag" role="menuitem" href="/en/wg-zimmer-in-Passau-Innstadt.8479260.html" onClick="setCookie('site_language', 'en', 3650, '/');">English</a>
+            <a class="language_flag" role="menuitem" href="/en/wg-zimmer-in-Passau-Altstadt.8727608.html" onClick="setCookie('site_language', 'en', 3650, '/');">English</a>
         </li>
         <li role="presentation">
-            <a class="language_flag" role="menuitem" href="/es/wg-zimmer-in-Passau-Innstadt.8479260.html" onClick="setCookie('site_language', 'es', 3650, '/');">Español</a>
+            <a class="language_flag" role="menuitem" href="/es/wg-zimmer-in-Passau-Altstadt.8727608.html" onClick="setCookie('site_language', 'es', 3650, '/');">Español</a>
         </li>
     </ul>
 </div>
@@ -3143,7 +3012,7 @@ Wenn Sie die erste Checkbox nicht markieren, können Sie WG-Gesucht.de laut DSGV
 
             <div class="modal-body row text-center phone_numbers_content">
                 <div class="col-xs-8 col-xs-offset-4 col-sm-8 col-sm-offset-3">
-                    <div class="profile_image_dav cursor-pointer" style="background-image: url('https://img.wg-gesucht.de/media/up/2020/39/cb818a37babcd6354583a770508f7ce1302496ae29e1182c1f676bd03ae7e333_IMG_5627.sized.JPG')" data-featherlight="https://img.wg-gesucht.de/media/up/2020/39/cb818a37babcd6354583a770508f7ce1302496ae29e1182c1f676bd03ae7e333_IMG_5627.sized.JPG">
+                    <div class="profile_image_dav " style="background-image: url('/img/placeholder/no_profile_image_unisex.svg')" >
                         <div class="online_status" ></div>
                     </div>
                 </div>

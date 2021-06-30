@@ -47,7 +47,7 @@ Dein Zimmer hat eine Tür zum Balko...">
                             <link rel="stylesheet" type="text/css" href="/assets/css/featherlight/featherlight.min.tjb1553536894.css" media="screen"/>
                 <link rel="stylesheet" type="text/css" href="/assets/css/croppie.min.tjb1598913401.css" media="screen"/>
                             
-                <link rel="stylesheet" type="text/css" href="/assets/css/wgg-styles-compiled.min.tjb1624305400.css" media="screen"/>
+                <link rel="stylesheet" type="text/css" href="/assets/css/wgg-styles-compiled.min.tjb1624968440.css" media="screen"/>
                     
                 <link rel="stylesheet" type="text/css" href="/assets/css/master_printer-2-3-5.min.css" media="print"/>
 
@@ -235,7 +235,7 @@ Dein Zimmer hat eine Tür zum Balko...">
             });
         }
     </script>
-    <script src="/js/lib/Services.lib.tjb1623707094.js"></script>
+    <script src="/js/lib/Services.lib.tjb1624913261.js"></script>
 
     
     <script src="/js/lib/ProfileManipulation.lib.tjb1623102504.js"></script>
@@ -744,6 +744,7 @@ Dein Zimmer hat eine Tür zum Balko...">
             });
         </script>
 
+        
 
         
         
@@ -961,8 +962,8 @@ Dein Zimmer hat eine Tür zum Balko...">
                             <div class="hidden-sm hidden-md hidden-lg mb10 noprint">
                     
 
-<a href="https://www.wg-gesucht.de/kreditvergleich.html" target="_blank" rel="nofollow" onclick="ga('send', 'event', 'Smava', 'Click_Textlink', 'detailed_view_offer');">
-                        Haben Sie wegen Corona einen kurzzeitig finanziellen Engpass? Ein Überbrückungskredit hilft - schon ab 0,68 % Zinsen, schnelle Auszahlung.
+<a href="https://www.wg-gesucht.de/kreditvergleich.html" target="_blank" rel="nofollow" onclick="ga('send', 'event', 'Tarifcheck', 'Click_Textlink', 'detailed_view_offer');">
+                        Überbrückungskredit wegen Corona gesucht? Jetzt vergleichen &amp; sparen, schon ab 0,68 % Zinsen.
             </a>
 <small class="position-relative" style="font-size: 0.6em; bottom: 5px;">1</small>
 
@@ -981,8 +982,8 @@ Dein Zimmer hat eine Tür zum Balko...">
         <div class="hidden-xs col-sm-12 text-center mb10 noprint">
             
 
-<a href="https://www.wg-gesucht.de/kreditvergleich.html" target="_blank" rel="nofollow" onclick="ga('send', 'event', 'Smava', 'Click_Textlink', 'detailed_view_offer');">
-                        Haben Sie wegen Corona einen kurzzeitig finanziellen Engpass? Ein Überbrückungskredit hilft - schon ab 0,68 % Zinsen, schnelle Auszahlung.
+<a href="https://www.wg-gesucht.de/kreditvergleich.html" target="_blank" rel="nofollow" onclick="ga('send', 'event', 'Tarifcheck', 'Click_Textlink', 'detailed_view_offer');">
+                        Überbrückungskredit wegen Corona gesucht? Jetzt vergleichen &amp; sparen, schon ab 0,68 % Zinsen.
             </a>
 <small class="position-relative" style="font-size: 0.6em; bottom: 5px;">1</small>
 
@@ -1679,7 +1680,7 @@ Wenn du dich für die WG und das Haus interessierst, wäre es schön, wenn du ei
     <div class="row">
         
         <div class="col-sm-4 card_image">
-            <a class="partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" style="background-image: url(img/kooperationen/smava/groups/1.jpg);" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="439" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de"></a>
+            <a class="partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" style="background-image: url(img/kooperationen/tarifcheck/groups/1.jpg);" data-partner_id="1" data-advertiser_partner="Tarifcheck" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="427" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de"></a>
         </div>
 
         <div class="col-sm-8 card_body">
@@ -1688,7 +1689,7 @@ Wenn du dich für die WG und das Haus interessierst, wäre es schön, wenn du ei
                 
                 <div class="col-sm-12">
                     <h3 class="truncate_title" title="Keine Küche? Kredite vergleichen &amp; sparen">
-                        <a class="partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="439" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">
+                        <a class="partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" data-partner_id="1" data-advertiser_partner="Tarifcheck" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="427" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">
                             Keine Küche? Kredite vergleichen & sparen
                         </a>
                     </h3>
@@ -1709,7 +1710,7 @@ Wenn du dich für die WG und das Haus interessierst, wäre es schön, wenn du ei
                                             <b>ab</b>
                                                 <b>
                             <span>
-                                439 &euro;
+                                427 &euro;
                             </span>
                         </b>
                         <b></b>
@@ -1723,7 +1724,7 @@ Wenn du dich für die WG und das Haus interessierst, wäre es schön, wenn du ei
             <div class="row" style="padding-top: 60px;">
                 <div class="col-sm-12 flex_space_between">
                     <span></span>
-                    <a class="detailansicht partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" style="color: #898989;" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="439" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">Anzeige</a>
+                    <a class="detailansicht partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" style="color: #898989;" data-partner_id="1" data-advertiser_partner="Tarifcheck" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="427" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">Anzeige</a>
                 </div>
             </div>
         </div>

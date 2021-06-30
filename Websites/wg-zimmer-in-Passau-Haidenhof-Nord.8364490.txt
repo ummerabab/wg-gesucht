@@ -43,7 +43,7 @@
                             <link rel="stylesheet" type="text/css" href="/assets/css/featherlight/featherlight.min.tjb1553536894.css" media="screen"/>
                 <link rel="stylesheet" type="text/css" href="/assets/css/croppie.min.tjb1598913401.css" media="screen"/>
                             
-                <link rel="stylesheet" type="text/css" href="/assets/css/wgg-styles-compiled.min.tjb1624305400.css" media="screen"/>
+                <link rel="stylesheet" type="text/css" href="/assets/css/wgg-styles-compiled.min.tjb1624968440.css" media="screen"/>
                     
                 <link rel="stylesheet" type="text/css" href="/assets/css/master_printer-2-3-5.min.css" media="print"/>
 
@@ -231,7 +231,7 @@
             });
         }
     </script>
-    <script src="/js/lib/Services.lib.tjb1623707094.js"></script>
+    <script src="/js/lib/Services.lib.tjb1624913261.js"></script>
 
     
     <script src="/js/lib/ProfileManipulation.lib.tjb1623102504.js"></script>
@@ -262,6 +262,21 @@
           };
         }
     </script>
+            <!-- Matomo -->
+                    <script type="text/plain" class="cmplazyload" data-cmp-vendor="s974">
+                    var _paq = window._paq || [];
+            /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+            (function() {
+                var u="//www.wg-gesucht.de/";
+                _paq.push(['setTrackerUrl', u+'matomo.php']);
+                _paq.push(['setSiteId', '1']);
+                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+            })();
+        </script>
+        <!-- End Matomo Code -->
     </head>
 <body  >
     <noscript>
@@ -740,6 +755,7 @@
             });
         </script>
 
+        
 
         
         
@@ -943,7 +959,7 @@
 
                     <span class="noprint">
                 
-<a href="/moving_service.html?tracking_view=moving_service_short" target="_blank" rel="nofollow" style="text-decoration: underline; ">
+<a href="/moving_service.html?tracking_view=moving_service_short" target="_blank" rel="nofollow" style=" ">
     Umzugsfirma beauftragen
 </a>
 <small class="position-relative" style="font-size: 0.6em; bottom: 5px;">1</small>
@@ -968,7 +984,7 @@
                     
 
 <a href="https://www.wg-gesucht.de/kreditvergleich.html" target="_blank" rel="nofollow" onclick="ga('send', 'event', 'Tarifcheck', 'Click_Textlink', 'detailed_view_offer');">
-                        Keine Küche, hohe Kaution? Kredite vergleichen &amp; sparen
+                        Haben Sie wegen Corona einen kurzzeitig finanziellen Engpass? Ein Überbrückungskredit hilft - schon ab 0,68 % Zinsen, schnelle Auszahlung.
             </a>
 <small class="position-relative" style="font-size: 0.6em; bottom: 5px;">1</small>
 
@@ -988,7 +1004,7 @@
             
 
 <a href="https://www.wg-gesucht.de/kreditvergleich.html" target="_blank" rel="nofollow" onclick="ga('send', 'event', 'Tarifcheck', 'Click_Textlink', 'detailed_view_offer');">
-                        Keine Küche, hohe Kaution? Kredite vergleichen &amp; sparen
+                        Haben Sie wegen Corona einen kurzzeitig finanziellen Engpass? Ein Überbrückungskredit hilft - schon ab 0,68 % Zinsen, schnelle Auszahlung.
             </a>
 <small class="position-relative" style="font-size: 0.6em; bottom: 5px;">1</small>
 
@@ -1746,7 +1762,7 @@ Alle Nebenkosten, wie Strom, Wasser, Heizkosten und auch das super schnelle Wlan
     <div class="row">
         
         <div class="col-sm-4 card_image">
-            <a class="partners" href="https://www.wg-gesucht.de/bonitaetscheck.html?utm_campaign=schufa&amp;utm_source=detail_view_ad" rel="nofollow" target="_blank" style="background-image: url(img/kooperationen/schufa/groups/zertifikat.png);" data-partner_id="1" data-advertiser_partner="Schufa" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="427" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de"></a>
+            <a class="partners" href="https://www.wg-gesucht.de/bonitaetscheck.html?utm_campaign=schufa&amp;utm_source=detail_view_ad" rel="nofollow" target="_blank" style="background-image: url(img/kooperationen/schufa/groups/zertifikat.png);" data-partner_id="1" data-advertiser_partner="Schufa" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="520" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de"></a>
         </div>
 
         <div class="col-sm-8 card_body">
@@ -1755,7 +1771,7 @@ Alle Nebenkosten, wie Strom, Wasser, Heizkosten und auch das super schnelle Wlan
                 
                 <div class="col-sm-12">
                     <h3 class="truncate_title" title="Erfolgschancen erhöhen mit BonitätsCheck">
-                        <a class="partners" href="https://www.wg-gesucht.de/bonitaetscheck.html?utm_campaign=schufa&amp;utm_source=detail_view_ad" rel="nofollow" target="_blank" data-partner_id="1" data-advertiser_partner="Schufa" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="427" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">
+                        <a class="partners" href="https://www.wg-gesucht.de/bonitaetscheck.html?utm_campaign=schufa&amp;utm_source=detail_view_ad" rel="nofollow" target="_blank" data-partner_id="1" data-advertiser_partner="Schufa" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="520" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">
                             Erfolgschancen erhöhen mit BonitätsCheck
                         </a>
                     </h3>
@@ -1782,7 +1798,7 @@ Alle Nebenkosten, wie Strom, Wasser, Heizkosten und auch das super schnelle Wlan
             <div class="row" style="padding-top: 60px;">
                 <div class="col-sm-12 flex_space_between">
                     <span></span>
-                    <a class="detailansicht partners" href="https://www.wg-gesucht.de/bonitaetscheck.html?utm_campaign=schufa&amp;utm_source=detail_view_ad" rel="nofollow" target="_blank" style="color: #898989;" data-partner_id="1" data-advertiser_partner="Schufa" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="427" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">Anzeige</a>
+                    <a class="detailansicht partners" href="https://www.wg-gesucht.de/bonitaetscheck.html?utm_campaign=schufa&amp;utm_source=detail_view_ad" rel="nofollow" target="_blank" style="color: #898989;" data-partner_id="1" data-advertiser_partner="Schufa" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="520" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">Anzeige</a>
                 </div>
             </div>
         </div>

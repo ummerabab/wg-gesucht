@@ -9,41 +9,41 @@
 
     <meta name="Author" content="WG-Gesucht.de"/>
 
-    <title>Überprüfung</title>
-    <meta name="title" content="Überprüfung"/>
+    <title>WG Zimmer Passau/Ilzstadt zur Zwischenmiete - WG in Passau möbliert Passau-Ilzstadt</title>
+    <meta name="title" content="WG Zimmer Passau/Ilzstadt zur Zwischenmiete - WG in Passau möbliert Passau-Ilzstadt"/>
 
             <meta name="ROBOTS" content="NOARCHIVE"/>
             
-            <link rel="canonical" href="https://www.wg-gesucht.de/cuba.html"/>
+            <link rel="canonical" href="https://www.wg-gesucht.de/wg-zimmer-in-Passau-Ilzstadt.8754768.html"/>
         
         <meta name="pinterest-rich-pin" content="false" />
     
             <meta name="Keywords" content="WG Zimmer Wohnungsmarkt Wohnungssuche Mietwohnung Suche Biete anbieten Angebot Zwischenmiete Wohnung Zimmersuche Wohnung Wohnungen Mietwohnungen Mietgesuche Mietangebote Wohnungsangebote Wohnungsanzeigen Schweiz Österreich Berlin Stuttgart Hamburg München Köln">
-<meta name="Description" content="Kostenlose Wohnungsbörse für Europa mit über 200.000 Anzeigen pro Monat - provisionsfrei!">
+<meta name="Description" content="Das Zimmer ist vollmöbliert und sofort zum Einzug bereit. Das Zimmer ist zwar relativ klein, dafür hat man einen Wahnsinns Ausbli...">
 
     
             <meta name="apple-itunes-app" content="app-id=1084293678">
         <meta name="google-play-app" content="app-id=com.wggesucht.android">
 
-                                    <link rel="image_src" href="https://www.wg-gesucht.de/img/preview/wg-gesucht-4.jpg"/>
-                <meta property="og:image" itemprop="image" content="https://www.wg-gesucht.de/img/preview/wg-gesucht-4.jpg"/>
+                                    <link rel="image_src" href="https://img.wg-gesucht.de/media/up/2021/26/5eca5bec95873f12e4a19a907714272f9186001cf42fa967091ff2bf2397d0b1_20210622_153424.sized.jpg"/>
+                <meta property="og:image" itemprop="image" content="https://img.wg-gesucht.de/media/up/2021/26/5eca5bec95873f12e4a19a907714272f9186001cf42fa967091ff2bf2397d0b1_20210622_153424.sized.jpg"/>
                 <meta property="og:type" content="article" />
-                <meta property="og:title" content="Überprüfung"/>
+                <meta property="og:title" content="WG Zimmer Passau/Ilzstadt zur Zwischenmiete"/>
                 <meta property="og:site_name" content="WG-Gesucht.de"/>
                 <meta property="fb:app_id" content="865138980249899"/>
-                <meta property="og:url" content="https://www.wg-gesucht.de/cuba.html" />
-                <meta property="og:description" content="" />
+                <meta property="og:url" content="https://www.wg-gesucht.de/wg-zimmer-in-Passau-Ilzstadt.8754768.html" />
+                <meta property="og:description" content="Das Zimmer ist vollmöbliert und sofort zum Einzug bereit. Das Zimmer ist zwar relativ klein, dafür hat man einen Wahnsinns Ausblick auf d..." />
             
-                            <meta name="twitter:card" content="summary"/>
-                <meta name="twitter:site" content=""/>
-                <meta name="twitter:title" content="WG-Gesucht.de - Überprüfung"/>
-                <meta name="twitter:description" content="Kostenlose Wohnungsbörse für Europa mit über 200.000 Anzeigen pro Monat - provisionsfrei!"/>
-                <meta name="twitter:image" content="https://www.wg-gesucht.de/img/twitter_card_logo.png"/>
+                            <meta name="twitter:card" content="summary_large_image">
+                <meta name="twitter:site" content="">
+                <meta name="twitter:title" content="WG-Gesucht.de - WG Zimmer Passau/Ilzstadt zur Zwischenmiete - WG in Passau möbliert Passau-Ilzstadt">
+                <meta name="twitter:description" content="Das Zimmer ist vollmöbliert und sofort zum Einzug bereit. Das Zimmer ist zwar relativ klein, dafür hat man einen Wahnsinns Ausblick auf d...">
+                <meta name="twitter:image" content="https://img.wg-gesucht.de/media/up/2021/26/5eca5bec95873f12e4a19a907714272f9186001cf42fa967091ff2bf2397d0b1_20210622_153424.sized.jpg">
                         
                             <link rel="stylesheet" type="text/css" href="/assets/css/featherlight/featherlight.min.tjb1553536894.css" media="screen"/>
                 <link rel="stylesheet" type="text/css" href="/assets/css/croppie.min.tjb1598913401.css" media="screen"/>
                             
-                <link rel="stylesheet" type="text/css" href="/assets/css/wgg-styles-compiled.min.tjb1624305400.css" media="screen"/>
+                <link rel="stylesheet" type="text/css" href="/assets/css/wgg-styles-compiled.min.tjb1624968440.css" media="screen"/>
                     
                 <link rel="stylesheet" type="text/css" href="/assets/css/master_printer-2-3-5.min.css" media="print"/>
 
@@ -109,8 +109,40 @@
     
 
     
+            <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+
+    googletag.cmd.push(function() {
+        googletag.pubads().enableAsyncRendering();
+        googletag.pubads().collapseEmptyDivs(true);
+
+                    googletag.defineSlot('/1009105/d_HPA_AG_detail_LHS2', [[300, 250], [300, 600]], 'div-gpt-ad-1579037206635-0').addService(googletag.pubads());
+                    googletag.defineSlot('/1009105/d_MR_AG_Galerie_1', [[300, 250], [600, 350]], 'div-gpt-ad-1579037813120-0').addService(googletag.pubads());
+                    googletag.defineSlot('/1009105/d_MR_AG_Galerie_2', [[300, 250], [600, 350]], 'div-gpt-ad-1579038209140-0').addService(googletag.pubads());
+        
+                    googletag.pubads().setTargeting("wgg_city", "passau");
+                            googletag.pubads().setTargeting("cityname", "Passau");
+                            googletag.pubads().setTargeting("wgg_pic", "1");
+                            googletag.pubads().setTargeting("wgg_rubrik", "0");
+                                    googletag.pubads().setTargeting("wgg_pos", "angebot_detail");
+                            googletag.pubads().setTargeting("wgg_bula", "Bayern");
+                                            googletag.pubads().setTargeting("wgg_rent_type", "1");
+                            googletag.pubads().setTargeting("wgg_rent_type", "1");
+                googletag.enableServices();
+    });
+</script>
+
     
-    
+            
+                    
+    <script type="text/javascript" src="//storage.googleapis.com/adtags/wg-gesucht/wg-gesucht.de_ang_detail_PreCall.js"></script>
+    <script src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+    <script type="text/javascript" src="//storage.googleapis.com/adtags/wg-gesucht/wg-gesucht.de_ang_detail_AdCall.js"></script>
+    <script>console.log('qm init ang detail');</script>
+
+            
             <script type="text/plain" class="cmplazyload" data-cmp-vendor="s26">
     (function(i,s,o,g,r,a,m) { i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() {
     (i[r].q=i[r].q||[]).push(arguments) } ,i[r].l=1*new Date();a=s.createElement(o),
@@ -121,14 +153,18 @@
     ga('create', 'UA-230537-1', 'auto');
 
 
-    var custom_dimension_subpage = 'captcha';
+    var custom_dimension_subpage = 'angebot_detail';
     ga('set', 'dimension1', custom_dimension_subpage);
-    var custom_dimension_rubrik = 'einzi-whg';
+    var custom_dimension_rubrik = 'wg';
     ga('set', 'dimension2', custom_dimension_rubrik);
+    var custom_dimension_bula = 'Bayern';
+    ga('set', 'dimension3', custom_dimension_bula);
+    var custom_dimension_stadt = 'Passau';
+    ga('set', 'dimension4', custom_dimension_stadt);
 
     ga('set', 'dimension5', 'guest');
 
-    var dimensionValue = '';
+    var dimensionValue = 'de';
     ga('set', 'dimension6', dimensionValue);
 
     ga('set', 'anonymizeIp', true);
@@ -195,7 +231,7 @@
             });
         }
     </script>
-    <script src="/js/lib/Services.lib.tjb1623707094.js"></script>
+    <script src="/js/lib/Services.lib.tjb1624913261.js"></script>
 
     
     <script src="/js/lib/ProfileManipulation.lib.tjb1623102504.js"></script>
@@ -270,7 +306,30 @@
     </script>
 
     <div id="master_wrapper" class="position-relative">
-                                    
+                                    <div class="noprint">
+                    <div class="noprint">
+<div id="qm_ad_wrapper">
+    <!-- QM Superbanner -->
+     <div id="qm-leaderboard" class="noprint">
+        <div id='div-gpt-ad-189159851654146248-1'>
+            <script type='text/javascript'>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-189159851654146248-1'); });
+            </script>
+        </div>
+     </div>
+     <div id="qm-sky-right" class="noprint">
+        <!-- QM Sky Right -->
+        <div id='div-gpt-ad-189159851654146248-3'>
+            <script type='text/javascript'>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-189159851654146248-3'); });
+            </script>
+        </div>
+     </div>
+</div>
+</div>
+<script type="text/javascript">console.log('qm ad wrapper loaded');</script>
+                </div>
+                            
         <div id="site_wrapper" class="container">
         <a href="#main_content" class="sr-only sr-only-focusable noprint">
             Zum Hauptinhalt springen
@@ -334,33 +393,33 @@
     <div id="top_nav_main_menu" class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
             <li class="dropdown">
-                <a class="dropdown-toggle " data-toggle="dropdown" role="button" aria-expanded="false" href="https://www.wg-gesucht.de/wohnraumangebote.html" onclick="ga('send', 'event', 'main_navigation', 'offers', '1st_level');">
+                <a class="dropdown-toggle active_nav" data-toggle="dropdown" role="button" aria-expanded="false" href="https://www.wg-gesucht.de/wohnraumangebote.html" onclick="ga('send', 'event', 'main_navigation', 'offers', '1st_level');">
                     Angebote <span class="caret"></span>
                 </a>
                 <ul class="dropdown-menu" role="menu">
                     <li>
-                        <a  href="https://www.wg-gesucht.de/wohnraumangebote.html?cat=0" onclick="ga('send', 'event', 'sub_navigation', 'flatshare', 'offers');">
+                        <a  href="https://www.wg-gesucht.de/wg-zimmer-in-Passau.104.0.1.0.html" onclick="ga('send', 'event', 'sub_navigation', 'flatshare', 'offers');">
                             WG-ZIMMER
                         </a>
                     </li>
                     <li class="divider"></li>
 
                     <li>
-                        <a  href="https://www.wg-gesucht.de/wohnraumangebote.html?cat=1" onclick="ga('send', 'event', 'sub_navigation', 'single-room', 'offers');">
+                        <a  href="https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Passau.104.1.1.0.html" onclick="ga('send', 'event', 'sub_navigation', 'single-room', 'offers');">
                             1-ZIMMER-WOHNUNG
                         </a>
                     </li>
                     <li class="divider"></li>
 
                     <li>
-                        <a  href="https://www.wg-gesucht.de/wohnraumangebote.html?cat=2" onclick="ga('send', 'event', 'sub_navigation', 'apartment', 'offers');">
+                        <a  href="https://www.wg-gesucht.de/wohnungen-in-Passau.104.2.1.0.html" onclick="ga('send', 'event', 'sub_navigation', 'apartment', 'offers');">
                             WOHNUNG
                         </a>
                     </li>
                     <li class="divider"></li>
 
                     <li>
-                        <a  href="https://www.wg-gesucht.de/wohnraumangebote.html?cat=3" onclick="ga('send', 'event', 'sub_navigation', 'house', 'offers');">
+                        <a  href="https://www.wg-gesucht.de/haeuser-in-Passau.104.3.1.0.html" onclick="ga('send', 'event', 'sub_navigation', 'house', 'offers');">
                             HAUS
                         </a>
                     </li>
@@ -380,28 +439,28 @@
                 </a>
                 <ul class="dropdown-menu" role="menu">
                     <li>
-                        <a  href="https://www.wg-gesucht.de/wohnraumgesuche.html?cat=0" onclick="ga('send', 'event', 'sub_navigation', 'flatshare', 'requests');">
+                        <a  href="https://www.wg-gesucht.de/wg-zimmer-in-Passau-gesucht.104.0.1.0.html" onclick="ga('send', 'event', 'sub_navigation', 'flatshare', 'requests');">
                             WG-ZIMMER
                         </a>
                     </li>
                     <li class="divider"></li>
 
                     <li>
-                        <a  href="https://www.wg-gesucht.de/wohnraumgesuche.html?cat=1" onclick="ga('send', 'event', 'sub_navigation', 'single-room', 'requests');">
+                        <a  href="https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Passau-gesucht.104.1.1.0.html" onclick="ga('send', 'event', 'sub_navigation', 'single-room', 'requests');">
                             1-ZIMMER-WOHNUNG
                         </a>
                     </li>
                     <li class="divider"></li>
 
                     <li>
-                        <a  href="https://www.wg-gesucht.de/wohnraumgesuche.html?cat=2" onclick="ga('send', 'event', 'sub_navigation', 'apartment', 'requests');">
+                        <a  href="https://www.wg-gesucht.de/wohnungen-in-Passau-gesucht.104.2.1.0.html" onclick="ga('send', 'event', 'sub_navigation', 'apartment', 'requests');">
                             WOHNUNG
                         </a>
                     </li>
                     <li class="divider"></li>
 
                     <li>
-                        <a  href="https://www.wg-gesucht.de/wohnraumgesuche.html?cat=3" onclick="ga('send', 'event', 'sub_navigation', 'house', 'requests');">
+                        <a  href="https://www.wg-gesucht.de/haeuser-in-Passau-gesucht.104.3.1.0.html" onclick="ga('send', 'event', 'sub_navigation', 'house', 'requests');">
                             HAUS
                         </a>
                     </li>
@@ -649,7 +708,7 @@
 
             </div>
                 
-                                                                    
+                                                                                                
 
         
         <div id="ad_blocker_message_container" class="row" style="display: none; margin: 15px 0;">
@@ -681,6 +740,7 @@
             });
         </script>
 
+        
 
         
         
@@ -689,41 +749,1449 @@
         <div id="main_content" class="row">
                                                 <div id="main_column" class="col-xs-12 col-md-8 col-md-push-4 ">
                         
-<br/><br/>
 
-<div id="bedingungen" style="width: 100%;">
-    <b class="linkColor">Warum erscheint diese Seite?</b>
-    <br/><br/>
 
-    <ul>
-        <p>Teilweise werden Computer (&quot;Bots&quot;) eingesetzt, um missbräuchlich automatische Eingaben auf einer Seite zu machen. Alle Webseiten nutzen daher Captchas, um zu prüfen, ob beispielsweise ein Formular von einem Menschen oder einem Computer ausgefüllt wurde. Captchas sind für den Schutz einer Website oder eines Dienstes unverzichtbar.</p>
-    </ul>
-    <b class="linkColor">Was ist zu tun?</b>
-    <br/><br/>
 
-    <ul>
-        <p>Die Lösung des Captchas stellt sicher, dass kein Bot die Website automatisiert aufruft. Bitte markieren Sie daher die Checkbox unten und klicken Sie den Button &quot;Absenden&quot;. So wissen wir, dass Sie kein Programm, sondern eine reale Person sind. Anschließend können Sie WG-Gesucht.de wie bisher weiter nutzen.</p>
-        <p>Unsere AGB können Sie hier einsehen: <a href="https://www.wg-gesucht.de/en/agb.html" rel="nofollow" target="_blank">https://www.wg-gesucht.de/en/agb.html</a>. Informationen zum Datenschutz finden Sie unter folgendem Link: <a href="https://www.wg-gesucht.de/en/datenschutz.html" rel="nofollow" target="_blank">https://www.wg-gesucht.de/en/datenschutz.html</a>.</p>
-        <p>Vielen Dank für Ihre Mithilfe.</p>
-    </ul>
-<br/>
 
-<form name="checkform" method="post" action="https://www.wg-gesucht.de/cuba.html">
-    <div style="margin-left:5%;">
-        <input type="hidden" name="step" value="2">
-        <input type="hidden" name="page" value="/wg-zimmer-in-Passau-Ilzstadt.8754768.html">
-                <div class="g-recaptcha" data-sitekey="6LciNA4TAAAAAHQZGcdTxO_KIskhDWevImHFo60D"></div>
-        <br/>
-        <input type="submit" class="btn btn-primary mb5" value="Absenden">
+
+<nav>
+    <div class="row pagination-ads noprint">
+        <div class="col-xs-4 text-left">
+                            &nbsp;
+                    </div>
+
+        <div class="col-xs-4 text-center">
+                            <a href="wg-zimmer-in-Passau.104.0.1.0.html#back_to_ad_8754768" onclick="ga('send', 'event', 'ads-pagination', 'click', 'results');">
+                    Treffer                </a>
+                    </div>
+
+        <div class="col-xs-4 text-right">
+                            &nbsp;
+                    </div>
     </div>
-</form>
-<br/>
+</nav>
 
-<script src='https://www.google.com/recaptcha/api.js?hl=de'></script>
+
+
+
+    
+
+
+
+    <div class="panel panel-default">
+        <div class="panel-body">
+
+<div id="favourite_error_wrapper" class="alert alert-without-icon alert-danger display-none" role="alert">
+    <div class="alert-body"></div>
+</div>
+
+
+    <div class="noprint" style="margin: 0 -15px;">
+            </div>
+
+
+<div class="noprint showOnGalleryOnly">
+    <h1 id="sliderTopTitle" class="headline headline-detailed-view-title">
+        <div class="mr5 detail-list-fav-button display-inline-block hidden-xs create_favourite" data-ad_id="8754768" data-ad_type="0" data-favourite_status="0" style="z-index: 999; position:relative!important;">
+            <span class="fav-button-8754768 mdi mdi-fw mdi-22px mdi-heart-outline icon-fav-list" aria-hidden="true"></span>
+        </div>
+
+                    <span title="3er WG (1w,1m,0d)" style="margin-right: 6px;">
+                                    
+                    
+<img class="vis" src="/img/wgw.gif" alt="weiblich" width="10" height="17" style="margin-left:0px;"><img class="vis" src="/img/wgm.gif" alt="Malmännliche" width="10" height="17" style="margin-left:0px;"><img class="vis" src="/img/wgeg.gif" alt="Mitbewohnerin oder Mitbwohner gesucht" width="10" height="17" style="margin-left:0px;">
+                            </span>
+                WG Zimmer Passau/Ilzstadt zur Zwischenmiete
+        <div class="CLR"></div>
+    </h1>
+
+            <div id="appleBildMessage" class="pull-right" style="margin-right:8px;">
+            <a class="cursor-pointer" onclick="location.reload();">
+                Weiter zu den Wohnungsfotos
+            </a>
+        </div>
+        <br/>
+    </div>
+
+
+
+
+<div style="margin: 0 -15px;">
+            <div id="appleBildTeaser" class="noprint">
+            <br/>
+            
+                                                <div style="width: 100%;" align="center">
+                        <!-- /1009105/d_MR_AG_Galerie_1 -->
+                        <div id='div-gpt-ad-1579037813120-0'>
+                          <script>
+                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1579037813120-0'); });
+                          </script>
+                        </div>
+                    </div>
+                                    </div>
+    </div>
+
+
+
+    <div class="row">
+        <div class="col-xs-12">&nbsp;</div>
+        <div class="col-xs-6 text-center print_inline">
+            <h2 class="headline headline-key-facts">
+                                    12m&sup2;
+                            </h2>
+
+            <h3 class="headline headline-key-facts">
+                                    Zimmergröße
+                            </h3>
+        </div>
+
+        <div class="col-xs-6 text-center print_inline">
+            <h2 class="headline headline-key-facts">
+                                    246&euro;
+                            </h2>
+
+            <h3 class="headline headline-key-facts">
+                Gesamtmiete
+            </h3>
+        </div>
+
+            </div>
+    <div class="row">
+        <hr class="hr-divider">
+    </div>
+
+<div class="row" style="margin-top:50px;">
+    <div class="col-sm-5">
+        <h3 class="headline headline-detailed-view-panel-title">
+            Kosten
+        </h3>
+
+        <table class="table">
+            <tr>
+                <td>
+                                            Miete:
+                                    </td>
+
+                <td class="col-xs-6 col-sm-4 print_text_left" style="padding: 3px 8px; font-size: 1.5em; vertical-align: bottom;">
+                                           <b>220&euro;</b>
+                                    </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Nebenkosten:<span class="mdi mdi-information" aria-hidden="true" data-toggle="popover" data-popover-content="#popover_fee_equipment"></span>
+                    <div id="popover_fee_equipment" class="hidden noprint">
+                        <div class="popover-close-me mdi mdi-close-circle-outline visible-xs-block visible-sm-block" aria-hidden="true" onclick="hideinfo('popover_fee_equipment');"></div>
+                        Nebenkosten sind geschätzte Kosten, die auf dem Verbrauch des Vormieters basieren und monatlich im Voraus bezahlt werden. Am Jahresende rechnet der Vermieter die Vorauszahlungen mit dem tatsächlichen Verbrauch des Mieters ab. Infolgedessen muss der Mieter eine Nachzahlung leisten oder er erhält eine Rückzahlung.
+                    </div>
+                </td>
+
+                <td>
+                                            <b>26&euro;</b>
+                                    </td>
+            </tr>
+
+            <tr>
+                <td>
+                    Sonstige Kosten:
+                </td>
+
+                <td>
+                                            <b>n.a.</b>
+                                    </td>
+            </tr>
+
+                            <tr>
+                    <td>
+                        Kaution:
+                    </td>
+
+                    <td>
+                        <input id="kaution" type="hidden" value="100">
+                        <b>100&euro;</b>
+                    </td>
+                </tr>
+            
+            
+            
+            
+                            <tr>
+                    <td class="noprint" colspan="2">
+                        <a class="schufa_link" href="/bonitaetscheck.html?utm_campaign=schufa&utm_source=offer_detail_costs" target="_blank" rel="nofollow" style="font-weight: normal; color: #383E46; text-decoration: none;">
+                            SCHUFA-Auskunft:
+                        </a>
+                        &nbsp;
+                        <a class="schufa_link" href="/bonitaetscheck.html?utm_campaign=schufa&utm_source=offer_detail_costs" target="_blank" rel="nofollow">
+                            Online anfordern
+                        </a>
+                        <small class="position-relative" style="font-size:0.6em; bottom:5px;">1</small>
+                    </td>
+                </tr>
+                    </table>
+    </div>
+
+    <div class="col-sm-4 mb10">
+        <h3 class="headline headline-detailed-view-panel-title">
+            Adresse
+        </h3>
+        <a href="#mapContainer" style="line-height: 1.5em;font-weight: normal; color: #555; margin-bottom: 23px;">
+                            Löwenmühlstraße 37
+                        <br/>
+
+            94034 Passau Ilzstadt
+            <br/>
+        </a>
+
+                    <span class="noprint">
+                
+<a href="/moving_service.html?tracking_view=moving_service_short" target="_blank" rel="nofollow" style="text-decoration: underline; ">
+    Umzugsfirma beauftragen
+</a>
+<small class="position-relative" style="font-size: 0.6em; bottom: 5px;">1</small>
+
+            </span>
+            <br/>
+            </div>
+
+    <div class="col-sm-3">
+        <h3 class="headline headline-detailed-view-panel-title" style="padding-bottom:  5px;">
+            Verfügbarkeit
+        </h3>
+        <p style="line-height: 2em;">
+                            frei ab:
+                <b>01.10.2021</b>
+                <br/>
+            
+                            frei bis:
+                <b>01.03.2022</b>
+                <br/>
+            
+            
+            
+                            <div class="hidden-sm hidden-md hidden-lg mb10 noprint">
+                    
+
+<a href="https://www.wg-gesucht.de/kreditvergleich.html" target="_blank" rel="nofollow" onclick="ga('send', 'event', 'Smava', 'Click_Textlink', 'detailed_view_offer');">
+                        Keine Küche, hohe Kaution? Kredite vergleichen &amp; sparen
+            </a>
+<small class="position-relative" style="font-size: 0.6em; bottom: 5px;">1</small>
+
+                </div>
+            
+                            <b class="noprint" style="color: #218700;">
+                    Online: 1 Tag
+                </b>
+                    </p>
+    </div>
+</div>
+
+
+
+    <div class="row">
+        <div class="hidden-xs col-sm-12 text-center mb10 noprint">
+            
+
+<a href="https://www.wg-gesucht.de/kreditvergleich.html" target="_blank" rel="nofollow" onclick="ga('send', 'event', 'Smava', 'Click_Textlink', 'detailed_view_offer');">
+                        Keine Küche, hohe Kaution? Kredite vergleichen &amp; sparen
+            </a>
+<small class="position-relative" style="font-size: 0.6em; bottom: 5px;">1</small>
+
+        </div>
+    </div>
+
+<div class="noprint text-center hidden-md hidden-lg" style="margin-top: 15px;">
+    <span id="copy_url_to_clipboard" class="cursor-pointer" onclick="showLinkCopiedToast();ga('send', 'event', 'Buttons', 'Copy_Url_to_Clipboard', 'Social Buttons');">
+        <span class="mdi mdi-link mdi-22px mdi-lh mdi-rotate-135"></span>
+        Anzeigenlink in Zwischenablage kopieren
+    </span>
+
+    <div id="url_copied_successfully" class="noprint">
+        Link erfolgreich kopiert!
+    </div>
+</div>
+
+<script src="/js/external_libraries/clipboard.min.js"></script>
+<script>
+    $(function() {
+        var current_url = "https://www.wg-gesucht.de//8754768.html";
+
+        // Using the clipboard.js library in order for the copy to clipboard action to work in Safari too
+        var clipboard = new Clipboard('#copy_url_to_clipboard', {
+            text: function() {
+                return current_url;
+            }
+        });
+
+        clipboard.on('success', function(e) {
+            e.clearSelection();
+        });
+    });
+
+    // Show toast for succesfully copied url
+    function showLinkCopiedToast() {
+        $("div#url_copied_successfully").fadeIn(1000).fadeOut(3000);
+    }
+</script>
+
+    <div class="row">
+        <hr class="hr-divider" />
+    </div>
+
+    <div class="row">
+        <div class="col-xs-12">
+            <h3 class="headline headline-detailed-view-panel-title">
+                WG-Details
+            </h3>
+        </div>
+
+        <div class="col-sm-6">
+            <h4 class="headline headline-detailed-view-datasheet">
+                Die WG
+            </h4>
+
+            <ul class="ul-detailed-view-datasheet print_text_left">
+                <li>
+                                            12m&sup2;
+                    
+                    Zimmer in 3er WG 
+                </li>
+
+                <li>
+                                            Wohnungsgröße: 90m&sup2;
+                                    </li>
+
+                <li>
+                    3er WG
+                                                                        (
+                                                            1
+                                                                    Frau
+                                                            
+                                                            und
+                            
+                                                            1
+                                                                    Mann
+                                                            
+                            
+                                                        )
+                                                            </li>
+
+                <li>
+                                            Bewohneralter: 22 bis 23 Jahre
+                                    </li>
+
+                                    <li>
+                                                    Rauchen nicht erwünscht
+                                            </li>
+                
+                                    <li>
+                        Studenten-WG, keine Zweck-WG
+                    </li>
+                
+                <li>
+                                            Sprache/n:
+                                                    <img class="flgS f-de" src="img/d.gif" alt="Deutsch" title="Deutsch"/>
+                                                            <span id="sprache_print">
+                                                                            Deutsch
+                                                                    </span>
+                                                                                        </li>
+            </ul>
+        </div>
+
+        <div class="col-sm-6">
+            <h4 class="headline headline-detailed-view-datasheet">
+                Gesucht wird
+            </h4>
+
+            <ul class="ul-detailed-view-datasheet print_text_left">
+                                    <li>
+                                                    Geschlecht egal
+                        
+                        
+                        
+                        
+                                                                                    zwischen 18 und 30 Jahren
+                                                                        </li>
+
+                    
+                                                </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <hr class="hr-divider" />
+    </div>
+
+    <div class="row">
+        <div class="col-xs-12">
+            <h3 class="headline headline-detailed-view-panel-title" style="margin-bottom: 10px;">
+                Angaben zum Objekt
+            </h3>
+
+            <div class="row">
+                                                
+                                                    
+                
+                                                                            <div class="col-xs-6 col-sm-4 text-center print_text_left">
+                        <span class="mdi mdi-city mdi-36px noprint"></span>
+                        <br/>
+
+                                                                                                                                                                        Mehrfamilienhaus                                                                    </div>
+
+                    
+                                    
+                                                                            <div class="col-xs-6 col-sm-4 text-center print_text_left">
+                        <span class="mdi mdi-office-building mdi-36px noprint"></span>
+                        <br/>
+
+                        4. OG
+                    </div>
+
+                                            <div class="clearfix visible-xs-block noprint" style="margin-bottom:20px;"></div>
+                                            
+                                    
+                                                                            <div class="col-xs-6 col-sm-4 text-center print_text_left">
+                        <span class="mdi mdi-bed-double-outline mdi-36px noprint"></span>
+                        <br/>
+
+                        möbliert                    </div>
+
+                    
+                                            <div class="clearfix visible-sm-block visible-md-block visible-lg-block noprint" style="margin-bottom:30px;"></div>
+                                                            
+                
+                                                                            <div class="col-xs-6 col-sm-4 text-center print_text_left">
+                        <span class="mdi mdi-shower mdi-36px noprint"></span>
+                        <br/>
+
+                        Badewanne, Dusche                    </div>
+
+                                            <div class="clearfix visible-xs-block noprint" style="margin-bottom:20px;"></div>
+                                            
+                                    
+                                                                            <div class="col-xs-6 col-sm-4 text-center print_text_left">
+                        <span class="mdi mdi-wifi mdi-36px noprint"></span>
+                        <br/>
+
+                        WLAN                                            </div>
+
+                    
+                                    
+                
+                                                                            <div class="col-xs-6 col-sm-4 text-center print_text_left">
+                        <span class="mdi mdi-layers mdi-36px noprint"></span>
+                        <br/>
+
+                                                Laminat, PVC                    </div>
+
+                                            <div class="clearfix visible-xs-block noprint" style="margin-bottom:20px;"></div>
+                                            
+                                            <div class="clearfix visible-sm-block visible-md-block visible-lg-block noprint" style="margin-bottom:30px;"></div>
+                                                            
+                
+                                                                            <div class="col-xs-6 col-sm-4 text-center print_text_left">
+                        <span class="mdi mdi-fire mdi-36px noprint"></span>
+                        <br/>
+
+                        Zentralheizung                                                                                                                                            </div>
+
+                    
+                                    
+                                                                            <div class="col-xs-6 col-sm-4 text-center print_text_left">
+                        <span class="mdi mdi-car mdi-36px noprint"></span>
+                        <br/>
+
+                                                                        Bewohnerparken                                                                    </div>
+
+                                            <div class="clearfix visible-xs-block noprint" style="margin-bottom:20px;"></div>
+                                            
+                                    
+                                                                            <div class="col-xs-6 col-sm-4 text-center print_text_left">
+                        <span class="mdi mdi-bus mdi-36px noprint"></span>
+                        <br/>
+
+                        1
+                                                    Minute
+                                                zu Fuß entfernt
+                    </div>
+
+                    
+                                            <div class="clearfix visible-sm-block visible-md-block visible-lg-block noprint" style="margin-bottom:30px;"></div>
+                                                            
+                                                                            <div class="col-xs-6 col-sm-4 text-center print_text_left">
+                        <span class="mdi mdi-folder mdi-36px noprint"></span>
+                        <br/>
+
+                                                Waschmaschine, Gartenmitbenutzung, Keller, Fahrradkeller                    </div>
+
+                                           <div class="clearfix visible-xs-block noprint" style="margin-bottom:20px;"></div>
+                                            
+                                    
+                            </div>
+        </div>
+    </div>
+
+
+<div class="row">
+    <br class="printonly"/>
+
+    <hr class="hr-divider"/>
+</div>
+
+<div class="row">
+    <div id="blur" class="panelToTranslate">
+        
+                    <div id="ad_description_text" class="col-xs-12">
+                
+                <div id="infobox_nachrichtsenden" class="position-fixed hidden noprint" style="background:#FFFFFF; border:1px solid #009900; width:160px; left:562px; top:35%; padding: 0;">
+                    <div style="background:#009900; padding:3px; color:#FFFFFF;">
+                        <b>Hinweis</b>
+                    </div>
+                    <br/>
+
+                    <div style="padding:3px;">
+                        Bitte verwenden Sie die Nachricht senden Funktion am Ende der Seite.
+                        <br/><br/>
+
+                        <strong>Ihr <br>WG-Gesucht | Team</strong>                        <br/>&nbsp;
+                    </div>
+                </div>
+
+            
+            
+                                                <div class="noprint">
+                        <script type="text/plain" class="cmplazyload" data-cmp-vendor="39">
+                            ma_container = 'ma_adscr212500';
+                            ma_width = 640;
+                            ma_height = 360;
+                            ma_buttons_close = true;
+                            ma_autoclose = true;
+                            ma_advertisingSlogan_content = "Anzeige";
+                            ma_gdpr_consent = 'CO4Hdr2O4WEERAfR4BENAzCsAP_AAH_AAAYgF5pV8W5USGFAMHp5IroECIQVV1CAAyAiCgCAE6AACBKAYAQAEEAQAASAIAAAABAgIBIAAQAAAEEAAAAAAIABAAAIAAAAAAAIAAIACAEAEEAAAAAIAAAAAAAAAAAEAAAAgXmlXxblRIYUAwenkiugQIhBVXUIADICIKAIAToAAIEoBgBAAQQBAABIAgAAAAECAgEgABAAAAQQAAAAAAgAEAAAgAAAAAAAgAAgAIAQAQQAAAAAgAAAAAAAAAAAQAAACAAA';
+                            ma_onPassback = function() {
+                                if (!window.OX_ads) { OX_ads = []; }
+                                OX_ads.push({ "slot_id" : "540751961_mr_freitext_01", "auid" : "540890074" });
+                                var html5ad = document.createElement('script');
+                                html5ad.src = '//wg-gesucht-d.openx.net/w/1.0/jstag';
+                                var container = document.getElementById('ma_adscr212500');
+                                container.parentNode.insertBefore ( html5ad, container.nextSibling );
+                            }
+                        </script>
+                        <script type="text/plain" class="cmplazyload" data-cmp-vendor="39" id="ma_adscr212500" src="//ad.adition.com/dynamic.ad?a=o212500"></script>
+                    </div>
+                
+                
+            
+            
+
+                            <div id="freitext_0" class="wordWrap">
+                                        <h3 class="headline headline-default">
+                                                    Zimmer
+                                            </h3>
+                                        <p id="freitext_0_content" class="freitext">
+                        Das Zimmer ist vollmöbliert und sofort zum Einzug bereit. Das Zimmer ist zwar relativ klein, dafür hat man einen Wahnsinns Ausblick auf die Altstadt Passau, das 3-Flüsse Eck und die Veste Oberhaus (siehe Fotos). <br />
+Zur Verfügung stehen 2 Kühlschränke, eine funktionierende Küche und ein Gemeinschaftsraum. <br />
+Das Bad und die Toilette sind getrennt - also perfekt für das WG-Leben.
+                    </p>
+                </div>
+            
+            
+                
+
+                <div id="freitext_1" class="wordWrap" style="margin:6px 0 6px 1px;">
+                                        <h3 class="headline headline-default">
+                        Lage
+                    </h3>
+                                        <p id="freitext_1_content" class="freitext">
+                        Die Wohnung befindet sich am Ende der Löwenmühlstraße direkt an der Donau. Innerhalb von ca. 10 Minuten Fußweg ist man mitten in der Altstadt mit einer Menge Bars und Restaurants. Die Uni ist zu Fuß ca. in 20 Minuten zu erreichen, mit dem Fahrrad ist man da natürlich um einiges schneller. <br />
+Direkt vor der Haustüre befindet sich eine Bushaltestelle, von der ein Mal in der Stunde ein Bus in die Stadt (und damit auch zur Uni) fährt. 4 Minuten weiter weg ist eine weitere Bushaltestelle, von der der Bus in die Stadt tagsüber jede Viertelstunde geht. <br />
+Einkaufsmöglichkeiten befinden sich auch zahlreiche in der Nähe, die man am besten mit dem Bus erreicht.
+                    </p>
+                </div>
+            
+            
+                
+
+                <div id="freitext_2" class="wordWrap" style="margin:6px 0 6px 1px;">
+                                        <h3 class="headline headline-default">
+                        WG-Leben
+                    </h3>
+                                        <p id="freitext_2_content" class="freitext">
+                        Das WG-Leben ist wie man sich es vorstellt: Im Normalfall verbringt man viel Zeit miteinander und spontanes Biertrinken und gemeinsames Kochen sind Gang und Gäbe. Wenn man mal seine Ruhe haben möchte geht man in sein Zimmer und macht die Türe zu. <br />
+Normalerweise ist es aber ein ruhiges und harmonisches Zusammenleben, deshalb wäre es wichtig, dass du dich auch mit den beiden Mitbewohnern gut verstehst. <br />
+<br />
+<br />
+<br />
+Hin und wieder machen mein Mitbewohner und ich spontane Nerf-Gun Schlachten, dafür würde ich selbstverständlich meine eigene Nerf-Gun dalassen ;)
+                    </p>
+                </div>
+            
+            
+                <div class="noprint pull-left" style="margin:11px 11px 11px 0;"><div id="540751961_mr_freitext_01"></div></div><div class="CLR"></div>
+
+                <div id="freitext_3" class="wordWrap" style="margin:6px 0 6px 1px;">
+                                        <h3 class="headline headline-default">
+                        Sonstiges
+                    </h3>
+                                        <p id="freitext_3_content" class="freitext">
+                        Ich bin von Oktober bis Februar für ein Semester in Italien, deshalb wäre es wichtig, dass du ab Februar schon eine andere Wohnung gefunden hast. <br />
+Falls dich die Wohnung interessiert oder du Fragen hast, melde dich jederzeit bei mir per WhatsApp oder Anruf :)
+                    </p>
+                </div>
+                        </div>
+            <span class="col-xs-12 CLR text-center noprint display-none">
+                <a class="toggle_textfold" href="#">Ganzen Text anzeigen</a>
+            </span>
+
+            
+            <script>
+                $(function() {
+                    // The character limit up to which the ad text will be displayed when it's folded
+                    var character_limit = 300;
+
+                    var freetext_total_character_count = 0;
+                    for (var freetext_number = 0; freetext_number < 4; freetext_number++) {
+                        this_freetext_character_count = $('#freitext_' + freetext_number + '_content').text().length;
+                        if (freetext_total_character_count + this_freetext_character_count < character_limit) {
+                            freetext_total_character_count += this_freetext_character_count;
+                        } else {
+                            $('.toggle_textfold').parent().addClass('visible-xs-block');
+                            break;
+                        }
+                    }
+
+                    var freetext_selector = $('#freitext_' + freetext_number + '_content');
+
+                    // Create a clone of the freetext where the truncating occurs and give it the
+                    // ability to be toggled
+                    var truncated_text = freetext_selector.text().substring(0, character_limit - freetext_total_character_count) + '...';
+                    truncated_text.substring(0, 10).trim();
+                    freetext_selector.clone().appendTo('#freitext_' + freetext_number)
+                        .attr('id', 'freitext_' + freetext_number + '_truncated_content')
+                        .addClass('visible-xs-block noprint truncated_text')
+                        .css('white-space', 'pre-line').css('margin-top', '-20px')
+                        .html(truncated_text);
+                    freetext_selector.first().addClass('hidden-xs original_text');
+
+                    // Hide the freetexts coming after the one where the limit is applied, and
+                    // allow them to be toggled
+                    for (var freetext_to_hide = freetext_number + 1; freetext_to_hide < 4; freetext_to_hide++) {
+                        $('#freitext_' + freetext_to_hide).addClass('toggle_fold hidden-xs');
+                    }
+
+                    // Toggle text folding
+                    var text_is_folded = true;
+                    $('.toggle_textfold').on('click', function(e) {
+                        e.preventDefault();
+                        if (text_is_folded === true) {
+                            $('.original_text, .toggle_fold').removeClass('hidden-xs');
+                            $('.truncated_text').addClass('hidden-xs');
+                            $(this).text("weniger");
+                            text_is_folded = false;
+                        } else {
+                            $('.original_text, .toggle_fold').addClass('hidden-xs');
+                            $('.truncated_text').removeClass('hidden-xs');
+                            window.scrollTo(0, $('#ad_description_text').position().top);
+                            $(this).text("Ganzen Text anzeigen");
+                            text_is_folded = true;
+                        }
+                    });
+                });
+            </script>
+            </div>
+</div>
+
+<div class="row hidden-xs">
+    <hr class="hr-divider" />
+</div>
+
+
+<div class="row noprint">
+    <div id="basic_facts_wrapper" class="col-sm-12 hidden-xs" style="padding-top: 40px;">
+        
+        <div id="rent_wrapper" style="left: 6%;">
+            <div class="basic_facts_top_part">
+                <label class="amount">
+                                            90m&sup2;
+                                    </label>
+
+                <label class="description">
+                                            Wohnung
+                                    </label>
+            </div>
+
+            <div class="basic_facts_bottom_part">
+                <label class="amount">
+                                                                        12m&sup2;
+                                                            </label>
+
+                <label class="description">
+                                            Zimmergröße
+                                    </label>
+            </div>
+        </div>
+
+        
+        <div id="graph_wrapper" style="left: 36%;">
+            <div class="basic_facts_top_part" style="padding: 57px 0; position: relative;">
+                <div id="misc_costs" class="graph_bar" style="height: 15px;">
+                    <label class="graph_amount">
+                                                    n.a.
+                                            </label>
+
+                    <label class="graph_description">
+                        Sonstige
+                    </label>
+                </div>
+
+                <div id="utilities_costs" class="graph_bar" style="margin: 0 auto; left: 0; right: 0; height: 30px;">
+                    <label class="graph_amount">
+                                                    26&euro;
+                                            </label>
+
+                    <label class="graph_description">
+                        Nebenkosten
+                    </label>
+                </div>
+
+                <div id="rent" class="graph_bar" style="right: 0; height: 80px;">
+                    <label class="graph_amount">
+                        220&euro;
+                    </label>
+
+                    <label class="graph_description">
+                        Miete
+                    </label>
+                </div>
+            </div>
+
+            <div class="basic_facts_bottom_part">
+                <label class="amount">
+                    246&euro;
+                </label>
+
+                <label class="description">
+                    Gesamtmiete
+                </label>
+            </div>
+        </div>
+
+        
+        <div id="provision_equipment_wrapper" style="left: 59%; width: 38%; bottom: 12%;">
+            <div class="provision-equipment" style="padding: 22px 11px; margin-right: 11px;">
+                <label class="amount">
+                                            100&euro;
+                                    </label>
+
+                <label class="description" style="font-size: 1rem;">
+                    Kaution
+                </label>
+            </div>
+
+            <div class="provision-equipment" style="padding: 23px 11px;">
+                <label class="amount">
+                                            n.a.
+                                    </label>
+
+                <label class="description" style="font-size: 0.9rem;">
+                    Ablösevereinbarung
+                </label>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="row noprint">
+    <hr class="hr-divider" />
+</div>
+
+
+    
+<div id="map_marker_info_8754768" class="display-none">
+    <div class="map_card">
+        <div class="row">
+            <div class="col-sm-8">
+                <div class="row noprint">
+                    
+                    <div class="col-xs-12">
+                        <h3 class="truncate_title noprint">
+                            WG Zimmer Passau/Ilzstadt zur Zwischenmiete
+                        </h3>
+                    </div>
+                </div>
+
+                <div class="row noprint">
+                    
+                    <div class="col-xs-12 map_card_details_truncate">
+                                                    <b>Zimmer in 3er WG </b><span> | </span>
+                        
+                                                    <b>12 m&sup2;</b><span> | </span>
+                        
+                                                                                    <b>246 &euro;</b>
+                                                                        </div>
+                    <div class="col-xs-12">
+                        <a class="cursor-pointer" href="wg-zimmer-in-Passau.8754768.html" target="_blank" rel="noopener noreferrer">
+                            Zur Anzeige
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            
+            <div class="col-sm-4">
+                <a href="/wg-zimmer-in-Passau.8754768.html" target="_blank" rel="noopener noreferrer">
+                                            <img src="https://img.wg-gesucht.de/media/up/2021/26/5eca5bec95873f12e4a19a907714272f9186001cf42fa967091ff2bf2397d0b1_20210622_153424.small.jpg" alt="" style="align-items: center;object-fit: cover;height: 100px;width: 100%;">
+                                    </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <script>
+        $(function() {
+            var map_config = {
+                map_id:                            "map",
+                osm_map_tiles_url:                 "https://www.wg-gesucht.de/api/tile/{z}/{x}/{y}.png",
+                markers:                           [{"lat":48.575539,"lng":13.47791,"icon":{"className":"map_marker_icon_center","iconSize":[60,60],"iconAnchor":[30,51],"popupAnchor":[1,-35]},"offer_id":"8754768","popup_id":"map_marker_info_8754768"}],
+                language:                          site_language,
+                display_surrounding_ads_id:        "display_surrounding_ads",
+                hide_surrounding_ads_id:           "hide_surrounding_ads",
+                surrounding_ads_popups_wrapper_id: "surrounding_offers_popups_wrapper",
+                min_log_level:                     "5"
+            };
+
+            window.osm_map = OsmMap(map_config);
+        });
+    </script>
+
+    
+    <div id="mapContainer" class="row noprint">
+        <div class="col-xs-12">
+            <h3 class="headline headline-detailed-view-panel-title">
+                Karte
+            </h3>
+        </div>
+
+        <div id="map"></div>
+
+        <div class="col-xs-12">
+            <button id="display_surrounding_ads" class="btn btn-md wgg_blue mb10 mt10" onclick="osm_map.displaySurroundingAds();" disabled>
+                Angebote in der Umgebung einblenden
+            </button>
+
+            <button id="hide_surrounding_ads" class="btn btn-md wgg_blue mb10 mt10 display-none" onclick="osm_map.hideSurroundingAds();">
+                Angebote in der Umgebung ausblenden
+            </button>
+        </div>
+    </div>
+
+    <div id="surrounding_offers_popups_wrapper"></div>
+
+    <div class="CLR"></div>
+
+    <div class="row noprint">
+        <hr class="hr-divider"/>
+    </div>
+
+    <script src="/js/external_libraries/leaflet/leaflet.min.js"></script>
+    <link rel="stylesheet" href="/assets/css/leaflet/leaflet.css"/>
+    <script src="/js/external_libraries/leaflet/Leaflet.fullscreen.min.js"></script>
+    <link rel="stylesheet" href="/assets/css/leaflet/leaflet.fullscreen.css"/>
+    <script src="/js/external_libraries/leaflet/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="/assets/css/leaflet/MarkerCluster.css"/>
+    <script src="/js/external_libraries/leaflet/leaflet-messagebox.min.js"></script>
+    <script src="/js/Asset/OsmMap.class.tjb1623102504.js"></script>
+
+
+    
+    <div class="row bottom_contact_box">
+        
+<div class="col-xs-12">
+    <h3 class="headline headline-detailed-view-panel-title">
+        Kontakt
+    </h3>
+            <div class="row">
+                            <div class="hidden-xs hidden-sm">
+                    <div class="col-md-8">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <b>Name:</b>
+                                                                                                            <img class="position-relative vis" src="t_ph.html?qrup=grap36&amp;id=8754768" alt="" style="bottom: 2px; max-width: 100%;"/>
+                                                                    
+                                
+                                <br>
+                                                                    <a class="cursor-pointer bottom_show_phone_numbers" href="#bottom_contacted_data_wrapper"><span class="mdi mdi-phone"></span>Telefonnummer anzeigen</a>
+                                    <a class="display-none bottom_hide_phone_numbers" href="#"><span class="mdi mdi-phone"></span>Telefonnummer ausblenden</a>
+                                                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <b>Mitglied seit:</b>
+                                Juni  2021
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <b>Anzeigennummer:</b>
+                                8754768
+                                <br/><br/>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="hidden-md hidden-lg noprint">
+                    <div class="col-xs-4 col-sm-2">
+                        <div class="profile_image_dav " style="background-image: url('/img/placeholder/no_profile_image_unisex.svg')" >
+                            <div class="online_status" ></div>
+                        </div>
+                    </div>
+
+                    <div class="col-xs-8 col-sm-10">
+                        <div class="mb10">
+                                                                                                <img class="vis" src="t_ph.html?qrup=grap36&amp;id=8754768" alt=""/>
+                                                            
+                                                    </div>
+
+                                                    <b>Mitglied seit:</b>
+                            </br>
+
+                            Juni  2021
+                            </br>
+                        
+                        
+                                                    <div class="CLR"></div>
+                            <span class="badge online_tour_badge" style="margin-top: 3px;">Online-Besichtigung</span>
+                        
+                        <br>
+                                                    <a class="bottom_show_phone_numbers cursor-pointer" href="#bottom_contacted_data_wrapper"><span class="mdi mdi-phone"></span>Telefonnummer anzeigen</a>
+                            <a class="bottom_hide_phone_numbers display-none" href="#"><span class="mdi mdi-phone"></span>Telefonnummer ausblenden</a>
+                                            </div>
+
+                    <div class="col-xs-12">
+                        <hr>
+                    </div>
+
+                    <div class="col-xs-6">
+                        <b>
+                                                            Angebot online:
+                                                    </b>
+                    </div>
+                    <div class="col-xs-6 text-right" style="color: #218700;"> 1 Tag</div>
+
+                    <div class="col-xs-6"><b>Anzeigennummer:</b></div>
+                    <div class="col-xs-6 text-right">8754768</div>
+                </div>
+
+                                                                                        <div class="col-md-5 hidden-xs pull-right noprint">
+                                                                                                            <a id="mailform" class="btn btn-md btn-block wgg_orange" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau-Ilzstadt.8754768.html" rel="nofollow">
+                                            <span class="mdi mdi-16px mdi-pad mdi-lh mdi-vm mdi-fw mdi-email" aria-hidden="true"></span>
+                                            Nachricht senden
+                                        </a>
+                                                                                                </div>
+                                                                <div class="col-md-5 hidden-xs pull-left noprint">
+                                                                                    <a class="btn btn-fb btn-md btn-block mb5" onClick="ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Ilzstadt.8754768.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Ilzstadt.8754768.html" rel="nofollow">
+                                    <span class="mdi mdi-18px mdi-lh mdi-share" aria-hidden="true"></span>
+                                    Auf Facebook teilen
+                                </a>
+                                                                        </div>
+                                    </div>
+    </div>
+
+    </div>
+
+
+    </div>
+</div>
+
+
+
+<div class="row visible-xs-block hidden-sm hidden-md hidden-lg">
+    <hr class="hr-divider" />
+</div>
+
+<div class="row mb15">
+    <div class="text-center noprint col-xs-12">
+        <div class="btn-group" role="group" aria-label="...">
+                            <div class="display-inline-block">
+                    <a title="Anzeige beanstanden" href="https://www.wg-gesucht.de/qs.html?id=8754768&ad_type=0" rel="nofollow" style="text-decoration: none;">
+                        <span class="mdi mdi-bullhorn mdi-18px mdi-lh" aria-hidden="true"></span>
+                        <br/>
+
+                        Beanstanden
+                    </a>
+                </div>
+                &nbsp;
+
+                <div class="display-inline-block">
+                    <a title="Anzeige drucken" href="#" onclick="window.print();return false;" style="text-decoration: none;">
+                        <span class="mdi mdi-printer mdi-18px mdi-lh"></span>
+                        <br/>
+
+                        Drucken
+                    </a>
+                </div>
+                    </div>
+    </div>
+</div>
+
+    <div id="partners_wrapper" class="mt10 noprint">
+                                    
+<div class="clicked_partner wgg_card airbnb_ad noprint">
+    <div class="row">
+        
+        <div class="col-sm-4 card_image">
+            <a class="partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" style="background-image: url(img/kooperationen/smava/groups/1.jpg);" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_1_lt_in_detail_ci_de_wg_1_ts_wg_www_trm_dom_dv1_Passau_s_www" data-partner_price="433" data-partner_category="0" data-partner_rent_type="1" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de"></a>
+        </div>
+
+        <div class="col-sm-8 card_body">
+            
+            <div class="row">
+                
+                <div class="col-sm-12">
+                    <h3 class="truncate_title" title="Keine Küche? Kredite vergleichen &amp; sparen">
+                        <a class="partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_1_lt_in_detail_ci_de_wg_1_ts_wg_www_trm_dom_dv1_Passau_s_www" data-partner_price="433" data-partner_category="0" data-partner_rent_type="1" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">
+                            Keine Küche? Kredite vergleichen & sparen
+                        </a>
+                    </h3>
+                </div>
+
+                
+                <div class="col-sm-12">
+                    <span>Unterkünfte vom 01.07.2021 bis zum 11.07.2021 in Passau</span>
+
+                                            <img class="vis" src="img/wgw.gif" alt="weiblich" width="10" height="17">
+                        <img class="vis" src="img/wgm.gif" alt="männlich" width="10" height="17" style="margin-left: 0;">
+                                    </div>
+            </div>
+
+            
+            <div class="row middle">
+                <div class="col-xs-8 col-sm-6">
+                                            <b>ab</b>
+                                                <b>
+                            <span>
+                                433 &euro;
+                            </span>
+                        </b>
+                        <b></b>
+                                    </div>
+                <div class="col-xs-4 col-sm-6">
+                    kostenlos und unverbindlich anfragen
+                </div>
+            </div>
+
+            
+            <div class="row" style="padding-top: 60px;">
+                <div class="col-sm-12 flex_space_between">
+                    <span></span>
+                    <a class="detailansicht partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" style="color: #898989;" data-partner_id="1" data-advertiser_partner="Smava" data-partner_position="1" data-partner_tranking_link="c_0_r_1_lt_in_detail_ci_de_wg_1_ts_wg_www_trm_dom_dv1_Passau_s_www" data-partner_price="433" data-partner_category="0" data-partner_rent_type="1" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">Anzeige</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+                        </div>
+
+    <script src="/ajax/api/Smp/js/Partners.tjb1598294659.js"></script>
+
+
+<div class="noprint">
+    
+<nav>
+    <div class="row pagination-ads noprint">
+        <div class="col-xs-4 text-left">
+                            &nbsp;
+                    </div>
+
+        <div class="col-xs-4 text-center">
+                            <a href="wg-zimmer-in-Passau.104.0.1.0.html#back_to_ad_8754768" onclick="ga('send', 'event', 'ads-pagination', 'click', 'results');">
+                    Treffer                </a>
+                    </div>
+
+        <div class="col-xs-4 text-right">
+                            &nbsp;
+                    </div>
+    </div>
+</nav>
+
+</div>
+
+<div class="noprint">
+    <small><sup>1</sup> Werbeanzeigen</small>&nbsp;
+</div>
+
+
+    
+<nav class="navbar navbar-fixed-bottom noprint hidden-sm hidden-md hidden-lg">
+    <div class="sticky_mobile_buttons">
+                                    <a class="btn wgg_orange noprint" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau-Ilzstadt.8754768.html" rel="nofollow" role="button">Nachricht senden</a>
+                    
+        
+            </div>
+
+    <div class="call-to-action">
+        <a class="btn btn-social btn-fb" onClick="ga('send', 'event', 'Buttons', 'share url', 'facebook button mobile cta');ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Ilzstadt.8754768.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Ilzstadt.8754768.html"></a>
+
+        <a class="btn btn-social btn-messenger" onClick="shareToFacebookMessenger(); ga('send', 'social', 'facebook_messenger', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Ilzstadt.8754768.html');" rel="nofollow"></a>
+
+        <a class="btn btn-social btn-wa" href="https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Ilzstadt.8754768.html" onClick="ga('send', 'social', 'whatsapp', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Ilzstadt.8754768.html');" rel="nofollow" target="_blank"></a>
+
+        <button class="btn btn-social btn-round wgg_orange create_favourite" data-ad_id="8754768" data-ad_type="0" data-favourite_status="0">
+            <span class="fav-button-8754768 mdi mdi-20px mdi-lh mdi-vm mdi-top1 mdi-heart-outline" aria-hidden="true"><i class="sr-only">Zu Favoriten hinzufügen</i></span>
+        </button>
+    </div>
+</nav>
+
+<script>
+    // Fix for iOS
+    // Safari couldn't read href
+    function shareToFacebookMessenger() {
+        var link = "https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Ilzstadt.8754768.html";
+
+        window.open('fb-messenger://share?link=' + link, "_self" );
+    }
+</script>
+
+
+<script src="/js/angebot_detail.min.tjb1604366072.js"></script>
+
+
+
+<script src="/js/User/ContactedData.class.tjb1616454948.js"></script>
+<script>
+    $(function() {
+        if (!window.contactedData) {
+            window.contactedData = ContactedData({
+                user_id: "13539998",
+                asset_id: "8754768",
+                asset_type: "0",
+                min_log_level: "5",
+                logged_in: ""
+            });
+        }
+    });
+</script>
+
+<script>
+    $(function() {
+        $(document).on('click', '.create_favourite', function() {
+            var ad_id   = $(this).data('ad_id');
+            var ad_type = $(this).data('ad_type');
+
+            if (!user_id) {
+                favourites.setFavouriteAd(ad_type, ad_id);
+                return;
+            }
+
+            favourites.createSingleFavourite(ad_id, ad_type);
+        });
+
+        $(document).on('click', '.delete_favourite', function() {
+            var ad_id   = $(this).data('ad_id');
+            var ad_type = $(this).data('ad_type');
+
+            if (!user_id) {
+                favourites.unsetFavouriteAd(ad_type, ad_id);
+                return;
+            }
+
+            favourites.deleteSingleFavourite(ad_id, ad_type);
+        });
+
+        $('.schufa_link').on('click', function() {
+            if (typeof ga === "function") {
+                ga('send', 'event', 'Schufa', 'Click_Textlink', 'detailed_view_offer');
+            }
+        });
+    });
+</script>
 
                     </div>
                     <div id="rhs_column" class="col-xs-12 col-md-4 col-md-pull-8 noprint">
                         
+<div style="height: 2.5em;"></div>
+
+
+<div class="panel panel-rhs-default rhs_contact_information hidden-sm">
+    <div class="panel-heading">
+        <h4 class="panel-title">
+            Kontaktinformationen
+            <span class="pull-right mdi mdi-26px mdi-lh mdi-vm mdi-chevron-down" aria-hidden="true"></span>
+            <span class="pull-right hidden mdi mdi-26px mdi-lh mdi-vm mdi-chevron-up" aria-hidden="true"></span>
+            <span class="sr-only">Einblenden</span>
+        </h4>
+    </div>
+    <div class="panel-body">
+        <div class="row">
+                                                <div class="col-md-4">
+                        <div class="profile_image_dav " style="background-image: url('/img/placeholder/no_profile_image_unisex.svg')" >
+                            <div class="online_status" ></div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-8">
+                        <div class="mb10">
+                                                                                                <img class="position-relative vis img-responsive" src="t_ph.html?qrup=grap36&amp;id=8754768" alt="" style="top: 3px;"/>
+                                                            
+                                                    </div>
+
+                                                    <b>Mitglied seit:</b>
+                            </br>
+
+                            Juni  2021
+                            </br>
+                        
+                        
+                                                    <div class="CLR"></div>
+                            <span class="badge online_tour_badge" style="margin-top: 3px;">Online-Besichtigung</span>
+                        
+                        <br>
+                                                    <a id="left_column_show_phone_numbers" class="cursor-pointer" href="#"><span class="mdi mdi-phone"></span>Telefonnummer anzeigen</a>
+                            <a id="left_column_hide_phone_numbers" class="display-none" href="#"><span class="mdi mdi-phone"></span>Telefonnummer ausblenden</a>
+                                            </div>
+
+                    <div class="col-md-12">
+                        <hr>
+                    </div>
+
+                    <div class="col-md-6">
+                        <b>
+                                                            Angebot online:
+                                                    </b>
+                    </div>
+                    <div class="col-md-6 text-right" style="color: #218700;"> 1 Tag</div>
+
+                    <div class="col-md-4"><b>Anzeigennummer:</b></div>
+                    <div class="col-md-8 text-right"> 8754768</div>
+
+                    <div class="col-md-12">&nbsp;</div>
+
+                                            <div class="col-md-12">
+                                                                                                <a class="btn btn-block btn-md wgg_orange" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau-Ilzstadt.8754768.html" rel="nofollow">
+                                        <span class="mdi mdi-16px mdi-pad mdi-lh mdi-vm mdi-fw mdi-email" aria-hidden="true"></span>
+                                        Nachricht senden
+                                    </a>
+                                                                                    </div>
+                    
+                    <div class="col-md-12 hidden-xs pull-right noprint mt5">
+                                                    <a class="btn btn-fb btn-md btn-block" onClick="ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Ilzstadt.8754768.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Ilzstadt.8754768.html" rel="nofollow">
+                                <span class="mdi mdi-18px mdi-lh mdi-fw mdi-share" aria-hidden="true"></span>
+                                Auf Facebook teilen
+                            </a>
+                                            </div>
+                                    </div>
+    </div>
+</div>
+
+
+    
+    
+    <div id="ad_notes_rhs" class="panel panel-rhs-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                Notizen
+                <span class="pull-right mdi mdi-26px mdi-lh mdi-vm mdi-chevron-down" aria-hidden="true"></span>
+                <span class="pull-right hidden mdi mdi-26px mdi-lh mdi-vm mdi-chevron-up" aria-hidden="true"></span>
+                <span class="sr-only">Einblenden</span>
+            </h4>
+        </div>
+        <div class="panel-body">
+            <span class="display-none cursor-pointer note_close rhs_box_link pull-right" onclick="closeNote();" style="margin:3px 5px 0 0;">Ausblenden</span>
+            <div style="padding: 0.2em;">
+<div id="note_form_8754768" class="note_form">
+            <span id="note_date_8754768" class="note_date">
+                            Neue Notiz:
+                    </span>
+    
+            <textarea id="note_textarea_8754768" rows="4" class="form-control note_textarea"></textarea>
+    
+    <br/>
+
+            <button id="notes_login_save_8754768" class="notes_login_save btn btn-block wgg_blue">
+            Speichern
+        </button>
+    </div>
+
+<script>
+    
+    var ad_id                = 8754768;
+    var fetched_ad_note_text = 'null' ? '' : '';
+    var ad_detail_view       = '1';
+</script>
+</div>
+        </div>
+    </div>
+
+
+<script src="/js/lib/adFormManipulation.lib.tjb1623102504.js"></script>
+<script src="/js/Asset/AdNotes.class.tjb1623707094.js"></script>
+
+<script>
+    var config = {
+        user_id:       user_id,
+        view:          "ad_detailed_view",
+        min_log_level: "5"
+    }
+    window.adNotes = AdNotes(config);
+</script>
+
+
+
+<div class="panel panel-rhs-default">
+    <div class="panel-heading">
+        <h4 class="panel-title">
+            Anzeigensuche
+            <span class="pull-right mdi mdi-26px mdi-lh mdi-vm mdi-chevron-down" aria-hidden="true"></span>
+            <span class="pull-right hidden mdi mdi-26px mdi-lh mdi-vm mdi-chevron-up" aria-hidden="true"></span>
+            <span class="sr-only">Einblenden</span>
+        </h4>
+    </div>
+
+    <div id="search_asset_form" class="panel-body position-relative">
+        <div class="display-block form-inline">
+            <input id="searched_asset_id" class="form-control" type="tel" name="searched_asset_id" placeholder="Anzeigennummer eingeben" maxlength="9" size="25">
+            <input id="ad_search_submit" class="btn btn-sm wgg_gray FR mt-xs-5" type="button" value="Suchen" disabled>
+        </div>
+
+        <div id="ad_search_error" class="hidden">
+            <p class="text-danger mt5">
+                Es wurde keine Anzeige mit der Nummer &quot;<span id="ad_search_error_id"></span>" gefunden.<br>Bitte überprüfen Sie Ihre Eingabe.            </p>
+        </div>
+    </div>
+</div>
+
+<script src="/js/Asset/SearchAsset.class.tjb1617663385.js"></script>
+<script>
+    $(function() {
+        if(!window.searchAsset){
+            window.searchAsset = SearchAsset({
+                min_log_level: '5'
+            });
+        }
+    });
+</script>
+
+
+
+                        <div style="width: 300px; margin: 10px auto;">
+                <!-- /1009105/d_HPA_AG_detail_LHS2 -->
+                <div id='div-gpt-ad-1579037206635-0'>
+                <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1579037206635-0'); });
+                </script>
+                </div>
+            </div>
+            
+    
+<div class="panel panel-rhs-default">
+    <div class="panel-heading">
+        <h4 class="panel-title">
+            <div>
+                Service dazubuchen
+                <small class="position-relative" style="font-size:0.6em; bottom:5px;">1</small>
+            </div>
+            <span class="pull-right mdi mdi-26px mdi-lh mdi-vm mdi-chevron-down" aria-hidden="true"></span>
+            <span class="pull-right hidden mdi mdi-26px mdi-lh mdi-vm mdi-chevron-up" aria-hidden="true"></span>
+            <span class="sr-only">Einblenden</span>
+        </h4>
+    </div>
+
+    <div class="panel-body">
+        <a class="rhs_box_link" href="/moving_service.html?tracking_view=moving_service_long" target="_blank" rel="nofollow">
+            Jetzt Umzugsfirma beauftragen
+        </a>
+    </div>
+</div>
+
+
+    
+<div style="margin: 15px 0;">
+            <a href="https://www.facebook.com/wggesucht.de/" rel="nofollow" target="_blank">
+            <img class="img-responsive" src="img/follow_us_on_facebook.jpg">
+        </a>
+    </div>
+
+    
+<div class="hidden-xs hidden-sm display-none noprint contact_box_sticky">
+    <div class="row">
+        <div class="col-md-2">
+            <div class="profile_image_dav " style="background-image: url('/img/placeholder/no_profile_image_unisex.svg'); margin: auto 10px;" >
+                <div class="online_status" ></div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mt5">
+            <div class="row">
+                <div class="col-md-12">
+                                                                        <img class="position-relative vis img-responsive" src="t_ph.html?qrup=grap36&amp;id=8754768" alt=""/>
+                                            
+                                    </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                                            <b>Mitglied seit:</b>
+                        Juni  2021
+                                    </div>
+
+
+                <div class="col-md-6">
+                    <b>
+                                                    Angebot online:
+                                            </b>
+                    <span style="color: #218700;"> 1 Tag</span>
+                </div>
+            </div>
+            <div class="row">
+                
+                <div class="col-md-6 pull-right">
+                    <b>Anzeigennummer:</b>
+                    8754768
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+                            <a class="btn btn-fb btn-md btn-block" onClick="ga('send', 'social', 'facebook', 'share', 'https://www.wg-gesucht.de/wg-zimmer-in-Passau-Ilzstadt.8754768.html');" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wg-gesucht.de%2Fwg-zimmer-in-Passau-Ilzstadt.8754768.html" rel="nofollow" style="margin-top: 30px;">
+                    <span class="mdi mdi-18px mdi-lh mdi-fw mdi-share" aria-hidden="true"></span>
+                    Auf Facebook teilen
+                </a>
+                    </div>
+
+                    <div class="col-md-3">
+                                                            <a class="btn btn-block btn-md wgg_orange" href="https://www.wg-gesucht.de/nachricht-senden/wg-zimmer-in-Passau-Ilzstadt.8754768.html" rel="nofollow" style="margin-top: 30px;">
+                            <span class="mdi mdi-16px mdi-pad mdi-lh mdi-vm mdi-fw mdi-email" aria-hidden="true"></span>
+                            Nachricht senden
+                        </a>
+                                                </div>
+            </div>
+</div>
+
+
+<script>
+    $(function() {
+        // Give the sticky the main body's width
+        $('.contact_box_sticky').width($('#site_wrapper').width());
+
+        $(window).on('resize', function() {
+            $('.contact_box_sticky').width($('#site_wrapper').width());
+        });
+
+        $(document).on('scroll', function() {
+            if (checkElementVisibility('.rhs_contact_information') === false && checkElementVisibility('.bottom_contact_box') === false && checkElementVisibility('.language_wrapper') === false) {
+                $('.contact_box_sticky').slideDown('fast');
+            } else {
+                $('.contact_box_sticky').slideUp('fast');
+            }
+        });
+    });
+</script>
+
 
                     </div>
                                     </div>
@@ -734,6 +2202,11 @@
     <div id="breadcrumb_wrapper" class="noprint container" style="background: #fff;">
         <div class="row">
             <div class="col-xs-12">
+                                    <ol class="breadcrumb">
+                        <li><a href="https://www.wg-gesucht.de/">Start</a></li>
+                                                    <li><a href="https://www.wg-gesucht.de/wohnraumangebote.html">Wohnungsmarkt</a></li>
+                                                <li><a href="wg-zimmer-in-Passau.104.0.1.0.html">WG-Zimmer in Passau</a></li>
+                    </ol>
                             </div>
         </div>
     </div>
@@ -766,13 +2239,13 @@
 
     <ul class="dropdown-menu dropdown-menu" role="menu">
         <li role="presentation">
-            <a class="language_flag" role="menuitem" href="/cuba.html?page=/wg-zimmer-in-Passau-Ilzstadt.8754768.html" onClick="deleteCookie('site_language');">Deutsch</a>
+            <a class="language_flag" role="menuitem" href="/wg-zimmer-in-Passau-Ilzstadt.8754768.html" onClick="deleteCookie('site_language');">Deutsch</a>
         </li>
         <li role="presentation">
-            <a class="language_flag" role="menuitem" href="/en/cuba.html?page=/wg-zimmer-in-Passau-Ilzstadt.8754768.html" onClick="setCookie('site_language', 'en', 3650, '/');">English</a>
+            <a class="language_flag" role="menuitem" href="/en/wg-zimmer-in-Passau-Ilzstadt.8754768.html" onClick="setCookie('site_language', 'en', 3650, '/');">English</a>
         </li>
         <li role="presentation">
-            <a class="language_flag" role="menuitem" href="/es/cuba.html?page=/wg-zimmer-in-Passau-Ilzstadt.8754768.html" onClick="setCookie('site_language', 'es', 3650, '/');">Español</a>
+            <a class="language_flag" role="menuitem" href="/es/wg-zimmer-in-Passau-Ilzstadt.8754768.html" onClick="setCookie('site_language', 'es', 3650, '/');">Español</a>
         </li>
     </ul>
 </div>
@@ -783,7 +2256,20 @@
                 </div>
                 <hr class="hr-divider"/>
             
-            
+                                                
+                    <div id="ros_bottom" class="noprint" style="width: 100%; margin-top: 10px;" align="center">
+                        <div id="WGG_d_Bigsize_ROS_bottom" style="width:728px; height:90px; margin: 0; padding:0;">
+                        </div>
+                    </div>
+                    <script type="text/javascript">
+                        var OX_ads = OX_ads || [];
+                        OX_ads.push({
+                         slot_id: "WGG_d_Bigsize_ROS_bottom",
+                         auid: "540890071"
+                        });
+                    </script>
+                    <script type="text/javascript" src="//wg-gesucht-d.openx.net/w/1.0/jstag"></script>
+                            
             
                                                 
 <div class="row">
@@ -863,6 +2349,7 @@
                                         <br class="CLR" />
 
             
+                            <div class="hidden-sm hidden-md hidden-lg" style="height: 100px;">&nbsp;</div>
             
                     </div>
         </div>
@@ -897,6 +2384,7 @@
         });
     </script>
 
+            
     
     
             <script src="/js/external_libraries/emailCrypt.min.js"></script>

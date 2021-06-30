@@ -47,7 +47,7 @@ Dieses freie Zimmer grenzt an die Wohnküche und ist...">
                             <link rel="stylesheet" type="text/css" href="/assets/css/featherlight/featherlight.min.tjb1553536894.css" media="screen"/>
                 <link rel="stylesheet" type="text/css" href="/assets/css/croppie.min.tjb1598913401.css" media="screen"/>
                             
-                <link rel="stylesheet" type="text/css" href="/assets/css/wgg-styles-compiled.min.tjb1624305400.css" media="screen"/>
+                <link rel="stylesheet" type="text/css" href="/assets/css/wgg-styles-compiled.min.tjb1624968440.css" media="screen"/>
                     
                 <link rel="stylesheet" type="text/css" href="/assets/css/master_printer-2-3-5.min.css" media="print"/>
 
@@ -235,7 +235,7 @@ Dieses freie Zimmer grenzt an die Wohnküche und ist...">
             });
         }
     </script>
-    <script src="/js/lib/Services.lib.tjb1623707094.js"></script>
+    <script src="/js/lib/Services.lib.tjb1624913261.js"></script>
 
     
     <script src="/js/lib/ProfileManipulation.lib.tjb1623102504.js"></script>
@@ -744,6 +744,7 @@ Dieses freie Zimmer grenzt an die Wohnküche und ist...">
             });
         </script>
 
+        
 
         
         
@@ -956,7 +957,7 @@ Dieses freie Zimmer grenzt an die Wohnküche und ist...">
 
                     <span class="noprint">
                 
-<a href="/moving_service.html?tracking_view=moving_service_short" target="_blank" rel="nofollow" style=" ">
+<a href="/moving_service.html?tracking_view=moving_service_short" target="_blank" rel="nofollow" style="text-decoration: underline; ">
     Umzugsfirma beauftragen
 </a>
 <small class="position-relative" style="font-size: 0.6em; bottom: 5px;">1</small>
@@ -981,7 +982,7 @@ Dieses freie Zimmer grenzt an die Wohnküche und ist...">
                     
 
 <a href="https://www.wg-gesucht.de/kreditvergleich.html" target="_blank" rel="nofollow" onclick="ga('send', 'event', 'Tarifcheck', 'Click_Textlink', 'detailed_view_offer');">
-                        Überbrückungskredit zu Top-Konditionen - schon ab 0,68 % Zinsen, schnelle Auszahlung.
+                        Keine Küche, hohe Kaution? Kredite vergleichen &amp; sparen
             </a>
 <small class="position-relative" style="font-size: 0.6em; bottom: 5px;">1</small>
 
@@ -1001,7 +1002,7 @@ Dieses freie Zimmer grenzt an die Wohnküche und ist...">
             
 
 <a href="https://www.wg-gesucht.de/kreditvergleich.html" target="_blank" rel="nofollow" onclick="ga('send', 'event', 'Tarifcheck', 'Click_Textlink', 'detailed_view_offer');">
-                        Überbrückungskredit zu Top-Konditionen - schon ab 0,68 % Zinsen, schnelle Auszahlung.
+                        Keine Küche, hohe Kaution? Kredite vergleichen &amp; sparen
             </a>
 <small class="position-relative" style="font-size: 0.6em; bottom: 5px;">1</small>
 
@@ -1742,7 +1743,7 @@ Wir freuen uns auf dich!
     <div class="row">
         
         <div class="col-sm-4 card_image">
-            <a class="partners" href="https://www.wg-gesucht.de/bonitaetscheck.html?utm_campaign=schufa&amp;utm_source=detail_view_ad" rel="nofollow" target="_blank" style="background-image: url(img/kooperationen/schufa/groups/zertifikat.png);" data-partner_id="1" data-advertiser_partner="Schufa" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="299" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de"></a>
+            <a class="partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" style="background-image: url(img/kooperationen/tarifcheck/groups/1.jpg);" data-partner_id="1" data-advertiser_partner="Tarifcheck" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="475" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de"></a>
         </div>
 
         <div class="col-sm-8 card_body">
@@ -1750,27 +1751,35 @@ Wir freuen uns auf dich!
             <div class="row">
                 
                 <div class="col-sm-12">
-                    <h3 class="truncate_title" title="Erfolgschancen erhöhen mit BonitätsCheck">
-                        <a class="partners" href="https://www.wg-gesucht.de/bonitaetscheck.html?utm_campaign=schufa&amp;utm_source=detail_view_ad" rel="nofollow" target="_blank" data-partner_id="1" data-advertiser_partner="Schufa" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="299" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">
-                            Erfolgschancen erhöhen mit BonitätsCheck
+                    <h3 class="truncate_title" title="Keine Küche? Kredite vergleichen &amp; sparen">
+                        <a class="partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" data-partner_id="1" data-advertiser_partner="Tarifcheck" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="475" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">
+                            Keine Küche? Kredite vergleichen & sparen
                         </a>
                     </h3>
                 </div>
 
                 
                 <div class="col-sm-12">
-                    <span>Jetzt beantragen und für die Besichtigung top vorbereitet sein</span>
+                    <span>auch für hohe Kautionen geeignet, schnelle Auszahlung, günstige Zinsen</span>
 
+                                            <img class="vis" src="img/wgw.gif" alt="weiblich" width="10" height="17">
+                        <img class="vis" src="img/wgm.gif" alt="männlich" width="10" height="17" style="margin-left: 0;">
                                     </div>
             </div>
 
             
             <div class="row middle">
                 <div class="col-xs-8 col-sm-6">
-                                            <b style="font-size: 1.7rem; white-space: initial;">einmalig 29,95 € inkl. MwSt.</b>
+                                            <b>ab</b>
+                                                <b>
+                            <span>
+                                475 &euro;
+                            </span>
+                        </b>
+                        <b></b>
                                     </div>
                 <div class="col-xs-4 col-sm-6">
-                    in 3 Minuten verfügbar
+                    kostenlos und unverbindlich anfragen
                 </div>
             </div>
 
@@ -1778,7 +1787,7 @@ Wir freuen uns auf dich!
             <div class="row" style="padding-top: 60px;">
                 <div class="col-sm-12 flex_space_between">
                     <span></span>
-                    <a class="detailansicht partners" href="https://www.wg-gesucht.de/bonitaetscheck.html?utm_campaign=schufa&amp;utm_source=detail_view_ad" rel="nofollow" target="_blank" style="color: #898989;" data-partner_id="1" data-advertiser_partner="Schufa" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="299" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">Anzeige</a>
+                    <a class="detailansicht partners" href="https://www.wg-gesucht.de/kreditvergleich.html" rel="nofollow" target="_blank" style="color: #898989;" data-partner_id="1" data-advertiser_partner="Tarifcheck" data-partner_position="1" data-partner_tranking_link="c_0_r_0_lt_in_detail_ci_de_wg_1_ts_wg_www_opn_dom_dv1_Passau_s_www" data-partner_price="475" data-partner_category="0" data-partner_rent_type="0" data-partner_city_id="104" data-partner_view="in_detail" data-country_code="de" data-display_language="de">Anzeige</a>
                 </div>
             </div>
         </div>
@@ -2102,8 +2111,8 @@ Wir freuen uns auf dich!
 
     
 <div style="margin: 15px 0;">
-            <a href="https://www.facebook.com/wggesucht.de/" rel="nofollow" target="_blank">
-            <img class="img-responsive" src="img/follow_us_on_facebook.jpg">
+            <a href="https://www.instagram.com/wggesuchtde/" rel="nofollow" target="_blank">
+            <img class="img-responsive" src="img/follow_us_on_instagram.jpg">
         </a>
     </div>
 
