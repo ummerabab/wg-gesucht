@@ -1,7 +1,7 @@
 import pandas as pd
 from textblob_de import TextBlobDE as TextBlob
 
-df = pd.read_csv('dataset.csv', sep=',')
+df = pd.read_csv('dataset_P+R.csv', sep=',')
 text = df['WG-Leben']
 text = df['Lage']
 text = df['Sonstiges']
