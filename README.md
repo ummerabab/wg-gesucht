@@ -23,7 +23,7 @@ Using "pip install" download the following libraries :
 - Selenium
 - Scipy
 
-# Load selenium components
+## Load selenium components
 
 from selenium import webdriver
 
